@@ -34,7 +34,7 @@ class Main(object):
             s = Segment(r, entities_dict, missing_entities)
             export['segments'].append(s.to_object())
         with open('data/pellaton.json', 'w') as outfile:
-            json.dump(export, outfile, indent=4)
+            json.dump(export, outfile, indent = 4, ensure_ascii = False)
         print('--- Missing entities ---')
         print('\n'.join(sorted(list(missing_entities), key = str.lower)))
         print('--- Duplicate entities ---')
