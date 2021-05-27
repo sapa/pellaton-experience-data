@@ -75,11 +75,16 @@ class Main(object):
         return sum([pow(60, len(tcl) - i - 1) * int(x) for i, x in enumerate(tcl)])
 
     def cleanup_segment(self, segment: str) -> str:
-        segment = segment.replace('[Anm. Transkription:', '(').replace(']',')').replace('(unv.)', '(?)').replace('...', '…').strip()
+        segment = segment.replace('[Anm. Transkription:', '(').replace(']',')').replace('...', '…').strip()
+        # remove '(unv.)' and '(?)'
+        segment = re.sub(r'\(unv\.\)', '', segment)
+        segment = re.sub(r'\(\?\)', '', segment)
         # add space before eplipsis
         segment = re.sub(r'(?<=\w)…', ' …', segment)
         # delete multiple spaces
         segment = re.sub(r'\s+', ' ', segment)
+        # delete spaces before common and period
+        segment = re.sub(r'\s+(?=[\,\.])', '', segment)
         return segment
 
     def get_entities(self, segment: str) -> list:

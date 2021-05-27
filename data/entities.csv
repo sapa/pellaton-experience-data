@@ -256,6 +256,7 @@ Danke Ursula,PER
 Darf ich Dich,MISC
 Dartington Hall,LOC
 Das Schlimme,MISC
+Das nächste Jahr,MISC
 David,PER
 David Bowie,PER
 Den Herrn Spuck im Nacken,MISC
@@ -299,6 +300,7 @@ Du,PER
 "Du archivierst alles, was du schreibst und liest",MISC
 Du bist,MISC
 Du bist Ballettexpertin,MISC
+Du bist – I,MISC
 Du da,MISC
 Du da nicht Lust – also Lust hast Du,MISC
 Du freust dich,MISC
@@ -448,7 +450,6 @@ Goeke,PER
 Goethe,PER
 Goldberg,PER
 Goldberg-Variationen,MISC
-Goldenstein,MISC
 Goslar,LOC
 Gotta,PER
 Gottfried Keller,PER
@@ -476,7 +477,6 @@ Göbekli Tepe,PER
 Götti,PER
 HAST,MISC
 HEUTE,LOC
-Hagia Sofia,LOC
 Hagia Sophia,LOC
 Halbspitze,LOC
 Hallerstadt,LOC
@@ -608,7 +608,7 @@ Jude,MISC
 Juden,MISC
 Julia,MISC;PER
 Julia Markus,PER
-Julia“ von,PER
+Julia“,PER
 Juni-Festwochen,MISC
 Jupiter Symphonie,MISC
 Juri Ackermann,PER
@@ -1040,7 +1040,7 @@ Rigiblick,LOC
 Rink,PER
 Robbins,PER
 Rock the Ballet,ORG
-Roger,MISC;PER
+Roger,PER
 Rokoko-artig,MISC
 Rolleneinteilungen,MISC
 Romeo,MISC;PER
