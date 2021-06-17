@@ -15,7 +15,7 @@ The transcripts need to be cleaned from unwanted comments while additional timec
 The spreadsheet file contains three sheets:
 
 * "entities" contains a list of normalized entity labels with alternatives, types, and identifiers for additional information.
-* "additional" contains a list of entity labels with variatons and types that are not found via ENR but should be added.
+* "additional" contains a list of entity labels with variatons and types that are not found via ENR but should be added and entity labels, which are found but assinged to a wrong type (e.g. "Basel" is classified as "LOC" and "ORG" and hereby defined as "LOC").
 * "ignore" contains a list of entity labels that are found via NER but should not be used.
 
 The transformation of the data is done with two scripts:

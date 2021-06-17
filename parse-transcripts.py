@@ -42,7 +42,11 @@ class Main(object):
                 for e in entities:
                     if e[0] not in self.entities_dict:
                         self.entities_dict[e[0]] = set()
-                    self.entities_dict[e[0]].add(e[1])
+                    if e[0].lower() in self.additional_dict:
+                        # correct category?
+                        self.entities_dict[e[0]] = set([self.additional_dict[e[0].lower()][1]])
+                    else:
+                        self.entities_dict[e[0]].add(e[1])
                 entities = [e[0] for e in entities]
                 self.segments.append(Segment(transcript_id, starts[i], segment, entities))
 
