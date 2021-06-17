@@ -26,7 +26,7 @@ class Main(object):
         ignore_df = pd.read_excel('data/edited-entities.xlsx', 'ignore', usecols=['name'])
         self.ignore_set = set([r['name'].lower() for _, r in ignore_df.iterrows()])
         print('parsing transcripts ...')
-        self.timecode_pattern = re.compile(r'\(.{2}:.{2}\)|\(.{1}:.{2}:.{2}\)')
+        self.timecode_pattern = re.compile(r'[\(\[].{2}:.{2}[\)\]]|[\(\[].{1,2}:.{2}:.{2}[\)\]]')
         self.entities_dict = dict()
         self.segments = []
         transcript_id: int = 0
@@ -75,7 +75,7 @@ class Main(object):
 
     def convert_timecode(self, tc: str) -> int:
         # convert timecode like in seconds - '(01:23)' -> 83
-        tcl = tc.strip('()').split(':')
+        tcl = tc.strip('()[]').split(':')
         return sum([pow(60, len(tcl) - i - 1) * int(x) for i, x in enumerate(tcl)])
 
     def cleanup_segment(self, segment: str) -> str:
