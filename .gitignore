@@ -129,3 +129,8 @@ dmypy.json
 .pyre/
 .vscode/settings.json
 README.md
+
+# local, temp files
+~$**
+.DS_Store
+.idea
