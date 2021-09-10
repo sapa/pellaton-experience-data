@@ -1,0 +1,2 @@
+{"label":"PROC","pattern":[{"lower":"unterricht"}]}
+{"label":"TEST","pattern":[{"lower":"schreiben"},{"lower": "nervt"} ]}

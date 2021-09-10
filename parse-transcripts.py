@@ -4,6 +4,7 @@ import csv
 from collections import namedtuple
 from datetime import datetime
 import spacy
+from spacy.pipeline import EntityRuler
 import pandas as pd
 
 Segment = namedtuple('Segment', ['video', 'start', 'text', 'entities'])
@@ -13,7 +14,10 @@ class Main(object):
         print('loading model ...')
         self.nlp = spacy.load('de_core_news_lg', exclude = ['ner'])
         self.nlp.add_pipe('ner', source = spacy.load('de_core_news_lg'))
-        self.nlp.add_pipe('entity_ruler', before = 'ner')
+        ruler = self.nlp.add_pipe('entity_ruler', before = 'ner')
+        ruler.from_disk("data/custom.jsonl")
+        # ruler.to_disk("data/patterns.jsonl")  # saves patterns only
+        ruler.to_disk("data/.swap/entity_ruler")
         additional_df = pd.read_excel('data/edited-entities.xlsx', 'additional', usecols=['name', 'variations', 'type'])
         self.additional_dict = dict()
         for _, r in additional_df.iterrows():
