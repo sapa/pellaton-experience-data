@@ -79,7 +79,7 @@ class Main(object):
         return sum([pow(60, len(tcl) - i - 1) * int(x) for i, x in enumerate(tcl)])
 
     def cleanup_segment(self, segment: str) -> str:
-        segment = segment.replace('[Anm. Transkription:', '(').replace(']',')').replace('...', '…').strip()
+        segment = segment.replace('...', '…').strip()
         # remove '(unv.)' and '(?)'
         segment = re.sub(r'\(unv\.\)', '', segment)
         segment = re.sub(r'\(\?\)', '', segment)
