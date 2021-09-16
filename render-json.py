@@ -106,7 +106,7 @@ class Segment(object):
     def __init__(self, r: pd.Series, entities_dict: dict, missing_entities: set):
         self.video = r['video']
         self.start = r['start']
-        self.text = r['text']
+        self.text = str(r['text'])
         self.entities = [] 
         if not pd.isnull(r['entities']):
             for e in re.split(r'\s*;\s*', str(r['entities']).strip()):

@@ -3609,7 +3609,7 @@
         {
             "video": 1,
             "start": 9519,
-            "text": NaN
+            "text": "nan"
         },
         {
             "video": 1,
@@ -3662,7 +3662,7 @@
         {
             "video": 1,
             "start": 9651,
-            "text": NaN
+            "text": "nan"
         },
         {
             "video": 1,
@@ -11958,7 +11958,7 @@
         {
             "video": 3,
             "start": 4794,
-            "text": NaN
+            "text": "nan"
         },
         {
             "video": 3,
@@ -12057,7 +12057,7 @@
         {
             "video": 3,
             "start": 5059,
-            "text": NaN
+            "text": "nan"
         },
         {
             "video": 3,
@@ -14977,7 +14977,7 @@
         {
             "video": 3,
             "start": 12266,
-            "text": NaN
+            "text": "nan"
         },
         {
             "video": 4,
