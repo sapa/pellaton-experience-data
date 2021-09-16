@@ -84,7 +84,7 @@ class Entity(object):
             return None
 
     def to_object(self) -> object:
-        r = {'entity': self._name, 'type': self._type}
+        r = {'name': self._name, 'type': self._type}
         if self.variations:
             r['variations'] = self.variations
         if self.wikidata:
