@@ -76,6 +76,7 @@ Auflagezahlen,MISC
 Aufm PC,PER
 Aufsatzschreiben,LOC
 Aughterlony,ORG
+Ausbildung,PROC
 Ausdruckstanzbereich,LOC
 Ausdruckstanzes,LOC
 Ausdruckstänzerin,PER
@@ -511,6 +512,7 @@ Halbspitze,LOC
 Hallenstadion,LOC
 Hamburg,LOC
 Handlungsballett,PER
+Handwerk,PROC
 Hannover,LOC
 Hans Brandenberg,PER
 Hans Macke,PER
@@ -1390,7 +1392,6 @@ Uni Zürich,ORG
 Universität,ORG
 Universität Zürich,ORG
 Unruhiges,PER
-Unterricht,PROC
 Unv.,PER
 Urfa,LOC
 Urgrossvater,MISC
@@ -1408,6 +1409,7 @@ VOLLSTÄNDIG,LOC
 VW Caravan,MISC
 Valérie Preston-Dunlop,PER
 Van Mannen,PER
+Variation getanzt,PROC
 Vashegyi,LOC
 Vaslaw Nijinsky,PER
 Venedig,LOC
@@ -1590,6 +1592,8 @@ zweiten Weltkrieg,MISC
 ÜBERALL,ORG
 Überirdische,LOC
 Übertriebenes,PER
+Übung macht,PROC
+Übungen sind,PROC
 à la Graham,PER
 ägyptische,MISC
 ​,LOC
