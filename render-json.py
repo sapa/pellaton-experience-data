@@ -11,7 +11,7 @@ class Main(object):
     def __init__(self, wikidata: bool = False):
         self.sapa_pattern = re.compile(r'http:\/\/data\.performing-arts\.ch\/\w\/[0-9a-f\-]{36}')
         self.wikidata_pattern = re.compile(r'http:\/\/www\.wikidata\.org\/entity\/Q\d+')
-        entities_df = pd.read_excel('data/edited-entities.xlsx', 'entities', usecols=['name', 'variations', 'type', 'wikidata', 'sapa', 'image'])
+        entities_df = pd.read_excel('data/merged-entities.xlsx', 'entities', usecols=['entity', 'variations', 'type', 'wikidata', 'sapa', 'image'])
         segments_df = pd.read_csv('data/segments.csv')
         export = {'segments': [], 'entities': []}
         entities_dict = dict()
@@ -45,7 +45,7 @@ class Main(object):
 class Entity(object):
     def __init__(self, r: pd.Series, check_wikidata: bool = False):
         self.check_wikidata = check_wikidata
-        self._name = r['name']
+        self._name = r['entity']
         self._type = r['type']
         self.variations = []
         if not pd.isnull(r['variations']) and r['variations'].strip() != '':
@@ -106,7 +106,7 @@ class Segment(object):
     def __init__(self, r: pd.Series, entities_dict: dict, missing_entities: set):
         self.video = r['video']
         self.start = r['start']
-        self.text = r['text']
+        self.text = str(r['text'])
         self.entities = [] 
         if not pd.isnull(r['entities']):
             for e in re.split(r'\s*;\s*', str(r['entities']).strip()):

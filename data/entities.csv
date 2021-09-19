@@ -76,6 +76,7 @@ Auflagezahlen,MISC
 Aufm PC,PER
 Aufsatzschreiben,LOC
 Aughterlony,ORG
+Ausbildung,PROC
 Ausdruckstanzbereich,LOC
 Ausdruckstanzes,LOC
 Ausdruckstänzerin,PER
@@ -116,7 +117,7 @@ Ballettchefs,ORG
 Ballettgastspiele,MISC
 Ballettkompanien,LOC
 Ballettleiter,PER
-Ballettschule Zürich,LOC
+Ballettschule Zürich,ORG
 Ballonné,LOC
 Ballotté,LOC
 Barbara,PER
@@ -223,7 +224,7 @@ Chopin,PER
 Chopiniana,MISC
 Choreo- grafie-Wettbewerb 1932,MISC
 Choreografie-Wettbewerb,MISC
-Choreutik,ORG
+Choreutik,ORG;PER
 Christian Spuck,PER
 Christina Thurner,PER
 Christine Merz,PER
@@ -331,7 +332,7 @@ Du tanzt,MISC
 Du was meinst du,MISC
 Du willst,MISC
 Dubois,PER
-Dummkopf,MISC
+Dummkopf,PER
 Duncan,PER
 Dunkeln,LOC
 Durban,LOC
@@ -511,6 +512,7 @@ Halbspitze,LOC
 Hallenstadion,LOC
 Hamburg,LOC
 Handlungsballett,PER
+Handwerk,PROC
 Hannover,LOC
 Hans Brandenberg,PER
 Hans Macke,PER
@@ -756,12 +758,12 @@ Lausanne,LOC
 Lausanner,LOC
 Laxenburg,LOC
 Leeder,LOC;ORG;PER
-Leeder)-Stunde,MISC
 Leeder-Artikel,LOC
 Leeder-Ausstellung,ORG
 Leeder-Nachlass,MISC
 Leeder-Schüler,LOC
 Leeder-Schülern,LOC
+Leeder]-Stunde,PER
 Leederund,LOC
 Leipzig,LOC
 Leningrad,LOC
@@ -1325,7 +1327,7 @@ Tanzvorstellungen,LOC
 Tanzwissenschaft,LOC;ORG
 Tatjana Gsovsky,PER
 Teen-Meet,LOC
-Terpis,LOC;MISC
+Terpis,LOC;MISC;PER
 Tessin,LOC
 Thaddäus Kloster,LOC
 The show must go on,MISC
@@ -1407,6 +1409,7 @@ VOLLSTÄNDIG,LOC
 VW Caravan,MISC
 Valérie Preston-Dunlop,PER
 Van Mannen,PER
+Variation getanzt,PROC
 Vashegyi,LOC
 Vaslaw Nijinsky,PER
 Venedig,LOC
@@ -1578,6 +1581,7 @@ spanische,MISC
 spanischen,MISC
 taZ,LOC
 ungarischen,MISC
+unterricht,PROC
 wasLeeder,MISC
 zuChopin,LOC
 zweiten Weltkrieg,MISC
@@ -1588,6 +1592,8 @@ zweiten Weltkrieg,MISC
 ÜBERALL,ORG
 Überirdische,LOC
 Übertriebenes,PER
+Übung macht,PROC
+Übungen sind,PROC
 à la Graham,PER
 ägyptische,MISC
 ​,LOC

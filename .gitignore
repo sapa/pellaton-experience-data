@@ -134,3 +134,5 @@ README.md
 ~$**
 .DS_Store
 .idea
+data/.swap/**
+!data/.swap/.gitkeep
