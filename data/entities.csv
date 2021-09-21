@@ -558,7 +558,6 @@ Hutchinson-Guest,PER
 Händel,PER
 Häsler,PER
 Hässliche,LOC
-I,LOC;MISC;ORG;PER
 I.,PER
 I: Gut,LOC
 I: Meinst du,ORG
@@ -657,7 +656,6 @@ Jürg,PER
 Jürg Burth,PER
 Jürg [,PER
 K,MISC;PER
-K/,MISC
 K/R,MISC
 KLEINE Fotos,MISC
 KV,ORG
@@ -989,10 +987,8 @@ Ostdeutschland,ORG
 Ostern,MISC
 Ostersamstag,MISC
 Otello,MISC
-P,LOC;MISC;ORG;PER
 P Ja,LOC
 P:,MISC;PER
-P: Ich,MISC
 P: Ja,MISC
 PC,MISC
 PERFEKT,ORG
@@ -1543,7 +1539,6 @@ Zürichsee-Zeitung,ORG
 afrikanische,MISC
 afrikanischen,MISC
 afrikanisches,MISC
-amerikanische,MISC
 anglo-anglikanisches,MISC
 arabische,MISC
 dem Krieg,MISC
