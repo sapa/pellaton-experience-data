@@ -1,4 +1,4 @@
-I: [00:01:37] Ja, guten Morgen liebe Ursula. Wir sind da in der Mediathek von der Kantonsschule Hohe Promenade, der ehemaligen höheren Töchterschule in Zürich, wo ich als Deutschlehrerin unter anderem arbeite und du bist da in die Schule gegangen und hast vielleicht mal hier geturnt, in dem Raum.
+[00:01:37] I: Ja, guten Morgen liebe Ursula. Wir sind da in der Mediathek von der Kantonsschule Hohe Promenade, der ehemaligen höheren Töchterschule in Zürich, wo ich als Deutschlehrerin unter anderem arbeite und du bist da in die Schule gegangen und hast vielleicht mal hier geturnt, in dem Raum.
 
 
 
@@ -8,7 +8,7 @@ I: [00:01:37] Ja, guten Morgen liebe Ursula. Wir sind da in der Mediathek von d
 
 
 
-P: [00:02:05] Ja, da habe ich sicher geturnt, weil dann, wo ich in die Schule gegangen bin, hat es die Kantonsschule Stadelhofen noch nicht gegeben. Und das ist eben die Töchter-Schule gewesen. Und man hat nicht so viele Turnstunden gehabt, also hat man da geturnt und alle Leute konnten hineinschauen. Aber, ich habe das nie als so schlimm empfunden wie andere. [00:02:30] Weil wir Mädchen sind ja unter uns gewesen. Es war ja eben eine Schule für "höhere Töchter". Ich bin irgendwie daran gewöhnt gewesen, weil schon meine Grosstante ist hier zur Schule gegangen, meine Mutter sowieso. Meine Mutter ist dann im Vorstand gewesen bei den ehemaligen Töchterschülerinnen, da habe ich dort einen Haufen mitbekommen. Und das ist für mich normal gewesen.[00:02:59] 
+[00:02:05] P: Ja, da habe ich sicher geturnt, weil dann, wo ich in die Schule gegangen bin, hat es die Kantonsschule Stadelhofen noch nicht gegeben. Und das ist eben die Töchter-Schule gewesen. Und man hat nicht so viele Turnstunden gehabt, also hat man da geturnt und alle Leute konnten hineinschauen. Aber, ich habe das nie als so schlimm empfunden wie andere. [00:02:30] Weil wir Mädchen sind ja unter uns gewesen. Es war ja eben eine Schule für "höhere Töchter". Ich bin irgendwie daran gewöhnt gewesen, weil schon meine Grosstante ist hier zur Schule gegangen, meine Mutter sowieso. Meine Mutter ist dann im Vorstand gewesen bei den ehemaligen Töchterschülerinnen, da habe ich dort einen Haufen mitbekommen. Und das ist für mich normal gewesen.[00:02:59] 
 
 
 
@@ -148,22 +148,8 @@ K: Ursula, magst du nochmal die Haare so zurückstreifen?
 
 
 
-P: (streift ihre Haare zurück, begleitet diese Geste mit einem entsprechenden Geräusch, lacht)
 
-
-
-
-
-
-
-
-
-I: [00:10:03] Also, du hast viel gelesen, viel geschaut. Wie bist du dann zum Kritiken schreiben gekommen?
-
-
-
-
-
+[00:10:03] I: Also, du hast viel gelesen, viel geschaut. Wie bist du dann zum Kritiken schreiben gekommen?
 
 
 
@@ -188,7 +174,7 @@ Und er hat immer gefunden, dass man, wenn man Kritiken schreibt, nicht vorher mi
 
 
 
-I: Was ist für dich wichtig beim Tanzkritiken schreiben?P: [00:11:27] Ich glaube, es ist wichtig, dass man sich mit dem wirklich beschäftigt, mit dem, was man sieht. Denn eine Kritik besteht ja nicht nur einfach aus der Kritik, sondern es sind irgendwie wie drei Stufen. Zuerst ist eben die Vorbereitung, das ist das, was mich sowieso interessiert hat. Und dann geht man in die Aufführung und wenn man sowieso gern ins Theater geht, dann ist es natürlich schön, einen Beruf zu haben, wo man ins Theater gehen muss. Und eine Freikarte hat.  
+I: Was ist für dich wichtig beim Tanzkritiken schreiben?[00:11:27] P: Ich glaube, es ist wichtig, dass man sich mit dem wirklich beschäftigt, mit dem, was man sieht. Denn eine Kritik besteht ja nicht nur einfach aus der Kritik, sondern es sind irgendwie wie drei Stufen. Zuerst ist eben die Vorbereitung, das ist das, was mich sowieso interessiert hat. Und dann geht man in die Aufführung und wenn man sowieso gern ins Theater geht, dann ist es natürlich schön, einen Beruf zu haben, wo man ins Theater gehen muss. Und eine Freikarte hat.  
 (12:04)
 
 
@@ -259,7 +245,7 @@ Sondern man musste abends, wenn man nach Hause gekommen ist, schreiben und dann 
 
 
 
-Und darum musste man anders arbeiten, weil dann später mit dem Computer, da konnte man die Fakten bereits eingeben und das ist vor allem bei Namen wichtig, dass das ganz genau ist, die kann man ja schon mal aufschreiben. Weil die heissen ja... ja, (Zadie Mayer?), das ist noch eine Seltenheit gewesen, die im Corps de Ballet vom Zürcher Ballett gewesen ist. Wir hatten immer viele Namen, die nicht so geläufig sind. Aber dort musste man wirklich anfangen mit der Schreibmaschine zu schreiben und musste es ein oder zwei Mal abschreiben. [00:16:51] Das war so die Vorbereitung. Und dann habe ich, muss ich sagen, ein grosses Glück gehabt, dann habe ich die Redakteurin von der Zürichsee-Zeitung, Frau Welti, die hat das ganz genau angeschaut und sie hat alles, was sie ändern wollte, da hat sie einen angerufen und hat es mit einem diskutiert. Und sie hat einem auch ein richtiges Feedback gegeben. (17:20)
+Und darum musste man anders arbeiten, weil dann später mit dem Computer, da konnte man die Fakten bereits eingeben und das ist vor allem bei Namen wichtig, dass das ganz genau ist, die kann man ja schon mal aufschreiben. Weil die heissen ja... ja, Heidi Meier, das ist noch eine Seltenheit gewesen, die im Corps de Ballet vom Zürcher Ballett gewesen ist.(00:16:39) Wir hatten immer viele Namen, die nicht so geläufig sind. Aber dort musste man wirklich anfangen mit der Schreibmaschine zu schreiben und musste es ein oder zwei Mal abschreiben. [00:16:51] Das war so die Vorbereitung. Und dann habe ich, muss ich sagen, ein grosses Glück gehabt, dann habe ich die Redakteurin von der Zürichsee-Zeitung, Frau Welti, die hat das ganz genau angeschaut und sie hat alles, was sie ändern wollte, da hat sie einen angerufen und hat es mit einem diskutiert. Und sie hat einem auch ein richtiges Feedback gegeben. (17:20)
 
 
 
@@ -289,7 +275,7 @@ I: Wie viele Jahre ist das etwa gegangen mit den regelmässigen Rückmeldungen v
 
 
 
-P: [00:18:22] Das war eigentlich so lange bis die Frau Welti das aufgehört hat.
+[00:18:22]P:  Das war eigentlich so lange bis die Frau Welti das aufgehört hat.
 
 
 
@@ -309,7 +295,7 @@ I: Also mehrere Jahre?
 
 
 
-P: [00:18:29] Ja, ja, das sind viele Jahre gewesen. Wobei, sie hat dann natürlich nicht mehr über jede Kritik geschrieben, aber man hat mir ihr immer reden können. Also, das ist gut gewesen. Und eben, der Richard Merz ist mein engster Freund gewesen und ich habe mit ihm eigentlich ununterbrochen Kontakt gehabt. Wir haben alles diskutiert. Vor allem, wenn wir nicht gleicher Meinung gewesen sind. Es gab viele Sachen, wo wir gleicher Meinung waren, aber auch ein paar Sachen, wo wir ganz anderer Meinung gewesen sind.
+ [00:18:29] P:Ja, ja, das sind viele Jahre gewesen. Wobei, sie hat dann natürlich nicht mehr über jede Kritik geschrieben, aber man hat mir ihr immer reden können. Also, das ist gut gewesen. Und eben, der Richard Merz ist mein engster Freund gewesen und ich habe mit ihm eigentlich ununterbrochen Kontakt gehabt. Wir haben alles diskutiert. Vor allem, wenn wir nicht gleicher Meinung gewesen sind. Es gab viele Sachen, wo wir gleicher Meinung waren, aber auch ein paar Sachen, wo wir ganz anderer Meinung gewesen sind.
 
 
 
@@ -319,7 +305,7 @@ P: [00:18:29] Ja, ja, das sind viele Jahre gewesen. Wobei, sie hat dann natürl
 
 
 
-I: [00:18:58] Habt ihr euch eure Texte gegenseitig zum Gegenlesen gegeben?
+[00:18:58] I: Habt ihr euch eure Texte gegenseitig zum Gegenlesen gegeben?
 
 
 
@@ -329,7 +315,7 @@ I: [00:18:58] Habt ihr euch eure Texte gegenseitig zum Gegenlesen gegeben?
 
 
 
-P: [00:19:02] Wir haben es nachher gegeben, aber nicht bevor es gedruckt worden ist. Also, wir konnten es auch nicht nachts schicken, zu dieser Zeit. Das ist dann nachher, da habe ich natürlich die NZZ gehabt und man konnte dann lesen, was er geschrieben hat. (19:23)
+ [00:19:02]P: Wir haben es nachher gegeben, aber nicht bevor es gedruckt worden ist. Also, wir konnten es auch nicht nachts schicken, zu dieser Zeit. Das ist dann nachher, da habe ich natürlich die NZZ gehabt und man konnte dann lesen, was er geschrieben hat. (19:23)
 
 
 
@@ -349,7 +335,7 @@ Und er hat meine Kritiken auch gelesen und dann hat man darüber diskutiert. Das
 
 
 
-I: [00:19:47] Und das hat sich auch nicht geändert, nachher... (unv.)?
+[00:19:47] I: Und das hat sich auch nicht geändert, nachher... (unv.)?
 
 
 
@@ -359,7 +345,7 @@ I: [00:19:47] Und das hat sich auch nicht geändert, nachher... (unv.)?
 
 
 
-P: [00:19:52] Nein, aber wir sind natürlich manchmal heimgelaufen miteinander und ich habe ihn noch heimgefahren, weil ich habe mein Auto da unten gehabt und er hat am Rigiblick oben gewohnt. Und dann nachher – oder man hat schon in der Pause – klar, hat man geredet. Aber – ich glaube nicht, dass wir uns stark beeinflusst haben. Aber, wir waren sehr ähnlich. (20:14)
+[00:19:52] P: Nein, aber wir sind natürlich manchmal heimgelaufen miteinander und ich habe ihn noch heimgefahren, weil ich habe mein Auto da unten gehabt und er hat am Rigiblick oben gewohnt. Und dann nachher – oder man hat schon in der Pause – klar, hat man geredet. Aber – ich glaube nicht, dass wir uns stark beeinflusst haben. Aber, wir waren sehr ähnlich. (20:14)
 
 
 
@@ -379,7 +365,7 @@ I: Dass die Pausengespräche unter Kritikerinnen und Kritikern – Frauen sind j
 
 
 
-P: [00:20:43] Ich glaube, sie haben mich dort nicht sehr stark beeinflusst. Und es ist lustig gewesen, sehr oft, vor allem, wenn wir gewusst haben, dass wir nicht gleicher Meinung waren, man hat den anderen ja gekannt. Ich meine, die Marlies Strech, die schreibt immer noch und die hat schon vor mir geschrieben. Eben, man hat sich ja, man hat Kriterien gekannt, man hat gewusst, wie so etwas sieht. Und man hat darüber diskutiert und wir sind glaube ich beide immer, jede ist bei ihrer Meinung geblieben. (21:18)
+[00:20:43] P: Ich glaube, sie haben mich dort nicht sehr stark beeinflusst. Und es ist lustig gewesen, sehr oft, vor allem, wenn wir gewusst haben, dass wir nicht gleicher Meinung waren, man hat den anderen ja gekannt. Ich meine, die Marlies Strech, die schreibt immer noch und die hat schon vor mir geschrieben. Eben, man hat sich ja, man hat Kriterien gekannt, man hat gewusst, wie so etwas sieht. Und man hat darüber diskutiert und wir sind glaube ich beide immer, jede ist bei ihrer Meinung geblieben. (21:18)
 
 
 
@@ -399,7 +385,7 @@ Ich glaube, das ist klar. Aber ist natürlich schon spannend zu schauen, wie and
 
 
 
-I: [00:21:45] Aber gelesen hast du die Kritiken – also früher – immer alle?P: [00:21:50] Ja alle, also, alle, wo ich die Zeitungen hatte. Zum Beispiel die Sylvia Garcia, die sehr lange geschrieben hat fürs Aargauer Tagblatt und die ja selbst Tänzerin gewesen ist beim Sigurd Leeder. Diese Zeitung habe ich einfach nicht gehabt und manchmal ist es dann im Pressespiegel gekommen oder es hat mich sonst interessiert. Oder man hat mal angefragt, du darf ich mal deine Kritik lesen oder so. Dann hat man so darüber diskutiert. (22:20)
+[00:21:45]I:  Aber gelesen hast du die Kritiken – also früher – immer alle?[00:21:50] P: Ja alle, also, alle, wo ich die Zeitungen hatte. Zum Beispiel die Sylvia Garcia, die sehr lange geschrieben hat fürs Aargauer Tagblatt und die ja selbst Tänzerin gewesen ist beim Sigurd Leeder. Diese Zeitung habe ich einfach nicht gehabt und manchmal ist es dann im Pressespiegel gekommen oder es hat mich sonst interessiert. Oder man hat mal angefragt, du darf ich mal deine Kritik lesen oder so. Dann hat man so darüber diskutiert. (22:20)
 
 
 
@@ -409,7 +395,7 @@ I: [00:21:45] Aber gelesen hast du die Kritiken – also früher – immer alle
 
 
 
-I: Aber du hast gesagt, beeinflusst hat es dich nicht wirklich?P: [00:22:23] Ich glaube nicht, dass sie mich haben abbringen können, wenn ich mir mal eine Meinung gebildet hatte. (lacht) Aufgrund eben auch von den Vorbereitungen. Es kann sein, dass es unbewusst passiert ist oder, dass ich gedacht habe, Achtung – da bin ich die einzige, die das so schlimm findet. Aber, das habe ich nicht erst in der Diskussion mit den Kritikern gemerkt, sondern schon während der Vorstellung. Es gibt ja die Horrorszenarien, wo du (deutet in Richtung der Kamera) auch dabei gewesen bist. (lacht) Wo man dann in einem Theater sitzt und man das Gefühl hat, nein! (23:13)
+I: Aber du hast gesagt, beeinflusst hat es dich nicht wirklich? [00:22:23]P: Ich glaube nicht, dass sie mich haben abbringen können, wenn ich mir mal eine Meinung gebildet hatte.  Aufgrund eben auch von den Vorbereitungen. Es kann sein, dass es unbewusst passiert ist oder, dass ich gedacht habe, Achtung – da bin ich die einzige, die das so schlimm findet. Aber, das habe ich nicht erst in der Diskussion mit den Kritikern gemerkt, sondern schon während der Vorstellung. Es gibt ja die Horrorszenarien, wo du auch dabei gewesen bist. Wo man dann in einem Theater sitzt und man das Gefühl hat, nein! (23:13)
 
 
 
@@ -449,7 +435,7 @@ I: Du hast vorhin auf den "Schwanensee" von Ratmansky angespielt, bei deren Wied
 
 
 
-P: [00:25:54]  Ich muss sagen, ich kenne ja den Spuck nicht persönlich, weil für uns ist es immer irgendwie klar gewesen, wir wollen mit den Künstlern nicht zu nah sein. Aber in diesem Fall, wo das eine dermassen grosse Fehlbesetzung war und ich glaube, das kann man wirklich nachweisen und du HAST es auch nachgewiesen, das HAT man so schreiben dürfen, finde ich.[00:26:22]  Sie haben sich übrigens nicht beeinflussen lassen. Und ich bin dann eben in die andere Aufführung gegangen und habe ihnen auch noch ein Ging gegeben. Das ist etwas, wo ich einfach finde, ein Haus wie Zürich, das so eine Inszenierung hat, da darf so eine Fehlbesetzung nicht stattfinden. Das passiert auch in der Oper, das ist nicht einmalig, aber es ist ganz klar, dass diese Frau diese Rolle nicht tanzen sollte. (26:51) Ich glaube, da würde ich mich vor jedem Auditorium heute noch verteidigen. Für so etwas und ich glaube, das hat man dann schon gedurft. (lacht)
+[00:25:54]  P: Ich muss sagen, ich kenne ja den Spuck nicht persönlich, weil für uns ist es immer irgendwie klar gewesen, wir wollen mit den Künstlern nicht zu nah sein. Aber in diesem Fall, wo das eine dermassen grosse Fehlbesetzung war und ich glaube, das kann man wirklich nachweisen und du HAST es auch nachgewiesen, das HAT man so schreiben dürfen, finde ich.[00:26:22]  Sie haben sich übrigens nicht beeinflussen lassen. Und ich bin dann eben in die andere Aufführung gegangen und habe ihnen auch noch ein Ging gegeben. Das ist etwas, wo ich einfach finde, ein Haus wie Zürich, das so eine Inszenierung hat, da darf so eine Fehlbesetzung nicht stattfinden. Das passiert auch in der Oper, das ist nicht einmalig, aber es ist ganz klar, dass diese Frau diese Rolle nicht tanzen sollte. (26:51) Ich glaube, da würde ich mich vor jedem Auditorium heute noch verteidigen. Für so etwas und ich glaube, das hat man dann schon gedurft. 
 
 
 
@@ -459,7 +445,7 @@ P: [00:25:54]  Ich muss sagen, ich kenne ja den Spuck nicht persönlich, weil f
 
 
 
-I: [00:27:00] Ja, und ich erzähle die Anekdote eigentlich noch recht gerne, den Tänzerinnen und Tänzer von der TAZ, also junge Balletttänzer. Natürlich ist es auch witzig, weil am Morgen früh ist mir ja dann eine alte Hard Disc auf den Kopf gefallen und ich habe eine riesige Beule gehabt und ich sage dann eben, "oh, that's revenge", sie hat sich gerächt. Und ich habe dann auch Rückmeldungen gehabt von der Pressefrau, ja dass dann die Solistin (weinen?) musste und das war mir schon nicht so recht. (27:37) Natürlich glaube ich, haben wir recht gehabt auf fachlicher Ebene, aber ich glaube, im Nachhinein hätte ich es doch nicht machen dürfen. So persönlich zu bewerten, zu verurteilen. Aber ich sage es auch vielleicht den jungen Tänzerinnen, wenn es dann überhaupt noch eine Tanzkritik gibt in ein paar Jahren, dass sie das dann auch nicht persönlich nehmen sollen. (28:03)
+[00:27:00] I: Ja, und ich erzähle die Anekdote eigentlich noch recht gerne, den Tänzerinnen und Tänzer von der TAZ, also junge Balletttänzer. Natürlich ist es auch witzig, weil am Morgen früh ist mir ja dann eine alte Hard Disc auf den Kopf gefallen und ich habe eine riesige Beule gehabt und ich sage dann eben, "oh, that's revenge", sie hat sich gerächt. Und ich habe dann auch Rückmeldungen gehabt von der Pressefrau, ja dass dann die Solistin (weinen?) musste und das war mir schon nicht so recht. (27:37) Natürlich glaube ich, haben wir recht gehabt auf fachlicher Ebene, aber ich glaube, im Nachhinein hätte ich es doch nicht machen dürfen. So persönlich zu bewerten, zu verurteilen. Aber ich sage es auch vielleicht den jungen Tänzerinnen, wenn es dann überhaupt noch eine Tanzkritik gibt in ein paar Jahren, dass sie das dann auch nicht persönlich nehmen sollen. (28:03)
 
 
 
@@ -469,7 +455,7 @@ I: [00:27:00] Ja, und ich erzähle die Anekdote eigentlich noch recht gerne, de
 
 
 
-P: Ich glaube, das Problem ist dort auch gewesen – es ist ja nicht nur, dass das ja einfach eine Fehlbesetzung gewesen ist, sondern es ist ja auch die Ankündigung gewesen vom Haus. Und das ist etwas, wo einfach – wenn SIE schreiben, dass sei eine Tänzerin, die Waganowa-Ausbildung hat, die von der Machalina gecoacht worden ist und "Schwanensee" getanzt hat beim Mariinski-Ballett – ich habe dann nachgesehen ihre Biografie, ganz genau. Das ist also, diese Frau hat nicht in einer guten, regulären Vorstellung "Schwanensee" getanzt und Machalina, die habe ich sehr gut gekannt, das hat sie sicher nicht von ihr gelernt. [00:28:48] Und wenn die dann sagen, wir haben da quasi eine grosse Starsolistin, die jetzt bei uns endlich den "Schwanensee" tanzt, dann finde ich, ist das einfach schon eine Fehlinformation an die Presse. Damit muss ich umgehen, wenn ich dafür in der Presse gerüffelt werde (?), so dürfen sie nicht dreinschiessen. (29:06) Sie können nicht nur einen Teil von der Biografie zeigen, weil sie ist NIE eine richtige Solistin gewesen am Mariinski. Das stimmt einfach nicht, sie ist nämlich nachher nach Dresden gegangen und nachher (unv.). (29:22)
+P: Ich glaube, das Problem ist dort auch gewesen – es ist ja nicht nur, dass das ja einfach eine Fehlbesetzung gewesen ist, sondern es ist ja auch die Ankündigung gewesen vom Haus. Und das ist etwas, wo einfach – wenn SIE schreiben, dass sei eine Tänzerin, die Waganowa-Ausbildung hat, die von der Machalina gecoacht worden ist und "Schwanensee" getanzt hat beim Mariinski-Ballett – ich habe dann nachgesehen ihre Biografie, ganz genau. Das ist also, diese Frau hat nicht in einer guten, regulären Vorstellung "Schwanensee" getanzt und Machalina, die habe ich sehr gut gekannt, das hat sie sicher nicht von ihr gelernt. [00:28:48] Und wenn die dann sagen, wir haben da quasi eine grosse Starsolistin, die jetzt bei uns endlich den "Schwanensee" tanzt, dann finde ich, ist das einfach schon eine Fehlinformation an die Presse. Damit muss ich umgehen, wenn ich dafür in der Presse gerüffelt werde, so dürfen sie nicht dreinschiessen. (29:06) Sie können nicht nur einen Teil von der Biografie zeigen, weil sie ist NIE eine richtige Solistin gewesen am Mariinski. Das stimmt einfach nicht, sie ist nämlich nachher nach Dresden gegangen und nachher (unv.). (29:22)
 
 
 
@@ -489,7 +475,7 @@ Schon von dem her ist es klar gewesen, wenn man ihre Biografie vollständig brin
 
 
 
-I: [00:29:37] Ja, das tröstet mich. (lacht) Und ich glaube es ist auch ein gutes Beispiel, dass teilweise man bei der ersten Sekunde merkt (unv.) das funktioniert nicht so und dass dann – ich habe jetzt Jahre gebraucht, bevor ich mich habe halbwegs anfreunden können mit Elena Vostrotina. Letzte Woche in der "Giselle" als Myrtha, da habe ich sie das erste Mal gut gefunden.
+[00:29:37] I: Ja, das tröstet mich. Und ich glaube es ist auch ein gutes Beispiel, dass teilweise man bei der ersten Sekunde merkt (unv.) das funktioniert nicht so und dass dann – ich habe jetzt Jahre gebraucht, bevor ich mich habe halbwegs anfreunden können mit Elena Vostrotina. Letzte Woche in der "Giselle" als Myrtha, da habe ich sie das erste Mal gut gefunden.
 
 
 
@@ -519,7 +505,7 @@ I: Sie macht Sylvie Guillem nach.
 
 
 
-P: [00:30:09] Ja, sie IST der Sylvie Guillem-Typ. Und sie tut das noch forcieren. Wenn ich das aber mit Waganowa und Mariinski-Stil und "Schwanensee" vom Mariinski in Verbindung bringe, dann muss ich sagen, am Mariinski könnte sie das nicht machen. Und vor allem die erste berühmte Solistin am Mariinski, die mit diesen hohen Beinen überhaupt die Sylvie Guillem nachgeahmt hat, die tanzt, wenn sie eine andere Rolle tanzt im Mariinski, dann tanzt sie ganz anders. [00:30:46] Sie tanzt stilgerecht. Und das hat sie nicht gemacht bei uns in Zürich. Und das ist eigentlich das, was sie hätte mitbringen müssen, wenn sie mit dem Titel kommt, sie kommt von dort, oder? Es ist vielleicht extrem gewesen, aber ich glaube, das können wir beweisen, dass es nicht gestimmt hat.(31:10)
+[00:30:09] P: Ja, sie IST der Sylvie Guillem-Typ. Und sie tut das noch forcieren. Wenn ich das aber mit Waganowa und Mariinski-Stil und "Schwanensee" vom Mariinski in Verbindung bringe, dann muss ich sagen, am Mariinski könnte sie das nicht machen. Und vor allem die erste berühmte Solistin am Mariinski, die mit diesen hohen Beinen überhaupt die Sylvie Guillem nachgeahmt hat, die tanzt, wenn sie eine andere Rolle tanzt im Mariinski, dann tanzt sie ganz anders. [00:30:46] Sie tanzt stilgerecht. Und das hat sie nicht gemacht bei uns in Zürich. Und das ist eigentlich das, was sie hätte mitbringen müssen, wenn sie mit dem Titel kommt, sie kommt von dort, oder? Es ist vielleicht extrem gewesen, aber ich glaube, das können wir beweisen, dass es nicht gestimmt hat.(31:10)
 
 
 
@@ -539,7 +525,7 @@ I: Ja, Stichwort Verriss. Hast du viele Verrisse geschrieben?
 
 
 
-P: [00:31:13] Ich GLAUBE nicht. Ich glaube, ich habe es so subkutan gemacht. Ich habe so Sachen gerühmt, die man rühmen KANN, die aber die Leute, die – sagen wir mal – vertraut sind mit dem Stil, und die, die ein bisschen etwas wissen, gemerkt haben, dass es nicht stimmt. Dass es eigentlich eine uneigentliche Rede ist, weil es natürlich nicht so fair ist für einen Kritiker, aber es hat dann so ausgesehen..., also ich habe es einfach beschrieben.[00:31:48]  Und ich habe dann nicht jedes Mal gesagt, dass ist in dieser Rolle total daneben. Sondern mehr, es ist spektakulär in einem Stück, dass nicht auf das angelegt gewesen ist. Ich habe es dann EHER so gemacht, ich habe es dann nicht mehr so direkt gemacht. (32:07)
+[00:31:13] P:  Ich GLAUBE nicht. Ich glaube, ich habe es so subkutan gemacht. Ich habe so Sachen gerühmt, die man rühmen KANN, die aber die Leute, die – sagen wir mal – vertraut sind mit dem Stil, und die, die ein bisschen etwas wissen, gemerkt haben, dass es nicht stimmt. Dass es eigentlich eine uneigentliche Rede ist, weil es natürlich nicht so fair ist für einen Kritiker, aber es hat dann so ausgesehen..., also ich habe es einfach beschrieben.[00:31:48]  Und ich habe dann nicht jedes Mal gesagt, dass ist in dieser Rolle total daneben. Sondern mehr, es ist spektakulär in einem Stück, dass nicht auf das angelegt gewesen ist. Ich habe es dann EHER so gemacht, ich habe es dann nicht mehr so direkt gemacht. (32:07)
 
 
 
@@ -559,7 +545,7 @@ I: Ich glaube, da spielt das Zielpublikum, das Lesepublikum ja auch eine Rolle.
 
 
 
-P: [00:32:13] Ja, normalerweise habe ich immer, die Leser, die Leserin im Auge gehabt. Ich wollte sie informieren wie so eine Vorstellung ungefähr aussieht. Das ist eigentlich mein Ziel gewesen, Ich habe nie für ein reines Fachpublikum geschrieben. Weil eben, das sind ja Landzeitungen, das wird gelesen so von Mittelschullehrern und von Leuten, die gerne ins Theater gehen und Freude haben an einem Konzert und ins Opernhaus gehen. Das ist das Zielpublikum eigentlich. (32:52)
+[00:32:13] P: Ja, normalerweise habe ich immer, die Leser, die Leserin im Auge gehabt. Ich wollte sie informieren wie so eine Vorstellung ungefähr aussieht. Das ist eigentlich mein Ziel gewesen, Ich habe nie für ein reines Fachpublikum geschrieben. Weil eben, das sind ja Landzeitungen, das wird gelesen so von Mittelschullehrern und von Leuten, die gerne ins Theater gehen und Freude haben an einem Konzert und ins Opernhaus gehen. Das ist das Zielpublikum eigentlich. (32:52)
 
 
 
@@ -609,7 +595,7 @@ I: Ja, für den Leser schreiben, Landboten-Leser. Aber doch subtil zeigen, dass 
 
 
 
-P: [00:36:12] Ja, das Geheimnis ist eigentlich... nehmen wir gerade den "Schwanensee". Wenn ich eine Tänzerin lobe und sage, das Technische ist für sie überhaupt kein Problem, die kann das wunderbar tanzen, dann ist ganz klar, dann könnte ich das mit Fachausdrücken machen und ich könnte sagen, wie brillant die Tänzerin die Fuettés hingelegt hat. [00:36:40] Das nützt gar niemandem etwas, von einem Leser, die einfach hier und da mal ins Theater gehen. Und wenn man das will, dann kann man ganz allgemein schreiben: Sie ist technisch der Rolle so gewachsen, dass die Technik da überhaupt keine Rolle mehr spielt. Und sie macht das alles mit dem Ausdruck und dann kann man den Ausdruck beschreiben, dann können sich die Leute das vorstellen. (37:01)
+[00:36:12] P: Ja, das Geheimnis ist eigentlich... nehmen wir gerade den "Schwanensee". Wenn ich eine Tänzerin lobe und sage, das Technische ist für sie überhaupt kein Problem, die kann das wunderbar tanzen, dann ist ganz klar, dann könnte ich das mit Fachausdrücken machen und ich könnte sagen, wie brillant die Tänzerin die Fuettés hingelegt hat. [00:36:40] Das nützt gar niemandem etwas, von einem Leser, die einfach hier und da mal ins Theater gehen. Und wenn man das will, dann kann man ganz allgemein schreiben: Sie ist technisch der Rolle so gewachsen, dass die Technik da überhaupt keine Rolle mehr spielt. Und sie macht das alles mit dem Ausdruck und dann kann man den Ausdruck beschreiben, dann können sich die Leute das vorstellen. (37:01)
 
 
 
@@ -640,7 +626,7 @@ I: Bleiben wir noch bei der längeren Tanzkritik, in welchem Verhältnis stehen 
 
 
 
-P: [00:38:28] Am Anfang habe ich es quasi ausgezählt und es so gemacht, wie ich es gefunden habe. Ich glaube, es macht einen ganz einen grossen Unterschied, um was es geht. Wenn ich etwas aus der Off-Szene... das ist ja viel häufiger, als dass man ins Opernhaus geht. Man ist in die Rote Fabrik, man ist ins CH-Tanztheater, wo die noch das Westend-Theater gehabt haben. Man ist in all die (unv.), Rigiblick, überall, wo irgendwie Off-Szene oder irgendwie etwas gezeigt worden ist. (39:04)
+[00:38:28] P: Am Anfang habe ich es quasi ausgezählt und es so gemacht, wie ich es gefunden habe. Ich glaube, es macht einen ganz einen grossen Unterschied, um was es geht. Wenn ich etwas aus der Off-Szene... das ist ja viel häufiger, als dass man ins Opernhaus geht. [00:38:48]  Man ist in die Rote Fabrik, man ist ins CH-Tanztheater, wo die noch das Westend-Theater gehabt haben. Man ist in all die Aula Rämibühl, Rigiblick, überall, wo irgendwie Off-Szene oder irgendwie etwas gezeigt worden ist. (39:04)
 
 
 
@@ -710,7 +696,7 @@ Und dann gab es vielleicht diejenigen, die gerade darum neugierig geworden sind.
 
 
 
-I: [00:44:13] Und das Werturteil, wie bist du mit dem umgegangen?
+ [00:44:13] I: Und das Werturteil, wie bist du mit dem umgegangen?
 
 
 
@@ -720,7 +706,7 @@ I: [00:44:13] Und das Werturteil, wie bist du mit dem umgegangen?
 
 
 
-P: [00:44:17] Eben, das habe ich meistens durch die Blume und versteckt gesagt. Also, mein Mann hat das manchmal gelesen und dann hat er gesagt, also ich weiss ja, dem Richard und dir hat das nicht gefallen, das habe ich mitbekommen, was ihr geredet habt. Aber weder beim Richard noch bei dir – wir haben nicht das gleiche geschrieben, gar nicht – merkt man nur, wenn man euch kennt, dass es euch nicht gefallen hat.[00:44:47]  Aber es geht ja auch nicht darum, dass es mir gefällt persönlich, sondern es geht mehr darum, entspricht es auch dem Selbstverständnis vom Künstler? Wenn der Künstler sagt, ich will an dem Werk das und das zeigen, dann kann ich sagen, ja, hat er das zeigen können oder nicht. Und das lässt sich schon objektivieren.  Weil ich glaube, Tanzkünstler neigen, gerade in der freien Szene oft dazu, dass sie das Gefühl, dass, was sie gedacht haben, würde sich schon von selber in der Bewegung manifestieren. (45:29)
+ [00:44:17] P: Eben, das habe ich meistens durch die Blume und versteckt gesagt. Also, mein Mann hat das manchmal gelesen und dann hat er gesagt, also ich weiss ja, dem Richard und dir hat das nicht gefallen, das habe ich mitbekommen, was ihr geredet habt. Aber weder beim Richard noch bei dir – wir haben nicht das gleiche geschrieben, gar nicht – merkt man nur, wenn man euch kennt, dass es euch nicht gefallen hat.[00:44:47]  Aber es geht ja auch nicht darum, dass es mir gefällt persönlich, sondern es geht mehr darum, entspricht es auch dem Selbstverständnis vom Künstler? Wenn der Künstler sagt, ich will an dem Werk das und das zeigen, dann kann ich sagen, ja, hat er das zeigen können oder nicht. Und das lässt sich schon objektivieren.  Weil ich glaube, Tanzkünstler neigen, gerade in der freien Szene oft dazu, dass sie das Gefühl, dass, was sie gedacht haben, würde sich schon von selber in der Bewegung manifestieren. (45:29)
 
 
 
@@ -730,7 +716,7 @@ P: [00:44:17] Eben, das habe ich meistens durch die Blume und versteckt gesagt.
 
 
 
-Und darum gibt es ein grosses Publikum, das sagt, ja, es hat sich etwas bewegt, aber was da erzählt worden ist oder was da an Emotionen hätte rüberkommen sollen, das habe ich nicht gemerkt. Und das kann ein Wahrnehmungsproblem sein, dass man nicht vorbereitet ist und nicht das Organ hat, aber es kann auch wirklich sein, dass es dem Künstler nicht gelungen ist, das wirklich darzustellen. Schönes Beispiel, eine Kollegin, die Regina Christen hat das mal beschrieben, es ist glaube ich in einem Buch abgedruckt. Wo sie gesehen hat, wie eine Tänzerin einfach sich am Bauch festhält, als wenn sie Bauchweh hätte.[00:46:16]  Und ja, da hat man eine Frau auf der Bühne und sie macht da so eine Geste und warum da etwas nicht stimmt, dass sie leidet – das hat sich mitgeteilt. Irgendetwas muss da nicht in Ordnung sein. [00:46:33] Und dann hat sie im Programmheft gelesen von Gendertheorien, von Angst vor der Menstruation und von Opposition gegen das Kinderbekommen und weiss ich was alles. Und das ist im Programmheft gestanden, aber das ist auf der Bühne nicht da gewesen. Auf der Bühne hat man eine Frau gesehen, die sich am Bauch festgehalten hat und man hat nicht gewusst, warum. (lächelt) Und das sind dann Sachen, die ich in der Kritik sagen kann, zum Beispiel, dass die vielen Ideen, die da dahinterstehen, dass man das in der Aufführung nicht gesehen hat. (47:12)
+Und darum gibt es ein grosses Publikum, das sagt, ja, es hat sich etwas bewegt, aber was da erzählt worden ist oder was da an Emotionen hätte rüberkommen sollen, das habe ich nicht gemerkt. Und das kann ein Wahrnehmungsproblem sein, dass man nicht vorbereitet ist und nicht das Organ hat, aber es kann auch wirklich sein, dass es dem Künstler nicht gelungen ist, das wirklich darzustellen. Schönes Beispiel, eine Kollegin, die Regina Christen hat das mal beschrieben, es ist glaube ich in einem Buch abgedruckt. Wo sie gesehen hat, wie eine Tänzerin einfach sich am Bauch festhält, als wenn sie Bauchweh hätte.[00:46:16]  Und ja, da hat man eine Frau auf der Bühne und sie macht da so eine Geste und warum da etwas nicht stimmt, dass sie leidet – das hat sich mitgeteilt. Irgendetwas muss da nicht in Ordnung sein. [00:46:33] Und dann hat sie im Programmheft gelesen von Gendertheorien, von Angst vor der Menstruation und von Opposition gegen das Kinderbekommen und weiss ich was alles. Und das ist im Programmheft gestanden, aber das ist auf der Bühne nicht da gewesen. Auf der Bühne hat man eine Frau gesehen, die sich am Bauch festgehalten hat und man hat nicht gewusst, warum. Und das sind dann Sachen, die ich in der Kritik sagen kann, zum Beispiel, dass die vielen Ideen, die da dahinterstehen, dass man das in der Aufführung nicht gesehen hat. (47:12)
 
 
 
@@ -750,7 +736,7 @@ Ich glaube, das darf man schon sagen.
 
 
 
-K/R: [00:47:14] Darf ich als Laie schnell etwas fragen? Gibt es denn wie Kriterien, ganz fixe Kriterien, die du wie vorher festlegst, nach was du ein Stück beurteilst?
+[00:47:14] K/R: Darf ich als Laie schnell etwas fragen? Gibt es denn wie Kriterien, ganz fixe Kriterien, die du wie vorher festlegst, nach was du ein Stück beurteilst?
 
 
 
@@ -760,7 +746,7 @@ K/R: [00:47:14] Darf ich als Laie schnell etwas fragen? Gibt es denn wie Kriter
 
 
 
-P: [00:47:30] Ich glaube, das wechselt immer wieder. Aber etwas, wo ich immer wieder darauf geachtet habe, ist wirklich die Diskrepanz oder Übereinstimmung von dem, was mir der Künstler zum Beispiel in einer Einleitung oder in einem kurzen Abschnitt im Programmheft oder auch vorher in einer Vorschau oder in einer Einführung gesagt hat, dass ich das vergleiche, sehe ich das? Und ein Kriterium ist sicher, wie ist die Qualität der Darstellung von ihm. [00:48:08] Ist es wirklich so auf den Punkt gebracht oder wenn es ein Stil ist, beherrscht er den Stil, den er will. Aber, es kann natürlich auch sein, dass man total daneben ist. Auch das Beispiel vom Bienert, ich weiss nicht, ob der Bienert noch allgemein bekannt ist. Er ist nach dem Uwe Scholz und vor dem Spoerli, ist er in Zürich Ballettdirektor gewesen. Und sein erstes Stück hiess "Unruhiges Wohnen". Ach, wie heisst sie, Nobelpreisträgerin, eine Schriftstellerin...
+[00:47:30] P: Ich glaube, das wechselt immer wieder. Aber etwas, wo ich immer wieder darauf geachtet habe, ist wirklich die Diskrepanz oder Übereinstimmung von dem, was mir der Künstler zum Beispiel in einer Einleitung oder in einem kurzen Abschnitt im Programmheft oder auch vorher in einer Vorschau oder in einer Einführung gesagt hat, dass ich das vergleiche, sehe ich das? Und ein Kriterium ist sicher, wie ist die Qualität der Darstellung von ihm. [00:48:08] Ist es wirklich so auf den Punkt gebracht oder wenn es ein Stil ist, beherrscht er den Stil, den er will. Aber, es kann natürlich auch sein, dass man total daneben ist. Auch das Beispiel vom Bienert, ich weiss nicht, ob der Bienert noch allgemein bekannt ist. Er ist nach dem Uwe Scholz und vor dem Spoerli, ist er in Zürich Ballettdirektor gewesen. Und sein erstes Stück hiess "Unruhiges Wohnen". Ach, wie heisst sie, Nobelpreisträgerin, eine Schriftstellerin...
 
 
 
@@ -770,7 +756,7 @@ P: [00:47:30] Ich glaube, das wechselt immer wieder. Aber etwas, wo ich immer w
 
 
 
-I: Jelinek. (48:55)
+(48:55) I: Jelinek. 
 
 
 
@@ -800,7 +786,7 @@ Weil, man muss auch noch sehen. Ein Tanzkritiker kann nicht zurückblättern. Ei
 
 
 
-Nicht gemerkt, nicht begriffen. Und jetzt hat es einfach die Möglichkeit gegeben, zu sagen, ja, das ist die ganze Leistung, es wird alles auseinandergenommen, es wird alles zerstückelt. Man hat alle diese Elemente vom klassischen und vom modernen Tanz und es ist einfach ein Kuddelmuddel, das nichts sagt. Das habe ich gemacht. [00:51:40] (lacht) Es gibt andere. Und ich bin dem wahrscheinlich nicht ganz gerecht geworden. Und es hat andere gegeben, die fanden, das ist besonders lustig, weil ich da jetzt endlich einmal nicht schauen muss, wie die Sachen zusammenhängen, sondern ich kann jedes für sich allein nehmen und das mehr oder weniger als Beispiel für Popart verstehen. Und eben, da bin ich heute noch nicht sicher, ich glaube es gibt auch keine Filmaufnahmen. [00:52:09] Man müsste das kontrollieren, wer da recht gehabt hat. Auf jeden Fall ist es nicht so, dass ich, wenn etwas dekonstruiert, also auseinandergenommen wird, dass, wenn es einen Zusammenhang hat, zum Beispiel wie grandios beim Forsythe, dass ich das nicht merke. Im Gegensatz, beim Forsythe, da bin ich sozusagen in einem Rausch drinnen. Weil ich da eben das Zusammenhängende, die Energie spüre, wo sich alles aufeinander bezieht. (52:39)
+Nicht gemerkt, nicht begriffen. Und jetzt hat es einfach die Möglichkeit gegeben, zu sagen, ja, das ist die ganze Leistung, es wird alles auseinandergenommen, es wird alles zerstückelt. Man hat alle diese Elemente vom klassischen und vom modernen Tanz und es ist einfach ein Kuddelmuddel, das nichts sagt. Das habe ich gemacht. [00:51:40]  Es gibt andere. Und ich bin dem wahrscheinlich nicht ganz gerecht geworden. Und es hat andere gegeben, die fanden, das ist besonders lustig, weil ich da jetzt endlich einmal nicht schauen muss, wie die Sachen zusammenhängen, sondern ich kann jedes für sich allein nehmen und das mehr oder weniger als Beispiel für Popart verstehen. Und eben, da bin ich heute noch nicht sicher, ich glaube es gibt auch keine Filmaufnahmen. [00:52:09] Man müsste das kontrollieren, wer da recht gehabt hat. Auf jeden Fall ist es nicht so, dass ich, wenn etwas dekonstruiert, also auseinandergenommen wird, dass, wenn es einen Zusammenhang hat, zum Beispiel wie grandios beim Forsythe, dass ich das nicht merke. Im Gegensatz, beim Forsythe, da bin ich sozusagen in einem Rausch drinnen. Weil ich da eben das Zusammenhängende, die Energie spüre, wo sich alles aufeinander bezieht. (52:39)
 
 
 
@@ -810,7 +796,7 @@ Nicht gemerkt, nicht begriffen. Und jetzt hat es einfach die Möglichkeit gegebe
 
 
 
-Aber es kann ganz gut sein, dass einem wirklich auch wieder mal das Organ fehlt und dass man da etwas geschrieben hat, was dem armen Bienert nicht gerecht wurde. Aber, er ist selber sehr inkonsequent gewesen. Er hat sich nämlich durch uns dazu bringen lassen, dass er das verändert hat. (lacht) Sodass man es auch nicht mehr kontrollieren konnte. [00:53:04] Er ist offensichtlich seiner Sache auch nicht ganz sicher gewesen. Und er ist auch mehr jemand vom Theater gewesen, von Schaufensterdekorationen, so etwas. Von optischen Sachen. Und er hat auch ein interessantes Programm gebracht, damals. (53:19)Aber eben, das "Unruhige Wohnen", das ist immer noch etwas, das einem so bleibt, wo man so denkt, hätte man vielleicht besser schreiben können. (lachen beide)[00:53:26] 
+Aber es kann ganz gut sein, dass einem wirklich auch wieder mal das Organ fehlt und dass man da etwas geschrieben hat, was dem armen Bienert nicht gerecht wurde. Aber, er ist selber sehr inkonsequent gewesen. Er hat sich nämlich durch uns dazu bringen lassen, dass er das verändert hat. Sodass man es auch nicht mehr kontrollieren konnte. [00:53:04] Er ist offensichtlich seiner Sache auch nicht ganz sicher gewesen. Und er ist auch mehr jemand vom Theater gewesen, von Schaufensterdekorationen, so etwas. Von optischen Sachen. Und er hat auch ein interessantes Programm gebracht, damals. (53:19)Aber eben, das "Unruhige Wohnen", das ist immer noch etwas, das einem so bleibt, wo man so denkt, hätte man vielleicht besser schreiben können. (lachen beide)[00:53:26] 
 
 
 
@@ -850,7 +836,7 @@ Und darum habe ich mich da im Prinzip immer zurückgehalten. Und es hat auch Leu
 
 
 
-Und eben da ergibt es sich langsam. Und manchmal konnte es auch sein, dass eine junge Künstlerin dann direkt Kontakt wollte mit einem und gefragt hat, ob man bereit wäre einmal mit ihr das Stück nochmal anzuschauen und vielleicht die Punkte, die man dort halb kritisiert hat, dass sie das noch genauer wissen will. Und das habe ich dann manchmal gemacht. [00:55:58] Ich habe aber dann später nachher ein ungutes Gefühl gehabt, wenn ich zu einer neueren Produktion habe kommen müssen, weil ich mich dann schon fast verantwortlich gefühlt habe, wenn sie irgendeinen Rat angenommen hat und dann klappt es doch nicht. Ich habe das eigentlich nie gerngehabt, ich habe mich da wirklich immer getrennt.[00:56:19]  Wo ich aber keine Trennung gemacht habe und was der Richard zum Beispiel – mein grosses Vorbild – immer gemacht hat, ich habe auch mit dem Martin Schläpfer ein Interview gemacht, wo er da sein Stück inszeniert hat. Das sind so Sachen, die ich gerne gemacht habe. Auch die Leser darauf einstimmen schon. Aber, das habe ich relativ selten gemacht. (56:42)
+Und eben da ergibt es sich langsam. Und manchmal konnte es auch sein, dass eine junge Künstlerin dann direkt Kontakt wollte mit einem und gefragt hat, ob man bereit wäre einmal mit ihr das Stück nochmal anzuschauen und vielleicht die Punkte, die man dort halb kritisiert hat, dass sie das noch genauer wissen will. Und das habe ich dann manchmal gemacht. [00:55:58] Ich habe aber dann später nachher ein ungutes Gefühl gehabt, wenn ich zu einer neueren Produktion habe kommen müssen, weil ich mich dann schon fast verantwortlich gefühlt habe, wenn sie irgendeinen Rat angenommen hat und dann klappt es doch nicht. Ich habe das eigentlich nie gern gehabt, ich habe mich da wirklich immer getrennt.[00:56:19]  Wo ich aber keine Trennung gemacht habe und was der Richard zum Beispiel – mein grosses Vorbild – immer gemacht hat, ich habe auch mit dem Martin Schläpfer ein Interview gemacht, wo er da sein Stück inszeniert hat. Das sind so Sachen, die ich gerne gemacht habe. Auch die Leser darauf einstimmen schon. Aber, das habe ich relativ selten gemacht. (56:42)
 
 
 
@@ -860,7 +846,7 @@ Und eben da ergibt es sich langsam. Und manchmal konnte es auch sein, dass eine 
 
 
 
-Ich bin wahrscheinlich eher jemand, der abweisend wirkt. Auch wenn die Leute dann wissen, wer ich bin. Ich wirke so distanziert, dass sich glaube ich, niemand getraut, mich um irgendetwas anzuhauen. (I lacht) Aber ich fühle mich irgendwie nicht als etwas besonders, es ist einfach meine Art. Ich bin eher zurückhaltend, bevor ich jemanden kenne. Ich habe auch praktisch niemanden geduzt. Das gehört so dazu.
+Ich bin wahrscheinlich eher jemand, der abweisend wirkt. Auch wenn die Leute dann wissen, wer ich bin. Ich wirke so distanziert, dass sich glaube ich, niemand getraut, mich um irgendetwas anzuhauen. Aber ich fühle mich irgendwie nicht als etwas besonders, es ist einfach meine Art. Ich bin eher zurückhaltend, bevor ich jemanden kenne. Ich habe auch praktisch niemanden geduzt. Das gehört so dazu.
 
 
 
@@ -880,7 +866,7 @@ I: Du hast das Interview schon angesprochen, was ist der Reiz an den anderen Tex
 
 
 
-P: Also, was ich besonders gern gemacht habe an anderen... das sind natürlich fürs (unv.) (57:34) die historischen Sachen oder dann habe ich auch hier und da für die NZZ über den neunzigsten Geburtstag von der Niddy Impekoven oder eine Hommage für den Terpis, wo ich schon grössere Artikel geschrieben habe. Das habe ich natürlich sehr gern gemacht. Das ist mir dann auch sehr gelegen, das habe ich toll gefunden. Ich habe auch etwas gemacht über Ausdruckstanz. [00:57:58] Aber das ist dann tanzgeschichtlich gewesen, ohne dass ich da – ich habe kein einziges Buch geschrieben. Aber einfach, dass ich dann so einzelne Beiträge über geschichtliche Entwicklungen, was hat die Mary Wigman hier in Zürich gemacht. Und solche Sachen. Und dann haben wir ja auch früher, wo es nur das Tanzarchiv Lausanne gegeben hat,[00:58:28]  da haben wir ja eine Zeitschrift herausgegeben, und da haben abwechselnd der John Geisler, der Jean-Pierre Pastori und ich in unserer freien Zeit, haben das gestaltet. Und da hat man dann einfach eben den Beriozoff oder Charlotte Bara oder eben den Terpis und solche Leute, hat man dann einfach porträtiert. (58:50)
+P: Also, was ich besonders gern gemacht habe an anderen... das sind natürlich fürs Turicum die historischen Sachen oder dann habe ich auch hier und da für die NZZ über den neunzigsten Geburtstag von der Niddy Impekoven oder eine Hommage für den Terpis, wo ich schon grössere Artikel geschrieben habe.(57:48)  Das habe ich natürlich sehr gern gemacht. Das ist mir dann auch sehr gelegen, das habe ich toll gefunden. Ich habe auch etwas gemacht über Ausdruckstanz. [00:57:58] Aber das ist dann tanzgeschichtlich gewesen, ohne dass ich da – ich habe kein einziges Buch geschrieben. Aber einfach, dass ich dann so einzelne Beiträge über geschichtliche Entwicklungen, was hat die Mary Wigman hier in Zürich gemacht. Und solche Sachen. Und dann haben wir ja auch früher, wo es nur das Tanzarchiv Lausanne gegeben hat,[00:58:28]  da haben wir ja eine Zeitschrift herausgegeben, und da haben abwechselnd der John Geisler, der Jean-Pierre Pastori und ich in unserer freien Zeit, haben das gestaltet. Und da hat man dann einfach eben den Beriozoff oder Charlotte Bara oder eben den Terpis und solche Leute, hat man dann einfach porträtiert. (58:50)
 
 
 
@@ -920,18 +906,11 @@ I: Gibt es für dich ein Rezept zum Kritiken schreiben? (1:00:25)
 
 
 
-P: Nein, ich glaube das kann man nicht sagen... Es ist so schwierig zu sagen, wie man mit dieser Aufgabe umgehen kann, weil es hängt von so vielen Sachen ab, die man nicht selbst bestimmen kann. Wo ich angefangen habe, hat man natürlich noch sehr wenig Tanz gehabt, weil die freie Szene ist ja gerade erst am Entstehen gewesen. [01:00:53] Und gleichzeitig hat man in der Zeitung enorm viel Platz gehabt. Weil damals hat man sich noch nicht gescheut die sogenannten Bleiwüste zu machen, das heisst es hat einen kleinen Titel gehabt, einen Untertitel und dann konnte man ausführlich schreiben. [01:01:11] Und dann ist es immer mehr so gewesen, dass die Zeitungsseiten grafisch gestaltet worden sind, man hat eigentlich im Endeffekt hundert Zeilen schreiben können und je nachdem hat der Grafiker aus dem einen kleinen oder einen grossen Beitrag gemacht. Das Foto vielleicht ganz gross und dann noch mit einem riesigen Titel, wenn es die Hauptsache gewesen ist. (1:01:36)Und wenn es die Nebensache gewesen ist, dann ist es die rechte Spalte von oben herab bis zuunterst und dann ist man eher untergegangen, weil es eben nur der Nebenartikel gewesen ist. Und das kommt sehr darauf an, wie man mit dem umgeht. Und dann gibt es natürlich auch Sachen, wo man nicht mal hundert Zeilen hat, wo es dann um sechzig Zeilen gegangen ist und dann konnte man wirklich nur schreiben, wer, was, wie, wann, wo. Und vielleicht noch ein, zwei Sätze zum etwas charakterisieren und mehr ist da gar nicht drin gelegen.[01:02:05]  Und eben, wenn man dann einfach im Opernhaus gesagt hat, das ist ein vierteiliger Abend mit alles zusammen sehr interessanten Sachen und sehr unterschiedlichen Sachen, da brauche ich einfach mehr Platz, dann haben sie es vielleicht möglich gemacht.[01:02:20]  Und man muss sich eben sehr stark an diese Sachen halten, weil ich habe immer geschaut, dass ich nicht zu viel schreibe, weil ich habe es nicht gerngehabt, wenn sie mir dann Sachen herausgestrichen haben. Vor allem, wenn sie mir dann am Schluss noch die letzten zwei Sätze, die so quasi das Ganze abrunden sollten, wenn sie das einfach herausgeschmissen haben, weil sie sich nicht die Mühe gemacht haben. Was ich auch begreife. (1:02:42)
+P: Nein, ich glaube das kann man nicht sagen... Es ist so schwierig zu sagen, wie man mit dieser Aufgabe umgehen kann, weil es hängt von so vielen Sachen ab, die man nicht selbst bestimmen kann. Wo ich angefangen habe, hat man natürlich noch sehr wenig Tanz gehabt, weil die freie Szene ist ja gerade erst am Entstehen gewesen. [01:00:53] Und gleichzeitig hat man in der Zeitung enorm viel Platz gehabt. Weil damals hat man sich noch nicht gescheut die sogenannten Bleiwüste zu machen, das heisst es hat einen kleinen Titel gehabt, einen Untertitel und dann konnte man ausführlich schreiben. [01:01:11] Und dann ist es immer mehr so gewesen, dass die Zeitungsseiten grafisch gestaltet worden sind, man hat eigentlich im Endeffekt hundert Zeilen schreiben können und je nachdem hat der Grafiker aus dem einen kleinen oder einen grossen Beitrag gemacht. Das Foto vielleicht ganz gross und dann noch mit einem riesigen Titel, wenn es die Hauptsache gewesen ist. (1:01:36)Und wenn es die Nebensache gewesen ist, dann ist es die rechte Spalte von oben herab bis zuunterst und dann ist man eher untergegangen, weil es eben nur der Nebenartikel gewesen ist. Und das kommt sehr darauf an, wie man mit dem umgeht. Und dann gibt es natürlich auch Sachen, wo man nicht mal hundert Zeilen hat, wo es dann um sechzig Zeilen gegangen ist und dann konnte man wirklich nur schreiben, wer, was, wie, wann, wo. Und vielleicht noch ein, zwei Sätze zum etwas charakterisieren und mehr ist da gar nicht drin gelegen.[01:02:05]  Und eben, wenn man dann einfach im Opernhaus gesagt hat, das ist ein vierteiliger Abend mit alles zusammen sehr interessanten Sachen und sehr unterschiedlichen Sachen, da brauche ich einfach mehr Platz, dann haben sie es vielleicht möglich gemacht.[01:02:20]  Und man muss sich eben sehr stark an diese Sachen halten, weil ich habe immer geschaut, dass ich nicht zu viel schreibe, weil ich habe es nicht gern gehabt, wenn sie mir dann Sachen herausgestrichen haben. Vor allem, wenn sie mir dann am Schluss noch die letzten zwei Sätze, die so quasi das Ganze abrunden sollten, wenn sie das einfach herausgeschmissen haben, weil sie sich nicht die Mühe gemacht haben. Was ich auch begreife. (1:02:42)
 Die haben auch immer weniger Leute, die das machen. Man ist da sehr stark bestimmt. Ausser man macht es so, wie es verschiedene Leute machen, die ich kenne. Die einfach sagen: "Ich schreibe weiter, ich habe einfach einen Blog und solange das Opernhaus mir für den Blog eine Freikarte gibt, ist es gut. Und wenn jemand den Blog lesen will, dann kann er ihn lesen. Man verdient nichts dabei, aber man hat Freude, dass man seine Tätigkeit weitermacht." Ich habe das nicht gemacht. [01:03:23] 
 
 
 
-
-
-
-
-
-
-K/R und I (Absprachen wegen einer kurzen Pause)
 
 
 
@@ -951,7 +930,7 @@ P: (unv.) – ist es sehr stark die Presse – Kritiker schon steuernd, indem si
 
 
 
-I: Bleiben wir – also, das wäre schon gut, wenn wir jetzt noch beim Schreiben bleiben. (etwas fällt herunter) Ups, Entschuldigung! Der Wandel auch, halt auch Vielfalt, den es gab. Die Vielfalt, der viele Platz und wie ist es heute? (1:04:03)
+I: Bleiben wir – also, das wäre schon gut, wenn wir jetzt noch beim Schreiben bleiben. Ups, Entschuldigung! Der Wandel auch, halt auch Vielfalt, den es gab. Die Vielfalt, der viele Platz und wie ist es heute? (1:04:03)
 
 
 
@@ -1091,14 +1070,6 @@ P: Gut, ich versuche daran zu denken. (1:05:01)
 
 
 
-(kleinere Absprachen über den weiteren inhaltlichen Verlauf)
-
-
-
-
-
-
-
 
 
 I: Mittlerweile sind wir beim Blog angekommen. Vielleicht kannst du probieren mal diesen digitalen Wandel von deinen Anfängen vom Schreiben, von der Schreibmaschine bis jetzt, zu skizzieren, wann was erfolgt ist? (1:05:33)
@@ -1121,7 +1092,7 @@ P: Also, du willst wissen wie sich quasi praktisch die Arbeit vom Kritiker, wie 
 
 
 
-I: Ja, ob es Routinen gibt? Gibt es wahrscheinlich. Und wie hat sich dein Schreiben verändert, durch die veränderten Medien?P: [01:05:53] Ja, die Veränderungen, so quasi im geschichtlichen Verlauf. Also, wo ich angefangen habe in den siebziger Jahren, da ist es darum gegangen, dass es sehr wenige Sachen noch gegeben hat. Es sind einzelne Gastspiele gewesen vielleicht, ganz wenige. Es sind die Opernhaus-Aufführungen gewesen und gerade dort hat der Claude Perrottet angefangen mit dem "Tanznovember" (Da habe ich mich geirrt: das war das Tanzforum) und das ist dann im Rämibühl gewesen und dort haben alle, die dann die freie Szene mitgestaltet haben in den achtziger Jahren, die haben dort ihre kurzen Auftritte gehabt. (1:06:41)
+I: Ja, ob es Routinen gibt? Gibt es wahrscheinlich. Und wie hat sich dein Schreiben verändert, durch die veränderten Medien?[01:05:53] P: Ja, die Veränderungen, so quasi im geschichtlichen Verlauf. Also, wo ich angefangen habe in den siebziger Jahren, da ist es darum gegangen, dass es sehr wenige Sachen noch gegeben hat. Es sind einzelne Gastspiele gewesen vielleicht, ganz wenige. Es sind die Opernhaus-Aufführungen gewesen und gerade dort hat der Claude Perrottet angefangen mit dem "Tanznovember" (Da habe ich mich geirrt: das war das Tanzforum) und das ist dann im Rämibühl gewesen und dort haben alle, die dann die freie Szene mitgestaltet haben in den achtziger Jahren, die haben dort ihre kurzen Auftritte gehabt. (1:06:41)
 
 
 
@@ -1181,7 +1152,7 @@ Und was eben auch gewesen ist, zum Beispiel die Welscher Gruppe, die sind viel m
 
 
 
-Dann irgendwann habe ich mir natürlich auch einen Computer angeschafft. Und am Anfang habe ich sogar noch nach alter Manier gearbeitet, das heisst ich habe meine Artikel geschrieben und ausgedruckt und habe es noch einmal abgeschrieben, weil ich bin überzeugt gewesen, dass es besser wird, als wenn ich einfach hineinflicke und die verschiedenen Abschnitte austausche. Aber je besser man dann mit dem Computer umgehen konnte, umso mehr hat man dann auch so angefangen und dann eben auch die Vorbereitung, die schwierigen Namen oder komplizierte Titel, die man übersetzen muss, die man sowieso kennt (1:12:10), die konnte man dann mal im Computer eingeben und dann nachher mit copy und paste dorthin tun, wo es dann hingehört hat. Das heisst, es ist schon eine grosse Erleichterung gewesen. Und ich habe dann nicht mehr meine Artikel in der Nacht auf die Post gebracht, sondern ich habe am Abend so lange geschrieben, bis ich das Gefühl hatte, jetzt stimmt der Aufbau und jetzt muss ich zwar noch den Abschnitt fertigmachen, aber das ist jetzt keine Sache mehr. (1:12:39)
+Dann irgendwann habe ich mir natürlich auch einen Computer angeschafft. Und am Anfang habe ich sogar noch nach alter Manier gearbeitet, das heisst ich habe meine Artikel geschrieben und ausgedruckt und habe es noch einmal abgeschrieben, weil ich bin überzeugt gewesen, dass es besser wird, als wenn ich einfach hineinflicke und die verschiedenen Abschnitte austausche. (1:11:54)Aber je besser man dann mit dem Computer umgehen konnte, umso mehr hat man dann auch so angefangen und dann eben auch die Vorbereitung, die schwierigen Namen oder komplizierte Titel, die man übersetzen muss, die man sowieso kennt (1:12:10), die konnte man dann mal im Computer eingeben und dann nachher mit copy und paste dorthin tun, wo es dann hingehört hat. Das heisst, es ist schon eine grosse Erleichterung gewesen. Und ich habe dann nicht mehr meine Artikel in der Nacht auf die Post gebracht, sondern ich habe am Abend so lange geschrieben, bis ich das Gefühl hatte, jetzt stimmt der Aufbau und jetzt muss ich zwar noch den Abschnitt fertigmachen, aber das ist jetzt keine Sache mehr. (1:12:39)
 
 
 
@@ -1211,7 +1182,7 @@ Und hier und da hat man sich irgendetwas überlegt, weil eine Ankündigung spezi
 
 
 
-Oder sie haben es ganz fest gekürzt. Dann konnte man gar nichts machen. Da hat es auch Artikel gegeben, die gar nie dann erschienen sind, weil es dann nachher keinen Platz mehr gab. Ja, das ist einfach das Zeitungsbusiness dann gewesen. Aber man ist ruhiger gewesen. Und ich habe eigentlich dann die Erfahrung gemacht, dass man am Anfang, wenn man es lernt quasi, dass man da einen grossen Wert darauf legt zu beschreiben. Und dass man dann die Interpretation wie nachher...[01:15:27]  Aber zuerst muss man mal den Wortschatz haben, dass man Bewegungen richtig beschreiben kann. Es hat einem natürlich dann geholfen, wenn man unterrichtet hat später. Aber das hat man dann zuerst. Und das ist relativ schwierig, weil auch das muss man lernen. Aber auf dem basiert ja eigentlich die Kritik. (1:15:48)
+Oder sie haben es ganz fest gekürzt. Dann konnte man gar nichts machen. Da hat es auch Artikel gegeben, die gar nie dann erschienen sind, weil es dann nachher keinen Platz mehr gab. Ja, das ist einfach das Zeitungsbusiness dann gewesen. (1:15:02)Aber man ist ruhiger gewesen. Und ich habe eigentlich dann die Erfahrung gemacht, dass man am Anfang, wenn man es lernt quasi, dass man da einen grossen Wert darauf legt zu beschreiben. Und dass man dann die Interpretation wie nachher...[01:15:27]  Aber zuerst muss man mal den Wortschatz haben, dass man Bewegungen richtig beschreiben kann. Es hat einem natürlich dann geholfen, wenn man unterrichtet hat später. Aber das hat man dann zuerst. Und das ist relativ schwierig, weil auch das muss man lernen. Aber auf dem basiert ja eigentlich die Kritik. (1:15:48)
 
 
 
@@ -1221,7 +1192,7 @@ Oder sie haben es ganz fest gekürzt. Dann konnte man gar nichts machen. Da hat 
 
 
 
-Ich habe ja immer Notizen gemacht, aber ich habe immer geschrieben ohne nach unten zu schauen, weil das sind die berühmten Zettel, die hat man vorher nummeriert und dann hat man den Daumen da drauf, wo man schon geschrieben hat und dann hat man das einfach hin gekritzelt und hat dann am Schluss Zettel gehabt. Und ganz mit der Zeit, ist es dann natürlich auch gekommen, wo man dann wirklich routinierter gewesen ist und gemerkt hat, man hat es jetzt so ungefähr drinnen, wie das ist mit dem Beschreiben, mit dem Ineinander von beschreiben und schon interpretieren und dann noch irgendetwas, was dann schon abstrakter ist.[01:16:29]  Dass man dann schon angefangen hat, während der Vorstellung, vor allem, wenn es einen nicht so atemlos gepackt hat, dass man einfach nur mehr Auge gewesen ist. Dass man sich dann schon gewisse Sachen aufgeschrieben hat, die schon in den Bereich Interpretation gehört haben. Oder es konnte auch sein, dass mitten in einem Stück, ist einem plötzlich ein genialer Titel in den Sinn gekommen und den hat man dann natürlich aufgeschrieben und umrahmt. (1:16:58)
+Ich habe ja immer Notizen gemacht, aber ich habe immer geschrieben ohne nach unten zu schauen, weil das sind die berühmten Zettel, die hat man vorher nummeriert und dann hat man den Daumen da drauf, wo man schon geschrieben hat und dann hat man das einfach hin gekritzelt und hat dann am Schluss Zettel gehabt. (1:16:05)Und ganz mit der Zeit, ist es dann natürlich auch gekommen, wo man dann wirklich routinierter gewesen ist und gemerkt hat, man hat es jetzt so ungefähr drinnen, wie das ist mit dem Beschreiben, mit dem Ineinander von beschreiben und schon interpretieren und dann noch irgendetwas, was dann schon abstrakter ist.[01:16:29]  Dass man dann schon angefangen hat, während der Vorstellung, vor allem, wenn es einen nicht so atemlos gepackt hat, dass man einfach nur mehr Auge gewesen ist. Dass man sich dann schon gewisse Sachen aufgeschrieben hat, die schon in den Bereich Interpretation gehört haben. Oder es konnte auch sein, dass mitten in einem Stück, ist einem plötzlich ein genialer Titel in den Sinn gekommen und den hat man dann natürlich aufgeschrieben und umrahmt. (1:16:58)
 
 
 
@@ -1241,17 +1212,10 @@ Irgendwie da im Kritzeln, wo man im Dunkeln geschrieben hat. Und meistens, wo ic
 
 
 
-Und das ist dann natürlich vor allem dann bei mir gewesen, bei einer Gattung, die mir selbst nicht besonders liegt, nämlich dem Konzepttanz. Über das Konzept von einem Stück, das einer bringt, da kann man einen ganzen Haufen ganz gescheite Sachen schreiben, das ist eigentlich (pustet), da braucht es nicht einmal schaurig viel Anstrengung, und ich habe mich schon manchmal da hineingeflüchtet, wenn ich mit dem, was ich gesehen habe, tatsächlich, ehrlich gesagt, persönlich, nicht so viel anfangen konnte.[01:18:22]  Und mich nicht berührt hat. Wo ich einfach das Gefühl hatte, warum eigentlich? Die schriftliche Beschreibung, das Programm davon ist interessanter als das, was ich tatsächlich gesehen habe. Und zum Glück habe ich dann dich,die Evelyn gehabt, weil am Schluss, wo ich immer noch geschrieben habe, haben wir uns aufteilen können und dann hat jeder gerade das genommen, was ihm gelegen ist. Gewisse Sache, da habe ich auch gesagt, also das will ich unbedingt. (lacht) (1:18:57)
+Und das ist dann natürlich vor allem dann bei mir gewesen, bei einer Gattung, die mir selbst nicht besonders liegt, nämlich dem Konzepttanz. Über das Konzept von einem Stück, das einer bringt, da kann man einen ganzen Haufen ganz gescheite Sachen schreiben, das ist eigentlich , da braucht es nicht einmal schaurig viel Anstrengung, und ich habe mich schon manchmal da hineingeflüchtet, wenn ich mit dem, was ich gesehen habe, tatsächlich, ehrlich gesagt, persönlich, nicht so viel anfangen konnte.[01:18:22]  Und mich nicht berührt hat. Wo ich einfach das Gefühl hatte, warum eigentlich? Die schriftliche Beschreibung, das Programm davon ist interessanter als das, was ich tatsächlich gesehen habe. Und zum Glück habe ich dann dich, die Evelyn gehabt, weil am Schluss, wo ich immer noch geschrieben habe, haben wir uns aufteilen können und dann hat jeder gerade das genommen, was ihm gelegen ist. Gewisse Sache, da habe ich auch gesagt, also das will ich unbedingt. (1:18:57)
 
 
-
-
-
-
-
-
-
-Andere Sachen, da bin ich froh gewesen, wenn sie es nimmt. Weil, es macht ja eigentlich keinen Sinn... meine Devise beim Schreiben ist ja, dass man beschreibt oder versucht zu begreifen beim Schreiben, was einen ergriffen hat. Was einen mitgenommen hat. Wo man das Gefühl hat, das geht einen etwas an. [01:19:20] Und wenn man dasitzt und denkt, was soll's. Geht mich nichts an, in einem gewissen Sinn. Dann nachher ist eigentlich schon das, was einen antreibt, ist dann irgendwie nicht da. [01:19:34] Es gibt ja solche Beispiele, wenn irgendjemand kommt und eine dreiviertel Seite schreibt, dass sie jetzt ein Stück macht über die Sissi. Weil die Sissi, Königin Elisabeth von Österreich, sei ja gar nicht so gewesen, wie sie in den Sissi-Filmen ist. Dann muss ich denken, das ist für mich kein Erkenntnisgewinn, das habe ich schon lange gewusst und dafür muss ich nicht ins Theater. (lacht) (1:20:02)
+Andere Sachen, da bin ich froh gewesen, wenn sie es nimmt. Weil, es macht ja eigentlich keinen Sinn... meine Devise beim Schreiben ist ja, dass man beschreibt oder versucht zu begreifen beim Schreiben, was einen ergriffen hat. Was einen mitgenommen hat. Wo man das Gefühl hat, das geht einen etwas an. [01:19:20] Und wenn man dasitzt und denkt, was soll's. Geht mich nichts an, in einem gewissen Sinn. Dann nachher ist eigentlich schon das, was einen antreibt, ist dann irgendwie nicht da. [01:19:34] Es gibt ja solche Beispiele, wenn irgendjemand kommt und eine dreiviertel Seite schreibt, dass sie jetzt ein Stück macht über die Sissi. Weil die Sissi, Königin Elisabeth von Österreich, sei ja gar nicht so gewesen, wie sie in den Sissi-Filmen ist. Dann muss ich denken, das ist für mich kein Erkenntnisgewinn, das habe ich schon lange gewusst und dafür muss ich nicht ins Theater. (1:20:02)
 
 
 
@@ -1311,7 +1275,7 @@ Der Lokalsport bei den kleinen Zeitungen, der hat immer seinen Platz und Wirtsch
 
 
 
-I: Du hast in deinem Leben ganz viele Schritte durchgemacht (lacht), von der Schreibmaschine zum PC, von der VHS-Kassette, DVD und mittlerweile schauen wir alles auf YouTube. Dein letzter Schritt, ja ins Netz, eben ein Blog, den hast du selbst nicht machen wollen, aber liest du sie?
+I: Du hast in deinem Leben ganz viele Schritte durchgemacht, von der Schreibmaschine zum PC, von der VHS-Kassette, DVD und mittlerweile schauen wir alles auf YouTube. Dein letzter Schritt, ja ins Netz, eben ein Blog, den hast du selbst nicht machen wollen, aber liest du sie?
 
 
 
@@ -1321,7 +1285,7 @@ I: Du hast in deinem Leben ganz viele Schritte durchgemacht (lacht), von der Sch
 
 
 
-P: [01:25:34] Ich lese bei denen, die ich kenne, oder? Oder ich gehe ins Tanznetz in Deutschland oder irgendwie so. Und ich finde natürlich, wenn ich mich über irgendetwas oder jemanden orientieren will, also sei es jetzt da der Goecke, der "Nijinski", das habe ich selbstverständlich in den Tanzzeitschriften gelesen, dann wenn es uraufgeführt wurde und dann bin ich natürlich auch wieder ins Netz und habe dann einen ganzen Haufen, ganz verstreute, einfach relativ zufällig, einfach noch zusätzliche Artikel gefunden. Und auch natürlich auf YouTube. Aber, ich muss ehrlich sagen, ich schaue meine VHS an. (lacht) (1:26:17)
+[01:25:34] P:  Ich lese bei denen, die ich kenne, oder? Oder ich gehe ins Tanznetz in Deutschland oder irgendwie so. Und ich finde natürlich, wenn ich mich über irgendetwas oder jemanden orientieren will, also sei es jetzt da der Goecke, der "Nijinski", das habe ich selbstverständlich in den Tanzzeitschriften gelesen, dann wenn es uraufgeführt wurde und dann bin ich natürlich auch wieder ins Netz und habe dann einen ganzen Haufen, ganz verstreute, einfach relativ zufällig, einfach noch zusätzliche Artikel gefunden. Und auch natürlich auf YouTube. Aber, ich muss ehrlich sagen, ich schaue meine VHS an. (1:26:17)
 
 
 
@@ -1371,7 +1335,7 @@ Und dadurch habe ich eigentlich lieber Lexika, die von guten Leuten redigiert si
 
 
 
-Ich greife auch nicht ein, wenn ich dem Nurejew seinen Wikipedia-Artikel lese und denke, kann nicht sein, stimmt nicht! Ich tu`s auch nicht korrigieren, ich tu' auch nicht eingreifen, das liegt mir irgendwie einfach nicht. Aber, ich merke natürlich bei gewissen Sachen, woher die Leute die Information haben. Wo es nicht so ganz so ist, wie es dargestellt wird. (lacht) Also zumindest so, was ich aus Büchern habe oder aus Primärtexten und so weiter. Eben, ich bin gewöhnt meine Bücher herauszunehmen.[01:29:58] 
+Ich greife auch nicht ein, wenn ich dem Nurejew seinen Wikipedia-Artikel lese und denke, kann nicht sein, stimmt nicht! Ich tu`s auch nicht korrigieren, ich tu' auch nicht eingreifen, das liegt mir irgendwie einfach nicht. Aber, ich merke natürlich bei gewissen Sachen, woher die Leute die Information haben. Wo es nicht so ganz so ist, wie es dargestellt wird.  Also zumindest so, was ich aus Büchern habe oder aus Primärtexten und so weiter. Eben, ich bin gewöhnt meine Bücher herauszunehmen.[01:29:58] 
 
 
 
@@ -1432,7 +1396,7 @@ Und nicht als Ansatz, wie ich mir das anschaue. Sondern bei mir ist es schon eig
 
 
 
-I: Der Steiger hat Musik- und Theaterkritiken geschrieben, habe ich gelesen.
+I: Der Staiger hat Musik- und Theaterkritiken geschrieben, habe ich gelesen.
 
 
 
@@ -1442,17 +1406,11 @@ I: Der Steiger hat Musik- und Theaterkritiken geschrieben, habe ich gelesen.
 
 
 
-P: [01:34:30] Er hat eigentlich nicht Kritiken geschrieben, er hat über Musik geschrieben, er hat jeden Tag zwei Stunden Klavier gespielt am Morgen, er ist sehr musikalisch gewesen. Er ist auch im Verwaltungsrat vom Opernhaus gewesen und ist darum sehr viel dort gewesen. Er hat sich sehr, sehr gut ausgekannt, vor allem mit dem Musiktheater. Das hat ihm auch eigentlich besser gefallen als das Schauspiel. So wie wir das empfunden haben. (1:34:56)
+[01:34:30] P: Er hat eigentlich nicht Kritiken geschrieben, er hat über Musik geschrieben, er hat jeden Tag zwei Stunden Klavier gespielt am Morgen, er ist sehr musikalisch gewesen. Er ist auch im Verwaltungsrat vom Opernhaus gewesen und ist darum sehr viel dort gewesen. Er hat sich sehr, sehr gut ausgekannt, vor allem mit dem Musiktheater. Das hat ihm auch eigentlich besser gefallen als das Schauspiel. So wie wir das empfunden haben. (1:34:56)
 
 
 
-
-
-
-
-
-
-Aber, die Musik hat für ihn eine riesige Rolle gespielt, er hat auch viel mit Musik verglichen. Das hat ihn gepackt, aber ich weiss nicht, ob er in ganz jungen Jahren, aber er ist ja relativ früh Professor gewesen. Ich glaube nicht, dass er... er hat mehr Essays geschrieben. Und es gibt kleine Bücher über Musik von ihm. Und das ist vor allem über den (Schöck?), die er besonders gerne gehabt hat. Das hat er geschrieben. Und eben, im Opernhaus hat man ihn eigentlich immer gesehen. Aber ich würde sagen, weniger Ballett. Aber das Singspiel von Goethe ist eben schon etwas, wo er einiges darüber geschrieben hat. (lacht). (1:35:48)
+Aber, die Musik hat für ihn eine riesige Rolle gespielt, er hat auch viel mit Musik verglichen. Das hat ihn gepackt, aber ich weiss nicht, ob er in ganz jungen Jahren, aber er ist ja relativ früh Professor gewesen. Ich glaube nicht, dass er... er hat mehr Essays geschrieben. Und es gibt kleine Bücher über Musik von ihm. (1:35:21)Und das ist vor allem über den Schöck, oder solche Sachen,die er besonders gerne gehabt hat. Das hat er geschrieben. Und eben, im Opernhaus hat man ihn eigentlich immer gesehen. Aber ich würde sagen, weniger Ballett. Aber das Singspiel von Goethe ist eben schon etwas, wo er einiges darüber geschrieben hat. (1:35:48)
 
 
 
@@ -1466,26 +1424,12 @@ I: Noch eine Frage, das berührt sie – oft nimmt man das, was einen so packt i
 
 
 
+ [01:36:02] P:Also ich habe eigentlich immer am Anfang zuerst mal – kommt darauf an.  
 
 
 
 
-
-
-P: [01:36:02] Also ich habe eigentlich immer am Anfang zuerst mal – kommt darauf an.  
-
-
-
-
-
-
-
-
-
-
-
-
-P: [01:36:11] Ich muss das jetzt präzisieren. Ich habe zwei bevorzugte Anfänge gehabt. Der eine Anfang ist der gewesen, dass ich zuerst einfach mal eine Ausweitung von (unv.), also quasi im Opernhaus ist das und das, das sind die drei Stücke mit der Musik und das Gemeinsame von diesen drei Stücken, quasi das Motto, kann man sagen ist der Bezug vom Tanz zur Musik. Und dann habe ich angefangen mit den einzelnen Stücken. (1:36:43)
+[01:36:11] P: Ich muss das jetzt präzisieren. Ich habe zwei bevorzugte Anfänge gehabt. Der eine Anfang ist der gewesen, dass ich zuerst einfach mal eine Ausweitung vom Leads, also quasi im Opernhaus ist das und das, das sind die drei Stücke mit der Musik und das Gemeinsame von diesen drei Stücken, quasi das Motto, kann man sagen ist der Bezug vom Tanz zur Musik. Und dann habe ich angefangen mit den einzelnen Stücken. (1:36:43)
 
 
 
@@ -1495,7 +1439,7 @@ P: [01:36:11] Ich muss das jetzt präzisieren. Ich habe zwei bevorzugte Anfäng
 
 
 
-Ich habe irgendwie so wie ein allgemeines Thema an den Anfang gestellt. Aber ich habe manchmal eben, wenn der Eindruck besonders gross gewesen ist, habe ich genau mit den ganz detaillierten Beschreibungen, mit dem Eindruck angefangen. Und habe dann das andere irgendwie nachher. [01:37:03] Aber das sind meine beiden gewohnheitsmässigen Einstiege gewesen. Dass ich gerade irgendwie etwas herausgepickt habe und das dann an den Anfang gestellt. Weil die (unv.) sind ja meistens sehr kurz gewesen. Also bei den grossen Artikel ist er ja meistens grösser gewesen, aber wir haben ja sehr oft die kleinen Artikel geschrieben über den Tanz. (lacht) Und darum ist noch nicht alles zur Sprache gekommen, wer ist was, wo, wann, wer hat choreografiert. Was ist, oder? (1:37:40)
+Ich habe irgendwie so wie ein allgemeines Thema an den Anfang gestellt. Aber ich habe manchmal eben, wenn der Eindruck besonders gross gewesen ist, habe ich genau mit den ganz detaillierten Beschreibungen, mit dem Eindruck angefangen. Und habe dann das andere irgendwie nachher. [01:37:03] Aber das sind meine beiden gewohnheitsmässigen Einstiege gewesen. Dass ich gerade irgendwie etwas herausgepickt habe und das dann an den Anfang gestellt. Weil der Leads war ja meistens sehr kurz gewesen. Also bei den grossen Artikel ist er ja meistens grösser gewesen, aber wir haben ja sehr oft die kleinen Artikel geschrieben über den Tanz. Und darum ist noch nicht alles zur Sprache gekommen, wer ist was, wo, wann, wer hat choreografiert. Was ist, oder? (1:37:40)
 
 
 
@@ -1565,17 +1509,11 @@ I: Machst du keine Disposition vorher von Hand?
 
 
 
-P: [01:38:34] Nein, nein. Ich habe nur meine "Fresszettel" und dann bin ich an den Computer gegangen und am Computer habe ich dann manchmal eine Disposition gemacht. Aufm PC. Wobei, das sind Kritiken, da habe ich dann einfach so eine Disposition wieder abgeändert und dann wieder gelöscht und so. Nein, ich habe, wo ich richtig mit dem Computer geschrieben habe, habe ich nicht von Hand geschrieben, ich habe eben von Hand geschrieben vorher. [01:39:02] Vorher habe ich meistens den Anfang, bevor ich an die Schreibmaschine bin, habe ich mal geschrieben. Weil sonst hätte ich es ja drei Mal abschreiben müssen. Und ich habe eigentlich auch noch später Vorträge und Sachen, die nicht gerade fertig sein müssen, habe ich drei Mal abgeschrieben. (1:39:24)
+[01:38:34]P: Nein, nein. Ich habe nur meine "Fresszettel" und dann bin ich an den Computer gegangen und am Computer habe ich dann manchmal eine Disposition gemacht. Aufm PC. Wobei, das sind Kritiken, da habe ich dann einfach so eine Disposition wieder abgeändert und dann wieder gelöscht und so. Nein, ich habe, wo ich richtig mit dem Computer geschrieben habe, habe ich nicht von Hand geschrieben, ich habe eben von Hand geschrieben vorher. [01:39:02] Vorher habe ich meistens den Anfang, bevor ich an die Schreibmaschine bin, habe ich mal geschrieben. Weil sonst hätte ich es ja drei Mal abschreiben müssen. Und ich habe eigentlich auch noch später Vorträge und Sachen, die nicht gerade fertig sein müssen, habe ich drei Mal abgeschrieben. (1:39:24)
 
 
 
-
-
-
-
-
-
-Dann wird es am besten. Wenn man es vollständig drei Mal abschreibt. Ist es bei MIR am besten geworden (weist auf sich selbst). Weil dann hat man VIEL gemerkt, auch beim zweiten Mal abschreiben – wenn man es nur durchliest und korrigiert, das ist zwar gut, man ist schnell, aber wenn man wirklich etwas will, das ganz, mit jedem Wort optimal ist, dann habe ich es abgeschrieben. Das einmal herausgelassen, gedruckt, nochmal geschrieben.
+Dann wird es am besten. Wenn man es vollständig drei Mal abschreibt. Ist es bei MIR am besten geworden. Weil dann hat man VIEL gemerkt, auch beim zweiten Mal abschreiben – wenn man es nur durchliest und korrigiert, das ist zwar gut, man ist schnell, aber wenn man wirklich etwas will, das ganz, mit jedem Wort optimal ist, dann habe ich es abgeschrieben. Das einmal herausgelassen, gedruckt, nochmal geschrieben.
 
 
 
@@ -1615,7 +1553,7 @@ I: Zehnfinger-System?
 
 
 
-P: (hebt beide Mittelfinger) Zweifinger-System. (lacht)
+P: Zweifinger-System. 
 
 
 
@@ -1635,13 +1573,7 @@ I: Immer noch?
 
 
 
-P: (hebt beide Mittelfinger) Mittelfinger! (dann hebt sie beide Zeigefinger und deutet das Tippen auf einer Tastatur an)
-
-
-
-
-
-
+P: Mittelfinger! 
 
 
 
@@ -1655,17 +1587,10 @@ I: Mittelfinger?
 
 
 
-P: (nickt und lacht ausgelassen)
 
 
 
 
-
-
-
-
-
-I: (beide lachen)
 
 
 
@@ -1715,7 +1640,7 @@ I: Du schreibst mit zwei Fingern am PC. Mittelfinger.
 
 
 
-P: (deutet wieder die Bewegung an) Ja.
+P: Ja.
 
 
 
@@ -1725,7 +1650,7 @@ P: (deutet wieder die Bewegung an) Ja.
 
 
 
-I: [01:40:25] Schön regelmässig?
+[01:40:25]I:  Schön regelmässig?
 
 
 
@@ -1755,7 +1680,7 @@ I: Also mit einem bestimmten Rhythmus, aber nicht wahnsinnig schnell.
 
 
 
-P: [01:40:34] Nein.
+ [01:40:34]P: Nein.
 
 
 
@@ -1785,7 +1710,7 @@ P: Ja.
 
 
 
-I: Das ist ja hochinteressant. (beide lachen) Und wolltest du nicht mal das Zehnfinger-System lernen? (1:40:44)
+I: Das ist ja hochinteressant. Und wolltest du nicht mal das Zehnfinger-System lernen? (1:40:44)
 
 
 
@@ -1795,7 +1720,7 @@ I: Das ist ja hochinteressant. (beide lachen) Und wolltest du nicht mal das Zehn
 
 
 
-P: (lacht) Nein, nein. Es hat sich nicht ergeben, irgendwie.
+P: Nein, nein. Es hat sich nicht ergeben, irgendwie.
 
 
 
@@ -1855,7 +1780,7 @@ I: Ja. Von Hand?
 
 
 
-P: [01:41:09] Und vor allem, wenn es um so Aufteilungen gegangen ist, ich habe zum Beispiel einfach aufgeschrieben, wo derSpoerli hier seinen "Schwanensee" in Zürich gezeigt hat, hat man ja nicht zur Generalprobe können – ich gehe sonst einfach noch gern wegen dem Aufbau, um zu zeigen, was hat er abgeändert und wie ist der Aufbau. Und da haben wir nicht reingekonnt und da habe ich mir einfach gesagt, jetzt muss ich jede Szene aufschreiben, weil die hat er ausgelassen, die hat er gebracht, das hat er so gemacht. [01:41:42] Ohne Einzelheiten. Und bei dem Ding habe ich herausgefunden, dass er jede – einfach nur so vom Schauen hätte ich es nicht gesehen – aber er hat jedes Bild, also jeder Akt, jedes Bild mit einem Männersolo angefangen. Und das hätte ich sonst einfach nicht gemerkt. Weil ich dann dazu sonst keine Notizen gemacht hätte.
+ [01:41:09] P:Und vor allem, wenn es um so Aufteilungen gegangen ist, ich habe zum Beispiel einfach aufgeschrieben, wo derSpoerli hier seinen "Schwanensee" in Zürich gezeigt hat, hat man ja nicht zur Generalprobe können – ich gehe sonst einfach noch gern wegen dem Aufbau, um zu zeigen, was hat er abgeändert und wie ist der Aufbau. Und da haben wir nicht reingekonnt und da habe ich mir einfach gesagt, jetzt muss ich jede Szene aufschreiben, weil die hat er ausgelassen, die hat er gebracht, das hat er so gemacht. [01:41:42] Ohne Einzelheiten. Und bei dem Ding habe ich herausgefunden, dass er jede – einfach nur so vom Schauen hätte ich es nicht gesehen – aber er hat jedes Bild, also jeder Akt, jedes Bild mit einem Männersolo angefangen. Und das hätte ich sonst einfach nicht gemerkt. Weil ich dann dazu sonst keine Notizen gemacht hätte.
 (1:42:06)
 
 
@@ -1876,7 +1801,7 @@ Weil, das wäre mir dann nicht so aufgefallen, weil ich anders geschaut hätte. 
 
 
 
-I: Wie viele Stunden hast du durchschnittlich pro Kritik? (1:42:25)
+I: Wie viele Stunden hast du durchschnittlich pro Kritik? (1:42:26)
 
 
 
@@ -1886,7 +1811,7 @@ I: Wie viele Stunden hast du durchschnittlich pro Kritik? (1:42:25)
 
 
 
-P: ...[01:42:26]  Also, ich würde sagen, eine, die so 60, 70, 80 [Anm. Transkription: Zeilen] in der freien Szene von etwas, wo ich den Künstler schon kenne. Rein zum Schreiben vielleicht zwei Stunden, zweieinhalb Stunden. Und dann gibt es solche, die ein Chnorz sind, die viel länger brauchen. Und bei den längeren hat man vielleicht im Voraus schon etwas überlegt.[01:42:58] Oder je nachdem, kommt darauf an. Und am schnellsten ist es natürlich bei denen gegangen, wo es eine Wiederaufnahme gewesen ist, wo man nur über eine neue Tänzerin oder so irgendetwas hat schreiben müssen, oder? (1:43:13)
+P:  Also, ich würde sagen, eine, die so 60, 70, 80 [Anm. Transkription: Zeilen] in der freien Szene von etwas, wo ich den Künstler schon kenne. Rein zum Schreiben vielleicht zwei Stunden, zweieinhalb Stunden. Und dann gibt es solche, die ein Chnorz sind, die viel länger brauchen. Und bei den längeren hat man vielleicht im Voraus schon etwas überlegt.[01:42:58] Oder je nachdem, kommt darauf an. Und am schnellsten ist es natürlich bei denen gegangen, wo es eine Wiederaufnahme gewesen ist, wo man nur über eine neue Tänzerin oder so irgendetwas hat schreiben müssen, oder? (1:43:13)
 
 
 
@@ -1906,7 +1831,7 @@ I: Schreibblockaden, also einen wirklichen Chnorz? (Chnorz: im Zürichdeutschen 
 
 
 
-P: Einen wirklich Chnorz– eigentlich schon nicht wegen dem Schreiben, sondern höchstens, wenn man einmal mit etwas nicht so ganz sicher gewesen ist, wenn man so gespalten gewesen ist zwischen es hat zwar schön angefangen, aber warum dann das? Eben, wenn man sich nicht ganz sicher gewesen ist. [01:43:43]  Wenn es so zwiespältig gewesen ist. Das dann in Worte fassen. Aber, ich habe bei den Kritiken eigentlich nie eine ganze Blockade gehabt, ich bin aber auch nie in das hinein gekommen, was ich quasi als Schreibzustand bezeichne. Also, dass man dann so... was man so hört von den Schriftstellern, oder? Dass man so
+(1:43:13)P: Einen wirklich Chnorz– eigentlich schon nicht wegen dem Schreiben, sondern höchstens, wenn man einmal mit etwas nicht so ganz sicher gewesen ist, wenn man so gespalten gewesen ist zwischen es hat zwar schön angefangen, aber warum dann das? Eben, wenn man sich nicht ganz sicher gewesen ist. [01:43:43]  Wenn es so zwiespältig gewesen ist. Das dann in Worte fassen. Aber, ich habe bei den Kritiken eigentlich nie eine ganze Blockade gehabt, ich bin aber auch nie in das hinein gekommen, was ich quasi als Schreibzustand bezeichne. Also, dass man dann so... was man so hört von den Schriftstellern, oder? Dass man so
 
 
 
@@ -1926,7 +1851,8 @@ I: Schreibrausch. (1:44:10)
 
 
 
-P: Ja, genau. Das bin ich nur bei den längeren Artikeln, wenn ich wirklich drei grosse Seiten, wenn ich ein Thema gehabt habe, das nicht eine Kritik gewesen ist, sondern ein grösseres Thema, wo ich habe länger schreiben können. Irgendeinen Beitrag, den ich da geschrieben habe über die Trudi Schoop für die Reihe. Irgendwie so etwas. DA, da bin ich dann hineingekommen. Aber beim Kritiken schreiben – die sind immer zu kurz gewesen. Da bin ich nie in die Schiene gekommen.
+P: Ja, genau. Das bin ich nur bei den längeren Artikeln, wenn ich wirklich drei grosse Seiten, wenn ich ein Thema gehabt habe, das nicht eine Kritik gewesen ist, sondern ein grösseres Thema, wo ich habe länger schreiben können.(1:44:22)
+ Irgendeinen Beitrag, den ich da geschrieben habe über die Trudi Schoop für die Reihe. Irgendwie so etwas. DA, da bin ich dann hineingekommen. Aber beim Kritiken schreiben – die sind immer zu kurz gewesen. Da bin ich nie in die Schiene gekommen.
 
 
 
@@ -1957,7 +1883,8 @@ I: Und dass du mal etwas abschicken wolltest, von dem du denkst, oh nein, das ge
 
 
 
-P: Nein, ich bin nicht so selbstkritisch, dass ich gedacht habe, es geht gar nicht. (lacht) Vielleicht habe ich das später dann gedacht. Aber ich habe mich auch ein bisschen davor geschützt, weil ich habe ja die Zeitungen für die ich alle geschrieben habe, die habe ich auch nicht abonniert. Ausser ganz am Anfang, da haben wir in Herrliberg gewohnt, da haben wir die Zürichsee-Zeitung natürlich gehabt.[01:45:15]  Aber nachher eigentlich, wo ich wirklich geschrieben habe, habe ich die NZZund den Tagi daheim gehabt, aber die Zeitungen, für die ich geschrieben habe nicht. Dann nachher hier und da, hat man es natürlich wissen wollen und hat eventuell eine Zeitung gekauft oder ist sie holen gegangen. [01:45:31] Und sonst hat man nachher Belege bekommen und wenn es dann vier Wochen alt gewesen ist, dann hat man sich nicht mehr so genervt. (lacht) Wenn sie entweder etwas herausgestrichen haben oder einmal haben sie, dort, wo man es noch mit dem Telefax übermittelt hat, da hat ja das Fräulein auf der Post ganz am Anfang, hat es abschreiben müssen. (1:45:52)
+(1:44:53)
+P: Nein, ich bin nicht so selbstkritisch, dass ich gedacht habe, es geht gar nicht. (lacht) Vielleicht habe ich das später dann gedacht. Aber ich habe mich auch ein bisschen davor geschützt, weil ich habe ja die Zeitungen für die ich alle geschrieben habe, die habe ich auch nicht abonniert. Ausser ganz am Anfang, da haben wir in Herrliberg gewohnt, da haben wir die Zürichsee-Zeitung natürlich gehabt.[01:45:15]  Aber nachher eigentlich, wo ich wirklich geschrieben habe, habe ich die NZZ und den Tagi daheim gehabt, aber die Zeitungen, für die ich geschrieben habe nicht. Dann nachher hier und da, hat man es natürlich wissen wollen und hat eventuell eine Zeitung gekauft oder ist sie holen gegangen. [01:45:31] Und sonst hat man nachher Belege bekommen und wenn es dann vier Wochen alt gewesen ist, dann hat man sich nicht mehr so genervt. (lacht) Wenn sie entweder etwas herausgestrichen haben oder einmal haben sie, dort, wo man es noch mit dem Telefax übermittelt hat, da hat ja das Fräulein auf der Post ganz am Anfang, hat es abschreiben müssen. (1:45:52)
 
 
 
@@ -1967,7 +1894,8 @@ P: Nein, ich bin nicht so selbstkritisch, dass ich gedacht habe, es geht gar nic
 
 
 
-Und ich weiss noch, unter der Pat Neary haben sie den "Sommernachtstraum" von Balanchine gebracht und da habe ich noch eine grosse Kritik – das sind drei Seiten, die ich geschrieben habe. Das ist relativ viel noch gewesen. Und da hat das Fräulein, wo ich die drei Seiten, ich habe es schon angeschrieben gehabt, aber sie hat es vertauscht. Und das habe ich dann erst später gemerkt. Das war ein völliges Durcheinander, warum die nicht angerufen haben, warum das passiert ist, weiss ich heute noch nicht. (lacht) [01:46:22] Auf jeden Fall, das hat mich dann schon geärgert, weil das ist dann wirklich ziemlich konfus gewesen, es ist irgendwie die zweite und die dritte Seite vertauscht gewesen. Und die haben das nicht gemerkt. Aber, ich meine, wie gesagt, es gibt wenig Leute, die Zeitungsausschnitte sammeln. [01:46:42] Und wieder lesen. Wenn es ganz schlimm ist, dann kann man ja sagen, es ist Altpapier. Aber ich habe nie das Gefühl gehabt, ich habe einmal, doch, ganz am Schluss, wo ich noch geschrieben habe, da habe ich angefragt, ob ich das machen darf. Und er hat gesagt, ja gut, wenn ich unbedingt will. (1:47:05)
+Und ich weiss noch, unter der Pat Neary haben sie den "Sommernachtstraum" von Balanchine gebracht und da habe ich noch eine grosse Kritik – das sind drei Seiten, die ich geschrieben habe. Das ist relativ viel noch gewesen. Und da hat das Fräulein, wo ich die drei Seiten, ich habe es schon angeschrieben gehabt, aber sie hat es vertauscht. Und das habe ich dann erst später gemerkt.(1:46:18)
+ Das war ein völliges Durcheinander, warum die nicht angerufen haben, warum das passiert ist, weiss ich heute noch nicht.  [01:46:22] Auf jeden Fall, das hat mich dann schon geärgert, weil das ist dann wirklich ziemlich konfus gewesen, es ist irgendwie die zweite und die dritte Seite vertauscht gewesen. Und die haben das nicht gemerkt. Aber, ich meine, wie gesagt, es gibt wenig Leute, die Zeitungsausschnitte sammeln. [01:46:42] Und wieder lesen. Wenn es ganz schlimm ist, dann kann man ja sagen, es ist Altpapier. Aber ich habe nie das Gefühl gehabt, ich habe einmal, doch, ganz am Schluss, wo ich noch geschrieben habe, da habe ich angefragt, ob ich das machen darf. Und er hat gesagt, ja gut, wenn ich unbedingt will. (1:47:05)
 
 
 
@@ -1997,7 +1925,7 @@ I: Bist du zufrieden mit deinen Texten? (1:47:56)
 
 
 
-P: Mit den einen mehr und mit den anderen weniger, das ist immer so. Und es gibt dann solche, wo man denkt: Ja, den Satz hätte man noch dazu sagen können. Oder irgendwie so, oder das hätte man noch weglassen können. Aber ganz unglücklich bin ich eigentlich nicht, nein. Ich bin im Gegenteil, ich habe auch ganz als Anfängerin, da haben sie ja da eingeladen ins Stadthaus. Die Suzanne Perrottet ist dagewesen und hat erzählt und der Hasler ist dagewesen und der Pianist, der an den Dada-Abenden die Stücke gespielt hat. Und ich habe nicht gehen müssen, ich habe alles gelesen, was ich irgendwo gefunden habe, ich habe von der Suzanne Perrottet vorher nichts gewusst. [01:48:41] Jetzt, wo ich wahrscheinlich viel weiss (lacht), auf jeden Fall dann ist sie mir überhaupt kein Begriff gewesen. Und da bin ich da rein und ich habe das Gefühl gehabt, ich bin umgeben von einem Publikum, die alle zusammen die Suzanne Perrottet verehren. Die sie kennen, die mal bei ihr in einer Stunde gewesen sind, die alles wissen. Und ich habe aufgeschrieben und ich habe vor allem recht gut beobachtet, wie sie erzählt hat und wie sie vor allem gegenüber dem Hasler und – wie ist der andere Ausstellungsmacher von Monte Veritá und Dada – der Szeemann. (1:49:27)
+P: Mit den einen mehr und mit den anderen weniger, das ist immer so. Und es gibt dann solche, wo man denkt: Ja, den Satz hätte man noch dazu sagen können. Oder irgendwie so, oder das hätte man noch weglassen können. Aber ganz unglücklich bin ich eigentlich nicht, nein. Ich bin im Gegenteil, ich habe auch ganz als Anfängerin, da haben sie ja da eingeladen ins Stadthaus. (1:48:24) Die Suzanne Perrottet ist dagewesen und hat erzählt und der Hasler ist dagewesen und der Pianist, der an den Dada-Abenden die Stücke gespielt hat. Und ich habe nicht gehen müssen, ich habe alles gelesen, was ich irgendwo gefunden habe, ich habe von der Suzanne Perrottet vorher nichts gewusst. [01:48:41] Jetzt, wo ich wahrscheinlich viel weiss, auf jeden Fall dann ist sie mir überhaupt kein Begriff gewesen. Und da bin ich da rein und ich habe das Gefühl gehabt, ich bin umgeben von einem Publikum, die alle zusammen die Suzanne Perrottet verehren. (1:48:56) Die sie kennen, die mal bei ihr in einer Stunde gewesen sind, die alles wissen. Und ich habe aufgeschrieben und ich habe vor allem recht gut beobachtet, wie sie erzählt hat und wie sie vor allem gegenüber dem Hasler und – wie ist der andere Ausstellungsmacher von Monte Veritá und Dada – der Szeemann. (1:49:27)
 
 
 
@@ -2007,7 +1935,7 @@ P: Mit den einen mehr und mit den anderen weniger, das ist immer so. Und es gibt
 
 
 
-Wie sie sich eigentlich nicht von denen hat beeinflussen lassen. Weil die haben sie immer mit den Fragen in eine bestimmte Richtung drängen wollen. Und sie hat einfach so erzählt, wie sie erzählt hat, wie wir es jetzt auch in dem Buch haben, die nach den Tapes, die wir jetzt haben. IHRE Art zu erzählen und sie hat das durchgezogen. Die alte, kleine Frau. [01:49:50] Und das hat mir sehr imponiert, das weiss ich noch heute. [01:49:53] Und ich habe jetzt wieder mal die Kritiken hervorgenommen, wo ich mich mit der Suzanne Perrottet befasst haben und ich muss sagen, ich glaube, ich habe mich noch recht gut aus der Affäre gezogen. [01:50:03] Dafür, dass ich vorher nichts von ihr gewusst habe. Aber eben, sie hat ja erzählt und ich habe es weitergeben können wie und was sie erzählt hat. Also, es ist ja nicht – das ist ja keine Kritik gewesen, das hat man ja nicht kritisieren müssen, da hat man einfach ein Ereignis beschrieben. (1:50:21)
+Wie sie sich eigentlich nicht von denen hat beeinflussen lassen. Weil die haben sie immer mit den Fragen in eine bestimmte Richtung drängen wollen.(1:49:35) Und sie hat einfach so erzählt, wie sie erzählt hat, wie wir es jetzt auch in dem Buch haben, die nach den Tapes, die wir jetzt haben. IHRE Art zu erzählen und sie hat das durchgezogen. Die alte, kleine Frau. [01:49:50] Und das hat mir sehr imponiert, das weiss ich noch heute. [01:49:53] Und ich habe jetzt wieder mal die Kritiken hervorgenommen, wo ich mich mit der Suzanne Perrottet befasst haben und ich muss sagen, ich glaube, ich habe mich noch recht gut aus der Affäre gezogen. [01:50:03] Dafür, dass ich vorher nichts von ihr gewusst habe. Aber eben, sie hat ja erzählt und ich habe es weitergeben können wie und was sie erzählt hat. Also, es ist ja nicht – das ist ja keine Kritik gewesen, das hat man ja nicht kritisieren müssen, da hat man einfach ein Ereignis beschrieben. (1:50:21)
 
 
 
@@ -2017,7 +1945,7 @@ Wie sie sich eigentlich nicht von denen hat beeinflussen lassen. Weil die haben 
 
 
 
-Um das ist es nur gegangen, alle meine Kritiken habe ich nicht mehr gelesen. (lacht)
+Um das ist es nur gegangen, alle meine Kritiken habe ich nicht mehr gelesen.
 
 
 
@@ -2047,7 +1975,7 @@ P: Nein, das liegt mir nicht.
 
 
 
-I: [01:50:34] Und dich überraschen lassen? Also, das muss ich anders formulieren. Manchmal tut man sich ja vorbereiten und hat dann einen bestimmten Blick auf ein Stück. Und manchmal ist man ja flexibel einen anderen Blick zuzulassen, manchmal nicht. Hast du auch diese Erfahrung gemacht?P: Ja, das habe ich schon gemacht, das ist ja da, wo du...–
+[01:50:34] I: Und dich überraschen lassen? Also, das muss ich anders formulieren. Manchmal tut man sich ja vorbereiten und hat dann einen bestimmten Blick auf ein Stück. Und manchmal ist man ja flexibel einen anderen Blick zuzulassen, manchmal nicht. Hast du auch diese Erfahrung gemacht?P: Ja, das habe ich schon gemacht, das ist ja da, wo du...–
 
 
 
@@ -2067,7 +1995,7 @@ I: "Swanlake reloaded".
 
 
 
-P: [01:51:00] Nein, das ist da gewesen, wo du in Paris gestrandet bist und dein Schlomi ins Spital musste. Du hättest den Dubois besprechen sollen bei der Eröffnung vom Theaterspektakel. Ich habe ein anderes Stück gehabt, weil sie haben ja immer am Anfang haben sie wie eine Seite gemacht, Theaterspektakel. Und ich habe durch die Vorschau gewusst, dass ich den Dubois nicht sehen will, oder. (lacht) Also, was ich gehört habe davon, da habe ich gedacht, nein, das muss nicht sein. (1:51:36)
+[01:51:00] P: Nein, das ist da gewesen, wo du in Paris gestrandet bist und dein Schlomi ins Spital musste. Du hättest den Dubois besprechen sollen bei der Eröffnung vom Theaterspektakel. Ich habe ein anderes Stück gehabt, weil sie haben ja immer am Anfang haben sie wie eine Seite gemacht, Theaterspektakel. Und ich habe durch die Vorschau gewusst, dass ich den Dubois nicht sehen will, oder. Also, was ich gehört habe davon, da habe ich gedacht, nein, das muss nicht sein. (1:51:36)
 
 
 
@@ -2077,7 +2005,7 @@ P: [01:51:00] Nein, das ist da gewesen, wo du in Paris gestrandet bist und dein
 
 
 
-Das sagt mir wahrscheinlich nichts. Und dann nachher bist du ausgefallen und dann ist es ganz klar gewesen, das ist ja der Hauptartikel gewesen, das ist ja so besprochen gewesen und dann habe ich mit dem Landboten abgemacht, dass ich in den Dubois gehe. Und halt dann das andere nicht besprochen wird. [01:51:53] Und dann habe ich mir überlegt, okay, was mir passt mir nicht dran [Anm. Transkription: gefällt], das ist die laute Musik, die mich kaputt macht und das ist das grelle Licht. Und ich bin auch nicht sehr gern im Werft-Areal. Dann habe ich gesagt, okay, ins Werft muss ich, da muss ich früh genug da sein, da muss ich einen guten Platz haben, wo ich mich wohl fühle. Ich ziehe eine Sonnenbrille an und ich tu Ohropax in die Ohren. Und ich bin in die Vorstellung und ich bin echt begeistert gewesen von der Choreografie. Weil, die laute Musik hat mich nicht stören können, die habe ich ja nur noch halb gehört.[01:52:28]  Das grelle Licht hat mich auch nicht gestört, weil ich das ja nicht gesehen habe und dann habe ich die höchstraffinierte – also, sie sind nackt gewesen, das hat mich auch nicht gestört, das hätte mich mit oder ohne Sonnenbrille an sich nicht gestört, aber ich muss es nicht haben. Von mir aus können sie gut, irgendwie wie bei (unv.) ein Ganzkörpertrikot anhaben, also ich habe nicht gefunden, dass es etwas gebracht hat. (1:52:51)
+Das sagt mir wahrscheinlich nichts. Und dann nachher bist du ausgefallen und dann ist es ganz klar gewesen, das ist ja der Hauptartikel gewesen, das ist ja so besprochen gewesen und dann habe ich mit dem Landboten abgemacht, dass ich in den Dubois gehe. Und halt dann das andere nicht besprochen wird. [01:51:53] Und dann habe ich mir überlegt, okay, was mir passt mir nicht dran [Anm. Transkription: gefällt], das ist die laute Musik, die mich kaputt macht und das ist das grelle Licht. Und ich bin auch nicht sehr gern im Werft-Areal. Dann habe ich gesagt, okay, ins Werft muss ich, da muss ich früh genug da sein, da muss ich einen guten Platz haben, wo ich mich wohl fühle. Ich ziehe eine Sonnenbrille an und ich tu Ohropax in die Ohren. Und ich bin in die Vorstellung und ich bin echt begeistert gewesen von der Choreografie. Weil, die laute Musik hat mich nicht stören können, die habe ich ja nur noch halb gehört.[01:52:28]  Das grelle Licht hat mich auch nicht gestört, weil ich das ja nicht gesehen habe und dann habe ich die höchstraffinierte – also, sie sind nackt gewesen, das hat mich auch nicht gestört, das hätte mich mit oder ohne Sonnenbrille an sich nicht gestört, aber ich muss es nicht haben. Von mir aus können sie gut, irgendwie wie bei van Manen ein Ganzkörpertrikot anhaben, also ich habe nicht gefunden, dass es etwas gebracht hat. (1:52:51)
 
 
 
@@ -2097,7 +2025,7 @@ Aber, es hat mich nicht gestört. Und mit dem haben sie ja gross Reklame gemacht
 
 
 
-I: Und aus einer Aufführung herausgegangen?P: Nein, das wäre unprofessionell. Nein, ich laufe auch sonst nicht raus und ich gehe eigentlich auch, wenn ich eine Operninszenierung oder einfach, wenn ich die Karte gezahlt habe, irgendetwas. Ich gehe nie nach der Pause heim, es kann gut sein, dass es nach der Pause besser wird, wenn mir der erste Teil nicht gefallen hat. [01:54:22] Also, wenn ich dann schon mal gehe, dann bleibe ich. Und wenn ich schreibe, dann muss ich bleiben. Denn ich meine, dann verstehe ich ja erst, wenn ich das Ganze sehe. Also, ich glaube wirklich, das geht nicht. Da hätte ich das Gefühl, das dürfte man als Kritiker nicht machen. Schon, weil sie einem ja die Karte zur Verfügung stellen und man hat einen Auftrag und da muss man über das Ganze schreiben. (1:54:54)
+I: Und aus einer Aufführung herausgegangen?(1:54:02) P: Nein, das wäre unprofessionell. Nein, ich laufe auch sonst nicht raus und ich gehe eigentlich auch, wenn ich eine Operninszenierung oder einfach, wenn ich die Karte gezahlt habe, irgendetwas. Ich gehe nie nach der Pause heim, es kann gut sein, dass es nach der Pause besser wird, wenn mir der erste Teil nicht gefallen hat. [01:54:22] Also, wenn ich dann schon mal gehe, dann bleibe ich. Und wenn ich schreibe, dann muss ich bleiben. Denn ich meine, dann verstehe ich ja erst, wenn ich das Ganze sehe. Also, ich glaube wirklich, das geht nicht. Da hätte ich das Gefühl, das dürfte man als Kritiker nicht machen. Schon, weil sie einem ja die Karte zur Verfügung stellen und man hat einen Auftrag und da muss man über das Ganze schreiben. (1:54:54)
 
 
 
@@ -2117,7 +2045,7 @@ I: Und ein Stück rezensieren, das man nicht gesehen hat?
 
 
 
-P: Auch nicht. Auch nicht nur über die Generalprobe schreiben und nachher nicht ins Stück gehen. Wir haben eine Zeitlang in Generalproben gehen dürfen, irgendwann haben sie das abgeklemmt und dann habe ich mich auch nicht mehr dafür gewehrt. (1:55:11) Es ist relativ wichtig im Tanz, wenn man die Struktur schon kennt. Aber, es ist ganz klar, dass man die Tänzerleistungen und solche Sachen nicht beurteilen darf und ich habe wirklich nie über eine Probe geschrieben und getan wie als wenn ich in der Aufführung gewesen wäre.[01:55:31]  Ich glaube, das geht nicht. Man merkt es auch, weil es kann wirklich bei der Premiere dann etwas passieren oder es ist eine andere Besetzung, die dann anders aussieht. Also das fände ich gefährlich. Und es ist schon darum, weil sie tun ja von den Theatern den Künstlern [Anm. der Transkription: Kritikern] unterstellen, dass sie über die Generalprobe schreiben und dann nicht in die Aufführungen gehen und schon durch das hätte ich das nie gemacht, weil ich wollte nie ihr Vorurteil quasi bestätigen, dass etwas passiert an der Premiere, wo man nicht weiss oder wo nachher nicht drinnen ist. (1:56:08)
+(1:54:56)P: Auch nicht. Auch nicht nur über die Generalprobe schreiben und nachher nicht ins Stück gehen. Wir haben eine Zeitlang in Generalproben gehen dürfen, irgendwann haben sie das abgeklemmt und dann habe ich mich auch nicht mehr dafür gewehrt. (1:55:11) Es ist relativ wichtig im Tanz, wenn man die Struktur schon kennt. Aber, es ist ganz klar, dass man die Tänzerleistungen und solche Sachen nicht beurteilen darf und ich habe wirklich nie über eine Probe geschrieben und getan wie als wenn ich in der Aufführung gewesen wäre.[01:55:31]  Ich glaube, das geht nicht. Man merkt es auch, weil es kann wirklich bei der Premiere dann etwas passieren oder es ist eine andere Besetzung, die dann anders aussieht. Also das fände ich gefährlich. Und es ist schon darum, weil sie tun ja von den Theatern den Künstlern [Anm. der Transkription: Kritikern] unterstellen, dass sie über die Generalprobe schreiben und dann nicht in die Aufführungen gehen und schon durch das hätte ich das nie gemacht, weil ich wollte nie ihr Vorurteil quasi bestätigen, dass etwas passiert an der Premiere, wo man nicht weiss oder wo nachher nicht drinnen ist. (1:56:08)
 
 
 
@@ -2212,21 +2140,12 @@ Der Tagesanzeiger und die NZZ, vor allem die NZZ früher, hat recht gut gezahlt,
 
 
 
-
-
-
-
-
 I: Wie sieht das mit den Spesen aus?
 
 
 
 
-
-
-
-
-
+(2:02:30)
 P: Ich habe nie in dem Sinn Spesen erstattet bekommen, das ist sozusagen inklusiv gewesen, einfach ein gewisser Prozentsatz und ich durfte zwar nach Petersburg oder Stuttgart und Baden-Baden zum Schreiben, aber selbstverständlich ohne Spesen. [02:02:54] Die Spesen sind dann beim Theater gewesen, indem ich Freikarten bekommen habe, oder? Aber, die hätte mir nicht meinen Aufenthalt in Stuttgart gezahlt. Ich wollte sowieso gehen, das hat mich interessiert, ich meine auch die Vorstellungen, das Festival habe ich eigentlich in Erinnerung den John Cranko. Und ich habe auch alle die alten Sachen, die ich wieder mal sehen wollte. (2:03:20)
 
 
@@ -2317,8 +2236,7 @@ P: Nein, eben es ist typisch für die Lilo Weber, dass sie es bei der Aughterlon
 
 
 
-Ich habe das letzte Jahr noch über Brigitta Luisa Merki geschrieben, für das Brugger-Jahrbuch. Und da ist es auch gefragt gewesen, man soll durch den persönlichen Zugang schreiben, warum einem das so gefallt. Und das ist klar, dann schreibt man "ich". Dann ist es ja nicht quasi etwas Objektives.[02:07:47]  Ich finde eine Kritik muss ja in einem gewissen Mass eine gewisse Objektivität zumindest vortäuschen. Oder man sollte sich darum bemühen. (lacht)
-
+Ich habe das letzte Jahr noch über Brigitta Luisa Merki geschrieben, für das Brugger-Jahrbuch. Und da ist es auch gefragt gewesen, man soll durch den persönlichen Zugang schreiben, warum einem das so gefallt. Und das ist klar, dann schreibt man "ich". Dann ist es ja nicht quasi etwas Objektives.[02:07:47]  Ich finde eine Kritik muss ja in einem gewissen Mass eine gewisse Objektivität zumindest vortäuschen. Oder man sollte sich darum bemühen.
 
 
 
@@ -2477,7 +2395,7 @@ P: Wir haben schon einzelne Leute, die ihre Sachen geben. Wobei bei den Zeitunge
 
 
 
-Das ist so lustig gewesen. Heute ist das anders, aber man müsste eine Bibliografie haben davon, oder? Und dann würde man alle finden, dann müsste man die Zeitungen nicht aufbewahren. Aber ich habe es aufbewahrt und ich habe oft auch die fremden Kritiken, die ich gerade gehabt habe, sind auch in Mappen hinein [Anm. Transkription. getan]. [02:20:07] Ich behalte dann auch die alten Programme, ich habe auch die alten Jahrbücher, ich habe diese Sachen. Und ich habe einfach noch genug Platz, auch wenn wir jetzt in einer Wohnung wohnen. Aber auch wenn ich mal an einen kleineren Ort umziehe, dann muss ich mehr nach Lausanne geben. Und der Simon Bauer, der zum Beispiel eine Tanzgeschichte geschrieben hat über den Ausdruckstanz, der hat angefragt, was er mit seinen Notizen machen soll. (2:20:41)
+Das ist so lustig gewesen. Heute ist das anders, aber man müsste eine Bibliografie haben davon, oder? Und dann würde man alle finden, dann müsste man die Zeitungen nicht aufbewahren. Aber ich habe es aufbewahrt und ich habe oft auch die fremden Kritiken, die ich gerade gehabt habe, sind auch in Mappen hinein. [02:20:07] Ich behalte dann auch die alten Programme, ich habe auch die alten Jahrbücher, ich habe diese Sachen. Und ich habe einfach noch genug Platz, auch wenn wir jetzt in einer Wohnung wohnen. Aber auch wenn ich mal an einen kleineren Ort umziehe, dann muss ich mehr nach Lausanne geben. Und der Simon Bauer, der zum Beispiel eine Tanzgeschichte geschrieben hat über den Ausdruckstanz, der hat angefragt, was er mit seinen Notizen machen soll. (2:20:41)
 
 
 
@@ -2487,7 +2405,7 @@ Das ist so lustig gewesen. Heute ist das anders, aber man müsste eine Bibliogra
 
 
 
-Und mit seinen Dokumenten, die er für das erarbeitet hat und das ist jetzt alles ziemlich detailliert katalogisiert im Tanzarchivin Lausanne. Da, wo die Tanzsachen, die schriftlichen sind. Wir haben ja in Zürich nur die audiovisuellen Medien. Ja und das muss dann anfragen gehen und lesen und fotokopieren. (lacht) Wie das immer ist. [02:21:08] Aber ich bin auch sonst eine Sammlerin, ich sammle auch ganz andere Sachen, schöne Steine oder Engel oder irgendetwas. Nicht nur diese Sachen, aber ich habe immerhin einmal angefangen ein bisschen aufzuräumen und ich tu´s jetzt in säurefreie Kuverts hinein und beschrifte es. So, wie wir es im Archiv gern wollen, und ich habe vor allem Fotos herausgenommen. Weil ich habe ziemlich viele Fotos. Im Schweizer Theaterlexikon sind viele Fotos aus meiner persönlichen Sammlung. (2:21:49)
+Und mit seinen Dokumenten, die er für das erarbeitet hat und das ist jetzt alles ziemlich detailliert katalogisiert im Tanzarchivin Lausanne. Da, wo die Tanzsachen, die schriftlichen sind. Wir haben ja in Zürich nur die audiovisuellen Medien. Ja und das muss dann anfragen gehen und lesen und fotokopieren. Wie das immer ist. [02:21:08] Aber ich bin auch sonst eine Sammlerin, ich sammle auch ganz andere Sachen, schöne Steine oder Engel oder irgendetwas. Nicht nur diese Sachen, aber ich habe immerhin einmal angefangen ein bisschen aufzuräumen und ich tu´s jetzt in säurefreie Kuverts hinein und beschrifte es. So, wie wir es im Archiv gern wollen, und ich habe vor allem Fotos herausgenommen. Weil ich habe ziemlich viele Fotos. Im Schweizer Theaterlexikon sind viele Fotos aus meiner persönlichen Sammlung. (2:21:49)
 
 
 
@@ -2497,7 +2415,7 @@ Und mit seinen Dokumenten, die er für das erarbeitet hat und das ist jetzt alle
 
 
 
-Er hat mich mal angefragt, was ich eigentlich hätte, da habe ich ein paar Sachen zur Verfügung gestellt. Weil ich habe mir früher, wenn ich ins Ballett bin, ich gehe ja seit 1962 ins Theater hier. Also vorher bin ich mit den Grosseltern ins Kindermärchen gegangen und dann nachher habe ich mir immer von jeder Tanzvorstellung ein bis zwei Fotos gekauft. Von meinem Taschengeld. [02:22:11] Das habe ich noch ziemlich lange gemacht. Und das ist lustig gewesen, weil die Theaterfotografin hat am Kreuzplatz gewohnt und man hat zu ihr gekonnt, sie hat Alben gehabt und man konnte auswählen. Und dann hat sie aber auch "Abfallfotografien" gehabt, die konnte man dann ganz billig kaufen. (lacht) Also ich habe an Programmheften nur den Tanz behalten, aber ich kenne jemanden, der ungefähr seit 60 Jahren alle Opernprogramme – und er hat das Premierenabonnement – alle Opernprogramme hat. (2:22:51)
+Er hat mich mal angefragt, was ich eigentlich hätte, da habe ich ein paar Sachen zur Verfügung gestellt. Weil ich habe mir früher, wenn ich ins Ballett bin, ich gehe ja seit 1962 ins Theater hier. Also vorher bin ich mit den Grosseltern ins Kindermärchen gegangen und dann nachher habe ich mir immer von jeder Tanzvorstellung ein bis zwei Fotos gekauft. Von meinem Taschengeld. [02:22:11] Das habe ich noch ziemlich lange gemacht. Und das ist lustig gewesen, weil die Theaterfotografin hat am Kreuzplatz gewohnt und man hat zu ihr gekonnt, sie hat Alben gehabt und man konnte auswählen. Und dann hat sie aber auch "Abfallfotografien" gehabt, die konnte man dann ganz billig kaufen. Also ich habe an Programmheften nur den Tanz behalten, aber ich kenne jemanden, der ungefähr seit 60 Jahren alle Opernprogramme – und er hat das Premierenabonnement – alle Opernprogramme hat. (2:22:51)
 
 
 
@@ -2549,7 +2467,7 @@ Und dann konnte man wirklich auch Lebensläufe rekonstruieren. Also, ich habe so
 
 
 Also, über das, was ihn sonst noch beschäftigt, was ihn überhaupt dazu bringt etwas durch Bewegung darzustellen, oder dann auch die vielen, die grenzüberschreitend, die wieder mit Text und mit Film und mit Video, mit Bildern, Installationen arbeiten. Dann tut man automatisch eher über das schreiben und nicht über den Künstler persönlich. [02:25:36] Und schon gar nicht über sein Leben zum Beispiel. Sondern man hat dann viel mehr am Schluss wahrscheinlich den Eindruck, dass man sagen kann, die Richtung – eine Zeitlang haben quasi alle angefangen im Hinblick auf Pina Bausch, haben alle ihre Aufführungen Tanztheater genannt.[02:25:58]  Und wollten komplexe Inhalte, die nicht ganz einfache Liebesgeschichten oder irgendwie so, was sich im Tanz ja relativ leicht darstellen lässt, sondern wo sie auch kompliziertere Tatbestände im Tanz haben darstellen wollen. (2:26:15)
-Und wenn man das natürlich zusammen sammelt und dann alle die Kritiken überschaut, dann merkt man wahrscheinlich schon so Einfluss-Wellen. Wenn man das alles miteinander nimmt. Aber wie – ich glaube, es kommt wirklich auf den Einzelfall an, aber eben normalerweise über die Personen erfährt man nicht unbedingt mehr. Und dann muss man einfach sagen, es ist vielleicht auch nicht so nötig, weil heute hat jeder Künstler seine Webseite. Sie sind vielleicht sehr unterschiedlich in der Qualität, sehr unterschiedlich in der Ausführlichkeit, was man da alles findet. Dann ist man nach heutiger Sicht, nicht mehr darauf angewiesen. [02:27:01] Aber, es gibt etwas ganz Wichtiges, früher, wo der Forsythe noch in Frankfurt [Anm. Transkription: am Main] gewesen ist, hat er durchs Frankfurter Theater eine sensationelle Webseite gehabt. Man hat wirklich von JEDEM Stück alles zusammen erfahren können. Man hat konnte hineinschauen, man hatte die Besetzung von allen Vorstellungen, alles zusammen. (2:27:22)
+Und wenn man das natürlich zusammen sammelt und dann alle die Kritiken überschaut, dann merkt man wahrscheinlich schon so Einfluss-Wellen. Wenn man das alles miteinander nimmt. Aber wie – ich glaube, es kommt wirklich auf den Einzelfall an, aber eben normalerweise über die Personen erfährt man nicht unbedingt mehr. Und dann muss man einfach sagen, es ist vielleicht auch nicht so nötig, weil heute hat jeder Künstler seine Webseite. Sie sind vielleicht sehr unterschiedlich in der Qualität, sehr unterschiedlich in der Ausführlichkeit, was man da alles findet. Dann ist man nach heutiger Sicht, nicht mehr darauf angewiesen. [02:27:01] Aber, es gibt etwas ganz Wichtiges, früher, wo der Forsythe noch in Frankfurt am Main gewesen ist, hat er durchs Frankfurter Theater eine sensationelle Webseite gehabt. Man hat wirklich von JEDEM Stück alles zusammen erfahren können. Man hat konnte hineinschauen, man hatte die Besetzung von allen Vorstellungen, alles zusammen. (2:27:22)
 
 
 
@@ -2579,7 +2497,7 @@ I: Du hast grundsätzlich nicht viel auf Wikipedia nachgeschaut?
 
 
 
-P: Also selbstverständlich schaue ich und ich benutze dann vor allem die Quellenangaben.[02:28:31]  Das ist ja in Wikipediarelativ gut und ich habe auch selbst erfahren, wie relativ kompliziert es ist, einen Wikipedia-Artikel zu schreiben. Wo wir die Leeder-Ausstellung gemacht haben, da haben wir am Schluss alle zusammen gefunden, du sollst jetzt unbedingt einen Wikipedia-Eintrag machen über den Leeder. [02:28:50] Und wir haben zum Glück gerade eine Praktikantin gehabt, die von der Geschichte her gekommen ist und die haben das offenbar geübt, wie es genau aufgebaut sein muss. Ja und ich hätte das zuerst wieder herausfinden müssen anhand von Artikeln. Und dann haben wir das besprochen und dann habe ich ihr den Text gegeben, sie hat sich das angeschaut und hat gesagt, was man noch ändern müsste und verbessern. (2:29:13)
+P: Also selbstverständlich schaue ich und ich benutze dann vor allem die Quellenangaben.[02:28:31]  Das ist ja in Wikipedia relativ gut und ich habe auch selbst erfahren, wie relativ kompliziert es ist, einen Wikipedia-Artikel zu schreiben. Wo wir die Leeder-Ausstellung gemacht haben, da haben wir am Schluss alle zusammen gefunden, du sollst jetzt unbedingt einen Wikipedia-Eintrag machen über den Leeder. [02:28:50] Und wir haben zum Glück gerade eine Praktikantin gehabt, die von der Geschichte her gekommen ist und die haben das offenbar geübt, wie es genau aufgebaut sein muss. Ja und ich hätte das zuerst wieder herausfinden müssen anhand von Artikeln. Und dann haben wir das besprochen und dann habe ich ihr den Text gegeben, sie hat sich das angeschaut und hat gesagt, was man noch ändern müsste und verbessern. (2:29:13)
 
 
 
@@ -2609,7 +2527,7 @@ I: Das würde dich nicht reizen?
 
 
 
-P: Nein, ich glaube, ich schreibe nicht mehr. [02:29:57] Ich habe ja im Tanzarchiv immer Projekte, im Moment ist es wieder der Lifar, ich habe immer Projekte, wo ich dran arbeiten kann. Suzanne Perrottet haben wir im Moment, Lifar ist auch. Und da gibt es genug Interessantes für mich zu machen. Und ich, wie gesagt, ich bin dann seit acht Jahren dann pensioniert. (lacht) (2:30:21)
+[02:29:54] P: Nein, ich glaube, ich schreibe nicht mehr. [02:29:57] Ich habe ja im Tanzarchiv immer Projekte, im Moment ist es wieder der Lifar, ich habe immer Projekte, wo ich dran arbeiten kann. Suzanne Perrottet haben wir im Moment, Lifar ist auch. Und da gibt es genug Interessantes für mich zu machen. Und ich, wie gesagt, ich bin dann seit acht Jahren dann pensioniert. (2:30:21)
 
 
 
@@ -2629,7 +2547,7 @@ I: Wenn man deine Bibliografie anschaut, dann werde ganz viele Textsorten bedien
 
 
 
-P: Ja, also dort, wo wir es gemacht haben, wo das Projekt überhaupt lanciert worden ist, da haben sie gesagt, wir sind so quasi wie eine informelle Teilredaktion gewesen, einfach für Tanz. Und sie haben einfach die Claudia Rosiny, den Jean-Pierre Pastori und ich, wir haben mal eine Liste gemacht und sie hat auch – einfach von überallher haben wir eine Liste gemacht und dann haben wir mal schauen müssen. Sie haben uns einfach gesagt, etwa um die 400 würden dem Tanz gehören, weil sie haben das ja auch ein bisschen beschränken müssen. [02:31:18] Und dann haben wir geschaut wegen Kriterien. Wir haben auf jeden Fall mal den Schweizer Bezug. und dann mussten es wirklich Leute vom Theater sein, das heisst man hat Choreografen, die mindestens drei Jahre als Choreograf an einem Theater gearbeitet haben, zum Beispiel.[02:31:37]  Oder auch Solotänzer. Wir hatten keine Corps de Ballet-Tänzer, aber alle, die Solisten, die besonders interessant oder wichtig gewesen sind. Die freie Szene auch. Was wir vernachlässigt haben, sind vor allem die Leute, die etwa ein Jahr getanzt haben und danach pädagogisch tätig sind. (1:31:57)
+P: Ja, also dort, wo wir es gemacht haben, wo das Projekt überhaupt lanciert worden ist, da haben sie gesagt, wir sind so quasi wie eine informelle Teilredaktion gewesen, einfach für Tanz. (2:30:57)Und sie haben einfach die Claudia Rosiny, den Jean-Pierre Pastori und ich, wir haben mal eine Liste gemacht und sie hat auch – einfach von überallher haben wir eine Liste gemacht und dann haben wir mal schauen müssen. Sie haben uns einfach gesagt, etwa um die 400 würden dem Tanz gehören, weil sie haben das ja auch ein bisschen beschränken müssen. [02:31:18] Und dann haben wir geschaut wegen Kriterien. Wir haben auf jeden Fall mal den Schweizer Bezug. und dann mussten es wirklich Leute vom Theater sein, das heisst man hat Choreografen, die mindestens drei Jahre als Choreograf an einem Theater gearbeitet haben, zum Beispiel.[02:31:37]  Oder auch Solotänzer. Wir hatten keine Corps de Ballet-Tänzer, aber alle, die Solisten, die besonders interessant oder wichtig gewesen sind. Die freie Szene auch. Was wir vernachlässigt haben, sind vor allem die Leute, die etwa ein Jahr getanzt haben und danach pädagogisch tätig sind. (1:31:57)
 
 
 
@@ -2639,7 +2557,7 @@ P: Ja, also dort, wo wir es gemacht haben, wo das Projekt überhaupt lanciert wo
 
 
 
-Die haben einfach dann irgendwie keinen Platz gehabt. Aber man ist dann natürlich gerade früher so in der Zeit um die 1950, da hat es natürlich noch viele Leute gehabt, die auch noch gelebt haben, die vielleicht mal dann halt am Stadttheater oder in freien Truppen oder beim Heinz Rosen in Basel nachher. Und die hat man natürlich alle dann aufgenommen.[02:32:22]  Am Schluss sind wir dann bei diesen 400 gewesen und etwa ein Drittel habe ich geschrieben, ja. Das sind eigentlich eben vor allem die aus der deutschen Schweiz gewesen, die die hier in der Nähe gewesen sind, wo ich am ehesten einen Zugang hatte.[02:32:37]  Weil es ist ja eigentlich interessant, ich bin ja im Prinzip vom Ballett hergekommen und ich bin ein ganz ein grosser Fan vom klassischen Tanz, vom Mariinski-Ballett. Also mich interessieren verschiedene Varianten von einer (unv.), von einer "Paquita" oder irgendwie so, das interessiert mich brennend. (2:33:00)
+Die haben einfach dann irgendwie keinen Platz gehabt. Aber man ist dann natürlich gerade früher so in der Zeit um die 1950, da hat es natürlich noch viele Leute gehabt, die auch noch gelebt haben, die vielleicht mal dann halt am Stadttheater oder in freien Truppen oder beim Heinz Rosen in Basel nachher. Und die hat man natürlich alle dann aufgenommen.[02:32:22]  Am Schluss sind wir dann bei diesen 400 gewesen und etwa ein Drittel habe ich geschrieben, ja. Das sind eigentlich eben vor allem die aus der deutschen Schweiz gewesen, die die hier in der Nähe gewesen sind, wo ich am ehesten einen Zugang hatte.[02:32:37]  Weil es ist ja eigentlich interessant, ich bin ja im Prinzip vom Ballett hergekommen und ich bin ein ganz ein grosser Fan vom klassischen Tanz, vom Mariinski-Ballett. Also mich interessieren verschiedene Varianten von einer Fassung von einer "Paquita" oder irgendwie so, das interessiert mich brennend. (2:33:00)
 
 
 
@@ -2659,7 +2577,7 @@ Aber weil ich ja dann angefangen habe mich mit Schweizer Tanzgeschichte zu befas
 
 
 
-Also ist es irgendwie darauf hinaus gelaufen, dass ich hier gearbeitet habe. Und da sind dann halt die ersten Vorstellungen von der Wigman gewesen, wo ich dann halt angefangen habe zu schreiben, solche historischen Sachen. Oder halt, wo die Niddy Impekoven 90 Jahre alt geworden ist, da hat ja in Bad Ragaz, also sie ist ja halbe Schweizerin gewesen, und das ist ja so eine wunderbare Tänzerin gewesen. Und ich habe sie dann besuchen können und konnte einen kleinen Artikel für ihren 90. Geburtstag schreiben. [02:34:45] Und Alain Bernard hat noch ein Foto von ihr gehabt und dann ist das dann gekommen. Also es ist dann einfach darauf hinausgelaufen, dass ich eigentlich das gemacht habe, wo man eben hier Quellen hat. Und auch die Leute hat, die noch erzählt haben.[02:34:57]  Das hat sich dann so ergeben und darum sind es dann vor allem die Leute, wo ich jetzt im Lexikon bin. Wobei es sind unterdessen im Lexikon ein bisschen mehr als 400, weil sie haben dann so lange daran gearbeitet, dass dann unterdessen viele junge auch wieder die Kriterien erfüllt haben. (2:35:14)
+Also ist es irgendwie darauf hinaus gelaufen, dass ich hier gearbeitet habe. Und da sind dann halt die ersten Vorstellungen von der Wigman gewesen, wo ich dann halt angefangen habe zu schreiben, solche historischen Sachen. (2:34:27) Oder halt wunderbare Sachen, wo die Niddy Impekoven 90 Jahre alt geworden ist, da hat ja in Bad Ragaz, also sie ist ja halbe Schweizerin gewesen, und das ist ja so eine wunderbare Tänzerin gewesen. Und ich habe sie dann besuchen können und konnte einen kleinen Artikel für ihren 90. Geburtstag schreiben. [02:34:45] Und Alain Bernard hat noch ein Foto von ihr gehabt und dann ist das dann gekommen. Also es ist dann einfach darauf hinausgelaufen, dass ich eigentlich das gemacht habe, wo man eben hier Quellen hat. Und auch die Leute hat, die noch erzählt haben.[02:34:57]  Das hat sich dann so ergeben und darum sind es dann vor allem die Leute, wo ich jetzt im Lexikon bin. Wobei es sind unterdessen im Lexikon ein bisschen mehr als 400, weil sie haben dann so lange daran gearbeitet, dass dann unterdessen viele junge auch wieder die Kriterien erfüllt haben. (2:35:14)
 
 
 
@@ -2669,7 +2587,7 @@ Also ist es irgendwie darauf hinaus gelaufen, dass ich hier gearbeitet habe. Und
 
 
 
-Also auch haben bereits drei Jahre mit einer eigenen Kompanie gearbeitet und dann hat die Lilo Weber noch Ergänzungen auf verschiedene jüngere, die wir gar nicht mehr auf der Liste gehabt haben. Im Prinzip hat sich dann auch unsere Redaktion ein bisschen aufgelöst. Wir haben das mal so (unv.) und dann haben auch noch verschiedene andere Anregungen gegeben: da fehlt doch noch einer. (2:35:43) Und dann sind sie selber darauf gekommen oder irgendetwas. Dann hat sich das so ergeben. Aber es ist auf jeden Fall spannend gewesen und es ist im Prinzip ist es auch so etwas gewesen wie eine mündliche Geschichte, weil man hat da mal geschaut, was man überhaupt findet in den Jahrbüchern oder irgendeine Publikation. Das ist natürlich wenig gewesen und dann hat man diese Leute angerufen und hat sich mal erzählen lassen. [02:36:03] Und wenn man es dann vergleicht mit den Notizen, dann sieht man, dass etwas nicht stimmt. Und dann hat man wieder telefoniert und dann hat man gesagt, so jetzt gehe ich aber wirklich in den Estrich hoch und hole mal die Kiste herunter. Dann haben sie die Programme angeschaut und haben noch Fotos gefunden, von denen sie nichts mehr wussten. [02:36:19] Und dann haben sie angefangen untereinander zu telefonieren. Und dann ist auch manchmal gekommen, zu dieser Frau – die ist ja genau gleich wichtig – die müsst ihr auch noch mit hineinnehmen. (2:36:29)
+Also auch haben bereits drei Jahre mit einer eigenen Kompanie gearbeitet und dann hat die Lilo Weber noch Ergänzungen auf verschiedene jüngere, die wir gar nicht mehr auf der Liste gehabt haben. Im Prinzip hat sich dann auch unsere Redaktion ein bisschen aufgelöst. Wir haben das mal so aufgegleist und dann haben auch noch verschiedene andere Anregungen gegeben: da fehlt doch noch einer. (2:35:43) Und dann sind sie selber darauf gekommen oder irgendetwas. Dann hat sich das so ergeben. Aber es ist auf jeden Fall spannend gewesen und es ist im Prinzip ist es auch so etwas gewesen wie eine mündliche Geschichte, weil man hat da mal geschaut, was man überhaupt findet in den Jahrbüchern oder irgendeine Publikation. Das ist natürlich wenig gewesen und dann hat man diese Leute angerufen und hat sich mal erzählen lassen. [02:36:03] Und wenn man es dann vergleicht mit den Notizen, dann sieht man, dass etwas nicht stimmt. Und dann hat man wieder telefoniert und dann hat man gesagt, so jetzt gehe ich aber wirklich in den Estrich hoch und hole mal die Kiste herunter. Dann haben sie die Programme angeschaut und haben noch Fotos gefunden, von denen sie nichts mehr wussten. [02:36:19] Und dann haben sie angefangen untereinander zu telefonieren. Und dann ist auch manchmal gekommen, zu dieser Frau – die ist ja genau gleich wichtig – die müsst ihr auch noch mit hineinnehmen. (2:36:29)
 
 
 
@@ -2699,7 +2617,7 @@ I: Jetzt sind die Artikel recht kurz in dem Theaterlexikon, hast Du da nicht Lus
 
 
 
-P: [02:36:55] Ja gut, da hätte man dann schon noch alle Kritiken anschauen müssen, also wenn jemand zuerst die freie Szene in Zürich und dann nachher mit dem Roger Georg) zusammen, da hätte man dann den ganzen Roger GeorgeNachlass anschauen müssen und so. Also das wäre dann so eine Erweiterung gewesen. Und dafür hat es dann kein Interesse, kein Publikationsorgan gegeben.[02:37:18]  Und ich finde eigentlich, die Grösse des Theaterlexikons hat mich eigentlich nicht so beschränkt. [02:37:25] Es ist eher das historische Lexikon gewesen, wo man sehr wenig Platz gehabt hat. Und sie darauf bestanden haben, dass man wirklich den Originalnamen, den Beruf von den Eltern, Konfession, alles zusammen das Zeug herausfindet. Und das hat manchmal so viel Zeit gebraucht, bis man nur die Einleitung... bevor man überhaupt darauf gekommen ist, was er gemacht hat. Und das hat schon fast ein Drittel vom gesamten Platz gebraucht. (2:37:53)
+ [02:36:55] P:Ja gut, da hätte man dann schon noch alle Kritiken anschauen müssen, also wenn jemand zuerst die freie Szene in Zürich und dann nachher mit dem Roger Georg) zusammen, da hätte man dann den ganzen Roger GeorgeNachlass anschauen müssen und so. Also das wäre dann so eine Erweiterung gewesen. Und dafür hat es dann kein Interesse, kein Publikationsorgan gegeben.[02:37:18]  Und ich finde eigentlich, die Grösse des Theaterlexikons hat mich eigentlich nicht so beschränkt. [02:37:25] Es ist eher das historische Lexikon gewesen, wo man sehr wenig Platz gehabt hat. Und sie darauf bestanden haben, dass man wirklich den Originalnamen, den Beruf von den Eltern, Konfession, alles zusammen das Zeug herausfindet. Und das hat manchmal so viel Zeit gebraucht, bis man nur die Einleitung... bevor man überhaupt darauf gekommen ist, was er gemacht hat. Und das hat schon fast ein Drittel vom gesamten Platz gebraucht. (2:37:53)
 
 
 
@@ -2709,7 +2627,7 @@ P: [02:36:55] Ja gut, da hätte man dann schon noch alle Kritiken anschauen mü
 
 
 
-Das fand ich eigentlich unbefriedigender, weil man da, so Leute wie den Hans Züllig abgehandelt hat und dann ist es etwas ganz Kleines geworden. Das fand ich irgendwie schade. Und das hat es natürlich schon gegeben, dass zum Beispiel die IG Tanz in Basel, die haben angefangen so Broschüren herauszugeben für Tanzschaffende; frühere wie Katja Wulff und so.[02:38:19]  Sie sind sehr aktiv gewesen und sie haben dann Broschüren herausgegeben über Katja Wulff. Das haben wir aber in Zürich nicht gehabt. Aber wenn ich unbedingt einer Person hätte nachgehen wollen, jetzt über Terpis, Wigman,Perrottethinaus, ich hätte das immer publizieren können beim Wolfgang (lacht), im "Tanz der Dinge". [02:38:40] Das ist klar. (lacht) Das hätte er genommen, aber inwieweit das dann gelesen worden wäre. Ich meine, er hat immer dafür gesorgt, dass die Tanzzeitschriften, so wie der ZB, auch in der Landesbibliothek. Es ist immer irgendwo vorhanden, es ist nicht so, dass es quasi verloren ist, aber – und er hat sogar eine Bibliografie gemacht. Er hat eine. Aber, die ist nie gedruckt, aber wir haben sie im Tanzarchiv Zürich auch. Mit allen Zeitungen.
+Das fand ich eigentlich unbefriedigender, weil man da, so Leute wie den Hans Züllig abgehandelt hat und dann ist es etwas ganz Kleines geworden. Das fand ich irgendwie schade. Und das hat es natürlich schon gegeben, dass zum Beispiel die IG Tanz in Basel, die haben angefangen so Broschüren herauszugeben für Tanzschaffende; frühere wie Katja Wulff und so.[02:38:19]  Sie sind sehr aktiv gewesen und sie haben dann Broschüren herausgegeben über Katja Wulff. Das haben wir aber in Zürich nicht gehabt. Aber wenn ich unbedingt einer Person hätte nachgehen wollen, jetzt über Terpis, Wigman,Perrottethinaus, ich hätte das immer publizieren können beim Wolfgang, im "Tanz der Dinge". [02:38:40] Das ist klar. Das hätte er genommen, aber inwieweit das dann gelesen worden wäre. Ich meine, er hat immer dafür gesorgt, dass die Tanzzeitschriften, so wie der ZB, auch in der Landesbibliothek. Es ist immer irgendwo vorhanden, es ist nicht so, dass es quasi verloren ist, aber – und er hat sogar eine Bibliografie gemacht. Er hat eine. Aber, die ist nie gedruckt, aber wir haben sie im Tanzarchiv Zürich auch. Mit allen Zeitungen.
 
 
 
@@ -2760,7 +2678,7 @@ I: Stichwort Fördergelder. Kannst du beurteilen, inwiefern Tanzkritiken einen E
 
 
 P: Ich glaube es nicht. Also, früher, wo es die Tanzkommission noch gegeben hat. Also, ich kenne mich da genauer höchstens in der Stadt Zürich aus. Also, wo es die Tanzkommission noch gegeben hat in Zürich, so wie sie früher gewesen ist, da war es eigentlich ein Mix zwischen Tanzschaffenden und Tanzkritikern. [02:41:04] Man hat noch keine Tanzgeschichtslehrer gehabt, man hat noch keine Professoren gehabt am Master Zeitgenössischen Tanz, irgendwie so. Das hat man alles nicht gehabt, das heisst, die Leute, die man genommen hat, man hat ein paar Leute aus der Tanzszene, ich weiss nicht, ich glaube, es sind sechs insgesamt. Dann sind es zwei, drei so gewesen, und dann eben noch immer auch ein Kritiker. [02:41:30] Ich weiss, dass der Richard auch in der Kommission gewesen ist, der John Geisler, also abwechslungsweise. (2:41:35)
- Und dann ist das eigentlich schon da vertreten gewesen, aber man hat ja die Gesuche anschauen müssen und hat dann die Vorstellungen besuchen müssen. Und ich weiss nicht, ob die Kritiker wirklich – ich glaube, die Leute, die sind die Produktionen anschauen gegangen und die haben sich weniger von Kritikern beeinflussen lassen. Ob das jetzt die Ursula Frävel / Fraeveldas – eine Zeitlang hat die Ursula Frävel  geschrieben. Und wir sind eigentlich immer gegensätzlicher Meinung gewesen. [02:42:15] Nicht ganz immer, es gab auch Sachen, wo wir beide einverstanden gewesen, es ist immer gleich ein Hin und Her gewesen. Wir haben sehr gut miteinander gekonnt, aber ich glaube weder sie noch ich haben einen Einfluss gehabt, dass sie wegen DEM jemanden Fördergelder geben. (2:42:29)
+ Und dann ist das eigentlich schon da vertreten gewesen, aber man hat ja die Gesuche anschauen müssen und hat dann die Vorstellungen besuchen müssen. Und ich weiss nicht, ob die Kritiker wirklich – ich glaube, die Leute, die sind die Produktionen anschauen gegangen und die haben sich weniger von Kritikern beeinflussen lassen. Ob das jetzt die Ursula Frävel das – eine Zeitlang hat die Ursula Frävel  geschrieben. Und wir sind eigentlich immer gegensätzlicher Meinung gewesen. [02:42:15] Nicht ganz immer, es gab auch Sachen, wo wir beide einverstanden gewesen, es ist immer gleich ein Hin und Her gewesen. Wir haben sehr gut miteinander gekonnt, aber ich glaube weder sie noch ich haben einen Einfluss gehabt, dass sie wegen DEM jemanden Fördergelder geben. (2:42:29)
 
 
 
@@ -2810,7 +2728,7 @@ I: Hätte dich das gereizt?
 
 
 
-P: Nicht unbedingt. Ich bin ja im Vorstand gewesen von der Trägerschaft, die der Wolfgang gegründet hat, Pro Tanz. Für den damals privaten Schweizer Tanzpreis, den ja dann Annette Ringier finanziert hat. Und ich war dort im Vorstand, aber NICHT in der Jury. Brigitte hat dort die Jury geleitet, sie hat Tanzkritiken von allen Seiten gehabt.[02:43:19]  Ich bin, glaube ich, vielleicht ein Jahr in der Jury gewesen, allerhöchstens, aber ich glaube nicht. Also wir haben auf die Auswahl keinen Einfluss gehabt. [02:43:30] Das, was ich dann gemacht habe. Und ich habe ja auch beim SiViC, da bin ich im Vorstand gewesen, aber ich bin nie da gewesen, wo es um die Auswahl gegangen ist. Und zwar einfach auch, weil ich das Gefühl gehabt hätte, wenn ich hätte auswählen müssen, dann hätte ich mich verpflichtet gefühlt, alle Sachen zu sehen. Und das ist jetzt wieder einfach zeitlich nicht möglich gewesen. (2:43:55)
+[02:42:49]  P: Nicht unbedingt. Ich bin ja im Vorstand gewesen von der Trägerschaft, die der Wolfgang gegründet hat, Pro Tanz. Für den damals privaten Schweizer Tanzpreis, den ja dann Annette Ringier finanziert hat. Und ich war dort im Vorstand, aber NICHT in der Jury. Brigitte hat dort die Jury geleitet, sie hat Tanzkritiken von allen Seiten gehabt.[02:43:19]  Ich bin, glaube ich, vielleicht ein Jahr in der Jury gewesen, allerhöchstens, aber ich glaube nicht. Also wir haben auf die Auswahl keinen Einfluss gehabt. [02:43:30] Das, was ich dann gemacht habe. Und ich habe ja auch beim SiViC, da bin ich im Vorstand gewesen, aber ich bin nie da gewesen, wo es um die Auswahl gegangen ist. Und zwar einfach auch, weil ich das Gefühl gehabt hätte, wenn ich hätte auswählen müssen, dann hätte ich mich verpflichtet gefühlt, alle Sachen zu sehen. Und das ist jetzt wieder einfach zeitlich nicht möglich gewesen. (2:43:55)
 Weil, es sind eine Zeitlang, in den achtziger, neunziger Jahren, da hat es sehr viele Vorstellungen gegeben. Und da den Überblick... und ohne Überblick zu urteilen, das ist mir weniger gelegen. Mich hat dann mehr interessiert, zum Beispiel beim SiViC an einem Seminar teilzunehmen. Oder eben Tanzgeschichte weiterzumachen. Ich habe ja erst mit fünfzig Jahren angefangen Tanzgeschichte zu unterrichten. Vorher sind es nur einzelne Kurse gewesen.
 
 
@@ -2851,7 +2769,7 @@ I: Auch relativ spät, wenn man es mit heute vergleicht?
 
 
 
-P: [02:44:35] Ja, das ist aber, wenn man es mit heute vergleicht, ich bin heute noch überzeugt, dass das notwendig ist, du musst zuerst einen Haufen Sachen gesehen haben, bist du Kritiken schreiben kannst. Du kannst nicht einfach sagen, von jetzt an schreibe ich Tanzkritiken und dann siehst du zum ersten Mal ein klassisches Ballett. Also meiner Ansicht nach solltest du eben schon vorher möglichst viel Grundwissen angesammelt haben, dass du dem gerecht wirst.[02:45:02]  Denn schliesslich, muss man sich ja immer vorstellen, eben wir sind Kritiker und wir schreiben für die Zeitung. Aber wir haben ja auch eine Verantwortung, weil schliesslich ist da entweder eine freie Truppe oder es ist ein Theaterballett oder irgend sonst eine Institution. [02:45:17] Da sind sehr viele Künstler involviert, die lange daran arbeiten und Pläne haben, Musik bestellen, die etwas auf die Beine stellen. Und ich finde, die haben es auch verdient, dass auch die Kritiker Arbeit leisten vorher und nicht einfach so noch am Schluss dazu kommen. (2:45:42)
+[02:44:35] P:  Ja, das ist aber, wenn man es mit heute vergleicht, ich bin heute noch überzeugt, dass das notwendig ist, du musst zuerst einen Haufen Sachen gesehen haben, bist du Kritiken schreiben kannst. Du kannst nicht einfach sagen, von jetzt an schreibe ich Tanzkritiken und dann siehst du zum ersten Mal ein klassisches Ballett. Also meiner Ansicht nach solltest du eben schon vorher möglichst viel Grundwissen angesammelt haben, dass du dem gerecht wirst.[02:45:02]  Denn schliesslich, muss man sich ja immer vorstellen, eben wir sind Kritiker und wir schreiben für die Zeitung. Aber wir haben ja auch eine Verantwortung, weil schliesslich ist da entweder eine freie Truppe oder es ist ein Theaterballett oder irgend sonst eine Institution. [02:45:17] Da sind sehr viele Künstler involviert, die lange daran arbeiten und Pläne haben, Musik bestellen, die etwas auf die Beine stellen. Und ich finde, die haben es auch verdient, dass auch die Kritiker Arbeit leisten vorher und nicht einfach so noch am Schluss dazu kommen. (2:45:42)
 
 
 
@@ -2911,7 +2829,7 @@ I: Eine Dringlichkeit, das ist ein ganz ein schöner Ausdruck.
 
 
 
-P: [02:49:09] Ja, es ist einfach. Es gibt so manchmal einen Ausdruck, wo Tanzschaffende sagen, ich habe einmal etwas darüber machen wollen. Wenn ich das wörtlich nehme und wirklich denke, aha, der wollte einmal wirklich das machen, dann muss man dann sagen, der kann´s auch sein lassen. Aber wahrscheinlich meint er es gar nicht so, wie es klingt. Und drum, es muss irgendwie wie eine innere Notwendigkeit oder wie eine Dringlichkeit sein, dass man spürt, das musste er jetzt einfach darstellen. [02:49:41] Und auch wenn einem dann vielleicht nicht gefällt, aber das gibt sicher nie etwas, dass man dann es verurteilt, sondern man kann immer das beschreiben, die Erfülltheit von etwas, auch wenn die Meinung nicht teilt, oder irgendwie so. Aber ich glaube, da entwickelt man schon, dadurch, dass man viele Sachen anschauen geht, entwickelt man schon ziemlich schnell die Fähigkeit zu sagen, das sagt mir etwas und das sagt mir nichts. Wobei man immer annehmen muss, dass etwas gesagt wird, ohne dass man es merkt. (lacht) Klar. 2:50:21
+[02:49:09] P: Ja, es ist einfach. Es gibt so manchmal einen Ausdruck, wo Tanzschaffende sagen, ich habe einmal etwas darüber machen wollen. Wenn ich das wörtlich nehme und wirklich denke, aha, der wollte einmal wirklich das machen, dann muss man dann sagen, der kann´s auch sein lassen. Aber wahrscheinlich meint er es gar nicht so, wie es klingt. Und drum, es muss irgendwie wie eine innere Notwendigkeit oder wie eine Dringlichkeit sein, dass man spürt, das musste er jetzt einfach darstellen. [02:49:41] Und auch wenn einem dann vielleicht nicht gefällt, aber das gibt sicher nie etwas, dass man dann es verurteilt, sondern man kann immer das beschreiben, die Erfülltheit von etwas, auch wenn die Meinung nicht teilt, oder irgendwie so. Aber ich glaube, da entwickelt man schon, dadurch, dass man viele Sachen anschauen geht, entwickelt man schon ziemlich schnell die Fähigkeit zu sagen, das sagt mir etwas und das sagt mir nichts. Wobei man immer annehmen muss, dass etwas gesagt wird, ohne dass man es merkt. Klar. 2:50:21
 
 
 
@@ -2971,7 +2889,7 @@ I: Die haben etwas zu sagen...–
 
 
 
-P: [02:50:40] Die wollen sich ausdrücken, das ist eine Not, die wollen etwas, die wollen uns etwas erzählen. Und vielleicht ist es gar nichts Schönes, was sie erzählen, und vielleicht ist es auch noch nicht ganz perfekt gemacht. Man spürt einfach die Intensität.
+[02:50:40] P: Die wollen sich ausdrücken, das ist eine Not, die wollen etwas, die wollen uns etwas erzählen. Und vielleicht ist es gar nichts Schönes, was sie erzählen, und vielleicht ist es auch noch nicht ganz perfekt gemacht. Man spürt einfach die Intensität.
 
 
 
@@ -3001,7 +2919,7 @@ P: Ja, aber das ist –
 
 
 
-I: Wenn man dem gegenüber mit Respekt begegnet. (2:51:00)P: [02:51:00] Das ist klar. Wobei ich sowieso gerade bei denen, ich habe ja dann am Schluss im Theaterspektakel, wo ich ja geschrieben habe, da habe ich ja vor allem die "Shortpieces" so gerne gehabt. Dann habe ich mir bei denen ausgesucht, weil das hat mich fasziniert. Da hat man unglaubliche Frauen und Männer gesehen, die auch wieder eben nicht ganze Stücke machen, sondern in 20 Minuten irgendwie etwas zusammenballen, was wirklich ganz spannend gewesen ist. [02:51:27] Und das hat mich immer auch sehr berührt, wenn – das war sehr interessant. Und da kommt es dann nicht darauf an, ob sie das mit Ballett machen oder ob sie es à la Graham machen oder was auch immer. Es kommt ja nur darauf an, stimmt es von innenher. Haben sie in dem Stil eine Ausdrucksmöglichkeit gefunden. (2:51:54)
+I: Wenn man dem gegenüber mit Respekt begegnet. (2:51:00)P: Das ist klar. Wobei ich sowieso gerade bei denen, ich habe ja dann am Schluss im Theaterspektakel, wo ich ja geschrieben habe, da habe ich ja vor allem die "Shortpieces" so gerne gehabt. Dann habe ich mir bei denen ausgesucht, weil das hat mich fasziniert. Da hat man unglaubliche Frauen und Männer gesehen, die auch wieder eben nicht ganze Stücke machen, sondern in 20 Minuten irgendwie etwas zusammenballen, was wirklich ganz spannend gewesen ist. [02:51:27] Und das hat mich immer auch sehr berührt, wenn – das war sehr interessant. Und da kommt es dann nicht darauf an, ob sie das mit Ballett machen oder ob sie es à la Graham machen oder was auch immer. Es kommt ja nur darauf an, stimmt es von innenher. Haben sie in dem Stil eine Ausdrucksmöglichkeit gefunden. (2:51:54)
 
 
 
@@ -3024,25 +2942,10 @@ I: Du hast "Shortpieces" erwähnt von heute und auch das "Tanz in Stücken". Das
 P: Ganz, ganz früher – es ist sicher auch der Peter Schilling, der sehr, sehr früh mit ganz eigenständigen Sachen gekommen ist und dann bin ich mit – das ist einer, der wenigen gewesen, mit dem ich auch mal diskutiert habe. [02:52:33] Und dann hat er mir gesagt hat, ja, er mache ja grundsätzlich nur Bewegungen, die er selber erfunden hat. Wobei ich mich natürlich nicht habe lumpen lassen und gesagt habe, wenn man von einem Fuss auf den anderen hüpft, dann gibt es automatisch etwas, wo man im Klassischen Jeté sagt. (lacht) Und dann haben wir solches einmal ein bisschen, ein bisschen diskutiert.[02:53:02] Und derFranz Frautschi ist mir in der Erinnerung, der hat im Prinzip so hochmusikalisches – aus Basel ist er gekommen – hochmusikalische Sachen gemacht im Zwischenbereich Musik und Tanz.
 (2:53:17)
 
+Wo man sagen konnte, so etwas hat wahrscheinlich schon der Sacharoff in dieser Art gemacht, aber für ihn hat es gestimmt. Für alle anderen wäre es dann eben wieder nicht richtig gewesen, oder? Und jemand, der schon sehr früh ganz interessante Gruppenstücke gemacht hat, das ist der Erwin Schumann gewesen, mit seinen Tamuté, also Tanz, Musik und Theater. Und gerade dort habe ich eben mit der Ursula Fraevel gehen müssen und sie hat das eine Stück gut gefunden und ich das andere.  Das umgekehrt nächste Jahr. Aber das hat mich immer interessiert. Da bin ich eigentlich immer gegangen, weil das habe ich immer originell gefunden, wie er das gemacht hat. [02:53:59] Und was mich auch vor allem interessiert hat, ist natürlich die welsche freie Szene, haben mich die interessiert, die im Prinzip erstmal von der Klassik herkommen, nachher vielleicht beim Béjart oder irgendwie so in Genf oder so gewesen sind. Und dann selber Sachen gemacht haben. Wie der Philippe Saire, bei ihm hat mir gar nicht alles gefallen, aber auch ein Etienne Frey, der hat natürlich sehr, sehr spannende Sachen gehabt und dann wieder Sachen, wo ich denke, wie kommen sie dazu? (2:54:31)
 
 
-
-
-
-
-
-
-Wo man sagen konnte, so etwas hat wahrscheinlich schon der Sacharoff in dieser Art gemacht, aber für ihn hat es gestimmt. Für alle anderen wäre es dann eben wieder nicht richtig gewesen, oder? Und jemand, der schon sehr früh ganz interessante Gruppenstücke gemacht hat, das ist der Erwin Schumann gewesen, mit seinen Tamuté, also Tanz, Musik und Theater. Und gerade dort habe ich eben mit der Ursula Fraevel gehen müssen und sie hat das eine Stück gut gefunden und ich das andere. (lacht) Das umgekehrt nächste Jahr. Aber das hat mich immer interessiert. Da bin ich eigentlich immer gegangen, weil das habe ich immer originell gefunden, wie er das gemacht hat. [02:53:59] Und was mich auch vor allem interessiert hat, ist natürlich die welsche freie Szene, haben mich die interessiert, die im Prinzip erstmal von der Klassik herkommen, nachher vielleicht beim Béjart oder irgendwie so in Genf oder so gewesen sind. Und dann selber Sachen gemacht haben. Wie der Philippe Saire, bei ihm hat mir gar nicht alles gefallen, aber auch ein Etienne Frey, der hat natürlich sehr, sehr spannende Sachen gehabt und dann wieder Sachen, wo ich denke, wie kommen sie dazu? (2:54:31)
-
-
-
-
-
-
-
-
-
-Es ist nicht ausgerichtet gewesen. Es ist schwierig zu sagen, was da noch an Truppen – CH-Tanztheater, die haben ganz sicher nie ein schlechtes, nicht durchdachtes Stück gemacht. Sie haben auch zum Teil die Welscher, der Wherlock hat mal eine Choreografie gemacht für sie. [02:54:56] Und da ist quasi das Niveau immer gut gewesen, vor allem der Ben Iida, wenn er choreografiert hat. Und weil er vor allem natürlich das ganze Team von Tänzerinnen, die sehr lange miteinander gearbeitet haben, das hat eigentlich immer etwas Interessantes und etwas Packendes gegeben. Das ist schon schön gewesen. (lacht)
+Es ist nicht ausgerichtet gewesen. Es ist schwierig zu sagen, was da noch an Truppen – CH-Tanztheater, die haben ganz sicher nie ein schlechtes, nicht durchdachtes Stück gemacht. Sie haben auch zum Teil die Welscher, der Wherlock hat mal eine Choreografie gemacht für sie. [02:54:56] Und da ist quasi das Niveau immer gut gewesen, vor allem der Ben Iida, wenn er choreografiert hat. Und weil er vor allem natürlich das ganze Team von Tänzerinnen, die sehr lange miteinander gearbeitet haben, das hat eigentlich immer etwas Interessantes und etwas Packendes gegeben. Das ist schon schön gewesen.
 
 
 
@@ -3062,7 +2965,7 @@ I: Tust du auch mal verschiedene Kriterien anwenden, je nach Theater oder je nac
 
 
 
-P: Nein, ich muss sagen, ich bin glaube ich in der Kritik, bei diesen freien Tanzschaffenden, da bin ich normalerweise sehr viel wohlwollender. Weil wenn der Apparat da oben im Opernhaus (deutet mit dem Kopf seitlich nach oben und lacht) wieder mit einem riesigen Aufwand etwas produziert, wo ich einfach denke, mit dem Geld hätten alle Tanzschaffenden in Zürich vielleicht etwas Besseres gemacht.[02:56:03]  Also, da mache ich schon einen Unterschied, ich erwarte dann schon von einer Institution, die auch grössere Ressourcen hat, die auch, sagen wir, Tänzer anders zahlen kann und die sollten auch besser ausgebildet sein. Also da erwarte ich mehr. Wobei ich kann in letzter Zeit nicht sagen, es sei – vielleicht, dass es mir nicht so gefallen hat, aber ich kann nicht sagen, es sei schlecht gewesen, oder? Wenn man da einen Unterschied macht. (2:56:38)
+P: Nein, ich muss sagen, ich bin glaube ich in der Kritik, bei diesen freien Tanzschaffenden, da bin ich normalerweise sehr viel wohlwollender. Weil wenn der Apparat da oben im Opernhaus wieder mit einem riesigen Aufwand etwas produziert, wo ich einfach denke, mit dem Geld hätten alle Tanzschaffenden in Zürich vielleicht etwas Besseres gemacht.[02:56:03]  Also, da mache ich schon einen Unterschied, ich erwarte dann schon von einer Institution, die auch grössere Ressourcen hat, die auch, sagen wir, Tänzer anders zahlen kann und die sollten auch besser ausgebildet sein. Also da erwarte ich mehr. Wobei ich kann in letzter Zeit nicht sagen, es sei – vielleicht, dass es mir nicht so gefallen hat, aber ich kann nicht sagen, es sei schlecht gewesen, oder? Wenn man da einen Unterschied macht. (2:56:38)
 
 
 
@@ -3072,17 +2975,11 @@ P: Nein, ich muss sagen, ich bin glaube ich in der Kritik, bei diesen freien Tan
 
 
 
-I: Beobachtest du bei dir so über die Jahre einen Wandel im Geschmack, muss man fast sagen?P: [02:56:47] ja, das kann vielleicht schon sein. Ich glaube, mich interessieren eher Sachen, die – in der neusten Zeit – eher Sachen, die formal eine gewisse Komplexität haben. Also, das wären dann Anne Teresa de Keersmaeker oder auch zum Teil die Anna Huber, einfach die Sachen, da kann ich sicher sein, dass ich auf meine Kosten komme. [02:57:14] Auch wenn jetzt gerade ein Stück mal nicht zu den allerbesten gehört. Währendem, wenn es vor allem um Inhaltliche und so, sagen wir mal, diskontinuierliches Geschichtenerzählen, bisschen verschroben, (2:57:45).
+I: Beobachtest du bei dir so über die Jahre einen Wandel im Geschmack, muss man fast sagen?[02:56:47]P:  ja, das kann vielleicht schon sein. Ich glaube, mich interessieren eher Sachen, die – in der neusten Zeit – eher Sachen, die formal eine gewisse Komplexität haben. Also, das wären dann Anne Teresa de Keersmaeker oder auch zum Teil die Anna Huber, einfach die Sachen, da kann ich sicher sein, dass ich auf meine Kosten komme. [02:57:14] Auch wenn jetzt gerade ein Stück mal nicht zu den allerbesten gehört. Währendem, wenn es vor allem um Inhaltliche und so, sagen wir mal, diskontinuierliches Geschichten erzählen, bisschen verschroben, (2:57:45).
 
 
 
-
-
-
-
-
-
-Damit kann ich ein bisschen weniger anfangen. Und wo ich auch eine grössere Empfindlichkeit habe als früher, das ist, wenn die Musik überhaupt nicht passt. (lacht) Beziehungsweise, wenn sie so ist, dass man die "Jupiter Symphonie" nimmt für irgendeinen Tanz, wo man auch eigentlich schlicht jede Musik nehmen könnte und wo es auch ein Minkus tun würde. Also, ich bin gar nicht gegen Minkus. Minkus Ballette sind gut, während der Petipa gute Choreografien hat und so ein mittelmässige Musik machen konnte. [02:58:15] Aber einfach, da würde eine Gebrauchsmusik langen und es müsste nicht so ein Meisterwerk sein vom Mozart, wo man dann etwas macht, das eigentlich gar nicht auf Mozart eingeht und auf dieselbe Strukturierung und seinen Charakter. Da bin ich heute etwas weniger tolerant, glaube ich.
+Damit kann ich ein bisschen weniger anfangen. Und wo ich auch eine grössere Empfindlichkeit habe als früher, das ist, wenn die Musik überhaupt nicht passt. Beziehungsweise, wenn sie so ist, dass man die "Jupiter Symphonie" nimmt für irgendeinen Tanz, wo man auch eigentlich schlicht jede Musik nehmen könnte und wo es auch ein Minkus tun würde. Also, ich bin gar nicht gegen Minkus. Minkus Ballette sind gut, während der Petipa gute Choreografien hat und so ein mittelmässige Musik machen konnte. [02:58:15] Aber einfach, da würde eine Gebrauchsmusik langen und es müsste nicht so ein Meisterwerk sein vom Mozart, wo man dann etwas macht, das eigentlich gar nicht auf Mozart eingeht und auf dieselbe Strukturierung und seinen Charakter. Da bin ich heute etwas weniger tolerant, glaube ich.
 
 
 
@@ -3102,7 +2999,7 @@ I: Weniger tolerant geworden oder ist die Musik schon immer so etwas gewesen, da
 
 
 
-P: Die Musik ist schon immer wichtig gewesen, aber es ist natürlich schon auch der Balanchine-Einfluss, oder. Eben, ich habe den Balanchine eigentlich schon ziemlich lange gesehen. Wo man einfach sieht, was man machen kann, wenn man wirklich die Musik so einbezieht. Oder auch, wenn ich beim Schläpfer sehe, wie der – der hat immer einen Grund, warum es die Musik ist.[02:59:12]  Eben, es ist auch wieder eine Notwendigkeit. Der Schläpfer wählt nie eine Musik, die nicht passt. Oder wo die Musik einfach viel besser ist, als das, was er tanzt. (lacht) Sagen wir mal. Und wenn man natürlich genug lange gesehen hat, wie gut, wie überzeugend man das machen kann, dann ist man vielleicht empfindlicher, wenn dann wieder irgendeiner einfach eine Musik nimmt und man das Gefühl hat (zuckt mit den Schultern), warum nimmt er die Musik, er könnte auch eine andere nehmen. (2:59:53)
+P: Die Musik ist schon immer wichtig gewesen, aber es ist natürlich schon auch der Balanchine-Einfluss, oder. Eben, ich habe den Balanchine eigentlich schon ziemlich lange gesehen. Wo man einfach sieht, was man machen kann, wenn man wirklich die Musik so einbezieht. Oder auch, wenn ich beim Schläpfer sehe, wie der – der hat immer einen Grund, warum es die Musik ist.[02:59:12]  Eben, es ist auch wieder eine Notwendigkeit. Der Schläpfer wählt nie eine Musik, die nicht passt. Oder wo die Musik einfach viel besser ist, als das, was er tanzt. Sagen wir mal. Und wenn man natürlich genug lange gesehen hat, wie gut, wie überzeugend man das machen kann, dann ist man vielleicht empfindlicher, wenn dann wieder irgendeiner einfach eine Musik nimmt und man das Gefühl hat, warum nimmt er die Musik, er könnte auch eine andere nehmen. (2:59:53)
 
 
 
@@ -3142,7 +3039,7 @@ I: Wie?
 
 
 
-P:  [02:59:58] Indem ich sehr altmodisch sage, von mir aus muss man das "Requiem" nicht vertanzen. (lacht) Du hast glaube ich, darüber geschrieben. Ich habe es nur gesagt. (lacht)[03:00:12] Also bei mir gehört vor allem Sachen von religiöser Musik, also ich muss weder dem Neumeier seine "Matthäus-Passion", noch irgendwie ein "Mozart-Requiem" vertanzt haben. Ich glaube, das ist so für sich. Und ich glaube auch, es gibt relativ wenige Sachen, die dann so überzeugend sind, wo ich dann sage: ja. Da hat die Musik etwas mit der Religion zu tun und das ist optimal umgesetzt. (3:00:46)
+ [02:59:58]P: Indem ich sehr altmodisch sage, von mir aus muss man das "Requiem" nicht vertanzen.  Du hast glaube ich, darüber geschrieben. Ich habe es nur gesagt. [03:00:12] Also bei mir gehört vor allem Sachen von religiöser Musik, also ich muss weder dem Neumeier seine "Matthäus-Passion", noch irgendwie ein "Mozart-Requiem" vertanzt haben. Ich glaube, das ist so für sich. Und ich glaube auch, es gibt relativ wenige Sachen, die dann so überzeugend sind, wo ich dann sage: ja. Da hat die Musik etwas mit der Religion zu tun und das ist optimal umgesetzt. (3:00:46)
 
 
 
@@ -3182,7 +3079,7 @@ I: Oder Ohropax hinein –
 
 
 
-P: Nein, eben Ohropax das hätte ich beim Dubois oder auch bei der frühen Keersmaeker – da hat sie ja mal ein wunderbares Anfangsstück gehabt, wo sie während der ganzen Vorstellung eine Chruschtschow-Rede zu kommunistischer Zeit, hat sie laufen lassen. Und das ist einem dermassen auf die Nerven gegangen. [03:03:25] Das würde ich heute abdämpfen mit dem Bewusstsein, es ist die Musik, es ist das Gespräch, es kommt das. Aber auf das will ich mich nicht konzentrieren. Obschon sie natürlich beides will, aber ich könnte mich dann besser konzentrieren auf die Bewegungen. [03:03:42] Aber ich habe deswegen nicht schlecht über sie geschrieben. (lacht) Das ist mir nicht in den Sinn gekommen. I: Und in der Tanzwissenschaft, da schreibt man ja von diesem No Dance, also Konzepttanz, wenn nicht mehr getanzt wird. Das hat damals den Jochen Schmidt, der ja da die Tanzgeschichte herausgegeben hat, sehr genervt. Also damit kann er gar nichts anfangen. Wie hast du diesen Turn vertragen? (3:04:17)
+P: Nein, eben Ohropax das hätte ich beim Dubois oder auch bei der frühen Keersmaeker – da hat sie ja mal ein wunderbares Anfangsstück gehabt, wo sie während der ganzen Vorstellung eine Chruschtschow-Rede zu kommunistischer Zeit, hat sie laufen lassen. Und das ist einem dermassen auf die Nerven gegangen. [03:03:25] Das würde ich heute abdämpfen mit dem Bewusstsein, es ist die Musik, es ist das Gespräch, es kommt das. Aber auf das will ich mich nicht konzentrieren. Obschon sie natürlich beides will, aber ich könnte mich dann besser konzentrieren auf die Bewegungen. [03:03:42] Aber ich habe deswegen nicht schlecht über sie geschrieben. Das ist mir nicht in den Sinn gekommen. I: Und in der Tanzwissenschaft, da schreibt man ja von diesem No Dance, also Konzepttanz, wenn nicht mehr getanzt wird. Das hat damals den Jochen Schmidt, der ja da die Tanzgeschichte herausgegeben hat, sehr genervt. Also damit kann er gar nichts anfangen. Wie hast du diesen Turn vertragen? (3:04:17)
 
 
 
@@ -3192,23 +3089,8 @@ P: Nein, eben Ohropax das hätte ich beim Dubois oder auch bei der frühen Keers
 
 
 
-P: Das ist eigentlich schon auch nicht ganz meine Sache. Ich muss sagen, ich finde es absolut faszinierend, was der Paul Taylor damals, am Anfang von der Postmoderne gemacht hat. [03:04:30] Weil das ist wirklich zusammen mit dem Cageseiner Nicht-Musik, wo es eine Partitur gibt davon (lacht). Das ist, soviel ich weiss, wirklich etwas Erstmaliges gewesen. Vielleicht hat es das vorher auch gegeben, weil man muss ja immer aufpassen, wenn man sagt, das ist zum ersten Mal gewesen. Wenn man genau genug schaut, dann findet man schon wieder irgendwo einen Vorläufer, oder wieder irgendwie etwas, das in dieser Art gegangen ist. Auch wie der Dadaismus, sind ja viele Sachen in diese Richtung gegangen. [03:05:01] Aber dass die Auftritte von Paul Taylor damals, das ist ja etwas, was mich total fasziniert hat, die Reaktionen darauf. [03:05:09] Es ist ja einfach die Frage, wenn du auf die Bühne kommst und nicht tanzt, dann gibt es nicht so viele Möglichkeiten, nicht tanzen ist nicht tanzen. (3:05:19)
-
-
-
-
-
-
-
-
-
+P: Das ist eigentlich schon auch nicht ganz meine Sache. Ich muss sagen, ich finde es absolut faszinierend, was der Paul Taylor damals, am Anfang von der Postmoderne gemacht hat. [03:04:30] Weil das ist wirklich zusammen mit dem Cage seiner Nicht-Musik, wo es eine Partitur gibt davon. Das ist, soviel ich weiss, wirklich etwas Erstmaliges gewesen. Vielleicht hat es das vorher auch gegeben, weil man muss ja immer aufpassen, wenn man sagt, das ist zum ersten Mal gewesen. Wenn man genau genug schaut, dann findet man schon wieder irgendwo einen Vorläufer, oder wieder irgendwie etwas, das in dieser Art gegangen ist. Auch wie der Dadaismus, sind ja viele Sachen in diese Richtung gegangen. [03:05:01] Aber dass die Auftritte von Paul Taylor damals, das ist ja etwas, was mich total fasziniert hat, die Reaktionen darauf. [03:05:09] Es ist ja einfach die Frage, wenn du auf die Bühne kommst und nicht tanzt, dann gibt es nicht so viele Möglichkeiten, nicht tanzen ist nicht tanzen. (3:05:19)
 Und die Frage ist dann, ob ich das in sehr vielen weiteren Vorstellungen, die Verweigerung auch sehen muss. Wenn ich ja weiss, dass nicht getanzt wird und dass im Grunde zum nicht tanzen und den Grund schreiben sie im Programmheft, dann muss ich es eigentlich nicht anschauen gehen. Ich bin da auch nicht ganz glücklich. [03:05:46] Mich fasziniert wirklich eher einfach ein Tänzer, der zeigt, wie er in die Verzweiflung geht und das nur machen kann, indem er die Spannung aus dem Rücken herausnimmt. [03:05:57] Da bin ich einfach auf den Knien, das finde ich so grossartig, wenn man rein körperlich so etwas darstellen kann. Währende dem wieder jemand mit dem Konzepttanz, warum er will, dass die Zuschauer auf Zuschauer zurückwerfen und solche Sachen, das interessiert mich nicht mehr so. (3:06:17)
-
-
-
-
-
-
 
 
 
@@ -3232,7 +3114,7 @@ I: Hat es auch Überraschungen gegeben für dich? (3:06:47)
 
 
 
-P: Ja, natürlich. Eine hast du ja erlebt (deutet auf die Interviewerin), als ich nicht mit in den "Schwanensee" gehen wollte und dann sind wir miteinander gegangen und dann bin ich hellauf begeistert gewesen von der "Schwanensee"-Aufführung, die mit dem alten "Schwanensee" eigentlich nicht mehr viel zu tun hat. Ich kann mich erinnern, ich habe auch mal andere "Schwanensee" gesehen, wo es um "Schwanensee reloaded" gegangen ist. [03:07:12] Das ist aus Wien gewesen. Und die hat auch die Musik verfremdet. Und ich muss sagen, die Verfremdung von der Musik ist absolut genial gewesen. [03:07:25] Die tänzerische Umsetzung ist nicht ganz so gut gewesen, aber das ist eine spannende Vorstellung gewesen. Aber, eben, es kann immer Überraschungen geben, das ist ganz klar. Ich bin auch manchmal überrascht, wenn ich heute mit meiner Enkelin in einen "Nussknacker" und mich einfach langweile, langweile, langweile. Oder auch in einen "Schwanensee" und mich langweile. Das wäre mir ganz am Anfang nicht passiert, aber jetzt passiert es. (3:08:05)
+P: Ja, natürlich. Eine hast du ja erlebt, als ich nicht mit in den "Schwanensee" gehen wollte und dann sind wir miteinander gegangen und dann bin ich hellauf begeistert gewesen von der "Schwanensee"-Aufführung, die mit dem alten "Schwanensee" eigentlich nicht mehr viel zu tun hat. Ich kann mich erinnern, ich habe auch mal andere "Schwanensee" gesehen, wo es um "Schwanensee reloaded" gegangen ist. [03:07:12] Das ist aus Wien gewesen. Und die hat auch die Musik verfremdet. Und ich muss sagen, die Verfremdung von der Musik ist absolut genial gewesen. [03:07:25] Die tänzerische Umsetzung ist nicht ganz so gut gewesen, aber das ist eine spannende Vorstellung gewesen. Aber, eben, es kann immer Überraschungen geben, das ist ganz klar. Ich bin auch manchmal überrascht, wenn ich heute mit meiner Enkelin in einen "Nussknacker" und mich einfach langweile, langweile, langweile. Oder auch in einen "Schwanensee" und mich langweile. Das wäre mir ganz am Anfang nicht passiert, aber jetzt passiert es. (3:08:05)
 
 
 
@@ -3292,7 +3174,7 @@ P: Was für eine Überraschung?
 
 
 
-I: Ja wegen dem "Swanlake reloaded", über das Thema, dass man manchmal mit einer vorgefassten Meinung an einen Ort geht und dann so findet, das ist ja gar nicht so schlecht. (lacht)
+I: Ja wegen dem "Swanlake reloaded", über das Thema, dass man manchmal mit einer vorgefassten Meinung an einen Ort geht und dann so findet, das ist ja gar nicht so schlecht. 
 P: Ja.
 
 
@@ -3419,33 +3301,7 @@ K: Nein, es läuft.
 
 
 
-
-
-
-
-(weitere Absprachen über den Verlauf)
-
-
-
-
-
-
-
-
-
-I: Ursula, hast du noch etwas? Ich habe die neuralgischen Punkte schon angesprochen. (3:10:24) (beide lachen) Das mit der Musik ist selber noch gekommen. Jérôme Bel?P: Über den haben wir noch nicht geredet, aber das muss ich auch nicht sagen, das weisst du. (lacht)
-
-
-
-
-
-
-
-
-
-(weitere Absprachen)
-
-
+I: Ursula, hast du noch etwas? Ich habe die neuralgischen Punkte schon angesprochen. (3:10:24) Das mit der Musik ist selber noch gekommen. Jérôme Bel?P: Über den haben wir noch nicht geredet, aber das muss ich auch nicht sagen, das weisst du. 
 
 
 
@@ -3455,7 +3311,7 @@ I: Ursula, hast du noch etwas? Ich habe die neuralgischen Punkte schon angesproc
 
 P: Wie hat das geheissen, wo die alle geheult haben rund um mich herum? Und ich einfach wie ein Holzbock dagesessen habe und dachte, warum sind die alle ergriffen? Und ich? Du bist –
 (unv.)
-I: Das habe ich jetzt auch nicht gekannt. Im Theaterspektakel? (3:11:18)
+(3:11:12)I: Das habe ich jetzt auch nicht gekannt. Im Theaterspektakel? 
 
 
 
@@ -3465,7 +3321,7 @@ I: Das habe ich jetzt auch nicht gekannt. Im Theaterspektakel? (3:11:18)
 
 
 
-P: [03:11:17] Nein. In der Gessnerallee. Sie sind ständig zu den Türen hereingekommen und wieder gegangen.
+ [03:11:17] P: Nein. In der Gessnerallee. Sie sind ständig zu den Türen hereingekommen und wieder gegangen.
 
 
 
@@ -3515,7 +3371,7 @@ I: Da haben (unv.) abgebrochen.
 
 
 
-P: Genau. (lacht) Das ist auch nicht mein Freund. (lacht)I: J[03:11:33] a, also das würde mich schon noch auch interessieren, eigentlich machst du einen recht grossen Spagat. Du bist Ballettexpertin, also Stilexpertin und man merkt dir das Herzblut für den klassischen Tanz sehr an. Da muss man dich nur anschauen. Und auf der anderen Seite bist du beim Ausdruckstanz gelandet. Also auch, wenn ich es böse sage, bei der freien Szene, wo Dilettantismus pur ist, finde ich manchmal. Wie handhabst du diesen Spagat? (3:12:12)
+P: Genau. Das ist auch nicht mein Freund. [03:11:33] I: Ja, also das würde mich schon noch auch interessieren, eigentlich machst du einen recht grossen Spagat. Du bist Ballettexpertin, also Stilexpertin und man merkt dir das Herzblut für den klassischen Tanz sehr an. Da muss man dich nur anschauen. Und auf der anderen Seite bist du beim Ausdruckstanz gelandet. Also auch, wenn ich es böse sage, bei der freien Szene, wo Dilettantismus pur ist, finde ich manchmal. Wie handhabst du diesen Spagat? (3:12:12)
 
 
 
@@ -3525,7 +3381,7 @@ P: Genau. (lacht) Das ist auch nicht mein Freund. (lacht)I: J[03:11:33] a, also
 
 
 
-P: Also, es ist wahrscheinlich eben schon, was wir schon gesagt haben, die Dringlichkeit. Wenn ich jetzt irgendwie Chladekanschaue, dann muss ich einfach sagen, da sehe ich keinen Unterschied zum klassischen Tanz in der Qualität. Also das ist auch, das sind solche Sachen, die einfach spannend sind. Und wie gesagt, bei einem Forsythe flippe ich aus.[03:12:33] Das finde ich so grossartig. Es ist eben vielleicht mehr das Formale. Wenn das Formale ganz fehlt. Und dann gibt es eben die Sachen, wo die meisten sehr begeistert sind, wo ich einfach dasitze und denke, ja ist gut.[03:12:53]  Sie haben eine Stunde angesagt und es wird eine Stunde gehen und dann gehe ich Heim. [03:12:59] Und das ist etwas, dass du sehr liebst oder interessant, etwas, das kommt praktisch in jeder Prüfung (unv.) korrigieren. Und das ist der Jérôme Bel "The show must go on" und ich muss einfach sagen, ich habe sehr viel darüber gelesen, wie grossartig, wie spannend, einfach eben – (3:13:20)
+P: Also, es ist wahrscheinlich eben schon, was wir schon gesagt haben, die Dringlichkeit. Wenn ich jetzt irgendwie Chladek anschaue, dann muss ich einfach sagen, da sehe ich keinen Unterschied zum klassischen Tanz in der Qualität. Also das ist auch, das sind solche Sachen, die einfach spannend sind. Und wie gesagt, bei einem Forsythe flippe ich aus.[03:12:33] Das finde ich so grossartig. Es ist eben vielleicht mehr das Formale. Wenn das Formale ganz fehlt. Und dann gibt es eben die Sachen, wo die meisten sehr begeistert sind, wo ich einfach dasitze und denke, ja ist gut.[03:12:53]  Sie haben eine Stunde angesagt und es wird eine Stunde gehen und dann gehe ich Heim. [03:12:59] Und das ist etwas, dass du sehr liebst oder interessant, etwas, das kommt praktisch in jeder Prüfung (unv.) korrigieren. Und das ist der Jérôme Bel "The show must go on" und ich muss einfach sagen, ich habe sehr viel darüber gelesen, wie grossartig, wie spannend, einfach eben – (3:13:20)
 
 
 
@@ -3565,7 +3421,7 @@ I: Aber ist das nicht vielleicht, weil die ganze Popkultur an dir vorbeigegangen
 
 
 
-P: Ja, vielleicht schon. (lacht)
+P: Ja, vielleicht schon. 
 
 
 
@@ -3575,7 +3431,7 @@ P: Ja, vielleicht schon. (lacht)
 
 
 
-I: Weil du ständig in der Oper gesessen bist. (lacht)
+I: Weil du ständig in der Oper gesessen bist. 
 
 
 
@@ -3595,7 +3451,7 @@ P: Das kann schon sein, ich habe auch kein Elvis-Fan, ich habe nie Elvis gehört
 
 
 
-I: [03:14:51] Nie Rock n´ roll?
+[03:14:51] I: Nie Rock n´ roll?
 
 
 
@@ -3665,9 +3521,7 @@ I: Und du hast dir auch keine Platten gekauft von David Bowie? (3:15:16)
 
 
 
-P: Nein, habe ich gar wirklich nicht, gar nicht. (schüttelt nachdrücklich den Kopf)
-
-
+P: Nein, habe ich gar wirklich nicht, gar nicht. 
 
 
 
@@ -3685,7 +3539,7 @@ I: Das heisst die ganze Popkultur ist eigentlich spurlos an dir vorbeigegangen?
 
 
 
-P: An der höheren Tochter spurlos vorbeigegangen. (lachen beide) Wir sind ja da im Schulhaus von den höheren Töchtern. Ja. Nein, das habe ich nie gemacht.
+P: An der höheren Tochter spurlos vorbeigegangen. Wir sind ja da im Schulhaus von den höheren Töchtern. Ja. Nein, das habe ich nie gemacht.
 
 
 
@@ -3706,14 +3560,6 @@ K/R: Aber, das war aus Protest ein bisschen, gegen die eigene –
 
 
 P: Nein, das hat mich nicht interessiert und ich hatte genug zu tun. [03:15:40] Ich musste ja zwei, drei Mal in der Woche ins Opernhaus, die Opern kennenlernen und die Ballette, die der Beriozoff inszeniert hat. Da konnte ich doch nicht am vierten Abend auch noch ausgehen und dann noch in ein Popkonzert. [03:15:53] Beim Opernhaus haben meine Eltern nie ein Problem gemacht, mein Vater ist mich abholen gekommen nachher, damit ich nicht das letzte Tram nehmen muss. [03:16:02] Aber ich weiss nicht, es ist mir wirklich nicht in den Sinn gekommen und wie ich auch gesagt habe, ganz am Anfang, wir sind eine Klasse gewesen, die Schiller rezitieren konnte, auswendig. [03:16:14] Wir waren eine Klasse, wo SEHR Viele ein Instrument gespielt haben, und zwar auf höherem Niveau. Wir haben dann Wettbewerbe gemacht, wer jetzt an der Schulvorstellung wirklich der Star ist. (3:16:25)
-
-
-
-
-
-
-
-
 
 Und wir sind ständig im Opernhaus und in der Tonhalle gewesen, aber es ist niemand von uns ins Popkonzert und ich damit auch nicht, nein.
 
@@ -3755,17 +3601,9 @@ I: Kein Pop-Verbot?
 
 
 
-P: [03:17:16] Nein. Kein Verbot. Nein, also ich habe meinen Kindern verboten damals, weil ich einfach Angst gehabt habe, da zu Züri West zu gehen, als meine Tochter dreizehn war und ich habe gesagt, der Film läuft auch im Corso. Geht ins Corso. Und sonst stehe ich mit dem Auto vorm Kino und hole dich ab. Ich will nicht, dass du dort alleine herumläufst, so ein kleines, blondes Mädchen. [03:17:39] Und einmal habe ich gesagt, du kannst nicht zum Hockey Match nach Kloten gehst,weil man hat einfach gewusst, da gibt es so Randalierer, oder. Und zum Unglück oder vielleicht auch zum Glück, ist dann wirklich ein Schulkollege von ihr abgeschlagen worden, wo sie das erste Mal gegangen sind, auf dem Heimweg und seither wollte sie auch nicht mehr gehen. (3:18:04)
+[03:17:16]P:  Nein. Kein Verbot. Nein, also ich habe meinen Kindern verboten damals, weil ich einfach Angst gehabt habe, da zu Züri West zu gehen, als meine Tochter dreizehn war und ich habe gesagt, der Film läuft auch im Corso. Geht ins Corso. Und sonst stehe ich mit dem Auto vorm Kino und hole dich ab. Ich will nicht, dass du dort alleine herumläufst, so ein kleines, blondes Mädchen. [03:17:39] Und einmal habe ich gesagt, du kannst nicht zum Hockey Match nach Kloten gehst,weil man hat einfach gewusst, da gibt es so Randalierer, oder. Und zum Unglück oder vielleicht auch zum Glück, ist dann wirklich ein Schulkollege von ihr abgeschlagen worden, wo sie das erste Mal gegangen sind, auf dem Heimweg und seither wollte sie auch nicht mehr gehen. (3:18:04)
 
-
-
-
-
-
-
-
-
-Also, nein, ich bin auch durch meine Kinder nicht gezwungen worden, dass ich mich da mit dem eng befassen muss. (lacht) Und es ist wirklich etwas, was ich in dem Sinn nicht kenne. Natürlich, eben von der Tanzmusik und so kenne ich das schon. [03:18:24] Und ich habe auch so den "Moonwalk", den habe ich erst sehr spät geschaut und aus Interesse und nicht, weil das zur selben Zeit gewesen ist und weil ich das spannend fand dann. Wir sind da in einer altmodischen Blase drinnen gewesen, eigentlich. Und ich glaube, ich habe auch Sachen gesehen vom Jérôme Bel, die ich spannend fand. Ich wüsste jetzt aber keinen Titel.
+Also, nein, ich bin auch durch meine Kinder nicht gezwungen worden, dass ich mich da mit dem eng befassen muss. Und es ist wirklich etwas, was ich in dem Sinn nicht kenne. Natürlich, eben von der Tanzmusik und so kenne ich das schon. [03:18:24] Und ich habe auch so den "Moonwalk", den habe ich erst sehr spät geschaut und aus Interesse und nicht, weil das zur selben Zeit gewesen ist und weil ich das spannend fand dann. Wir sind da in einer altmodischen Blase drinnen gewesen, eigentlich. Und ich glaube, ich habe auch Sachen gesehen vom Jérôme Bel, die ich spannend fand. Ich wüsste jetzt aber keinen Titel.
 
 
 
@@ -3785,7 +3623,7 @@ I: Wahrscheinlich die "Véronique Doisneau". (3:18:57)
 
 
 
-P: Das könnte gut sein, dass das die Sachen sind, die dann wieder anders gewesen sind. Und was ich nicht kann, das ist mit dem Platel, das muss ich ehrlich sagen, was er auch immer gemacht hat. [03:19:07] Ich bin zwar immer gegangen, aber es ist mir die Diskrepanz zwischen der – meistens ist es ja Händel oder Mozart, so eine Musik gewesen –  und dem, was ich dann für mich einfach mittelalterliches Hanswurst-Theater genannt habe (lacht), weil ich sogar einmal geschrieben habe, das weiss ich nicht einmal. [03:19:28] Das war mir einfach zu gross. Als dass ich mich da hätte hineinziehen lassen. [03:19:36] Ich meine, das ist mir klar, er hat die Diskrepanz gewollt, zwischen quasi überirdisch schöner Musik, die da irgendwie weiter weg schwebt und den Leuten, die sich eigentlich mit sich selbst plagen. Mit sich selbst nicht zurechtkommen. Die ihre Ticks haben. Das habe ich alles sehen können. Aber das hat mich nicht gepackt.
+P: Das könnte gut sein, dass das die Sachen sind, die dann wieder anders gewesen sind. Und was ich nicht kann, das ist mit dem Platel, das muss ich ehrlich sagen, was er auch immer gemacht hat. [03:19:07] Ich bin zwar immer gegangen, aber es ist mir die Diskrepanz zwischen der – meistens ist es ja Händel oder Mozart, so eine Musik gewesen –  und dem, was ich dann für mich einfach mittelalterliches Hanswurst-Theater genannt habe, weil ich sogar einmal geschrieben habe, das weiss ich nicht einmal. [03:19:28] Das war mir einfach zu gross. Als dass ich mich da hätte hineinziehen lassen. [03:19:36] Ich meine, das ist mir klar, er hat die Diskrepanz gewollt, zwischen quasi überirdisch schöner Musik, die da irgendwie weiter weg schwebt und den Leuten, die sich eigentlich mit sich selbst plagen. Mit sich selbst nicht zurechtkommen. Die ihre Ticks haben. Das habe ich alles sehen können. Aber das hat mich nicht gepackt.
 
 
 
@@ -3816,7 +3654,7 @@ I: Und was ist für dich jetzt der Unterschied in der Herangehensweise, Pina und
 
 
 
-P: Ich weiss nicht. Ich glaube – Ich kenne den Arbeitsprozess vom Platel nicht so gut, wie er da herangeht. Von Pina Bauschweiss man dann, wie sie mit den Leuten gearbeitet hat. Das ist auch sehr gut dokumentiert. Und ich glaube, das Geheimnis, dass Pina Bausch mir im Ganzen gefällt, mindestens die Stücke, die ich kenne, ist, dass sie eine grossartige Dramaturgin ist. [03:20:45] Das ist der Aufbau, der Ablauf von den Stücken. Und ich war nie an einer Premiere von der Pina Bausch, sondern erst dann später, oder. [03:20:55] Und dann ist es ausgefeilt, es ist glaube ich immer am Anfang nicht so ausgefeilt gewesen, aber am Schluss ist es wirklich einfach genial aufgebaut. Der Ablauf, der Kontrast von diesen verschiedenen Szenen und dann auch die Art mit diesen Schlagern. Es gibt ja Sachen, also das mit den "Kreisformationen", das könnte ich immer schauen. (3:21:16)
+P: Ich weiss nicht. Ich glaube – Ich kenne den Arbeitsprozess vom Platel nicht so gut, wie er da herangeht. Von Pina Bausch weiss man dann, wie sie mit den Leuten gearbeitet hat. Das ist auch sehr gut dokumentiert. Und ich glaube, das Geheimnis, dass Pina Bausch mir im Ganzen gefällt, mindestens die Stücke, die ich kenne, ist, dass sie eine grossartige Dramaturgin ist. [03:20:45] Das ist der Aufbau, der Ablauf von den Stücken. Und ich war nie an einer Premiere von der Pina Bausch, sondern erst dann später, oder. [03:20:55] Und dann ist es ausgefeilt, es ist glaube ich immer am Anfang nicht so ausgefeilt gewesen, aber am Schluss ist es wirklich einfach genial aufgebaut. Der Ablauf, der Kontrast von diesen verschiedenen Szenen und dann auch die Art mit diesen Schlagern. Es gibt ja Sachen, also das mit den "Kreisformationen", das könnte ich immer schauen. (3:21:16)
 
 
 
@@ -3886,7 +3724,7 @@ I: Da kannst du wie nicht connecten...
 
 
 
-P: [03:22:05] Nein, das ist. Aber, ja. Das ist klar, also ich meine, man ist beschränkt, jeder ist beschränkt auf ein bestimmtes Ding – eine bestimmte Art und ich habe ja dann das Glück gehabt, dass du begeistert warst dafür und darum sind wir ein gutes Team gewesen. Dann bist du in Peeping Tom und ich habe in etwas Anderes gehen können.
+[03:22:05]P:  Nein, das ist. Aber, ja. Das ist klar, also ich meine, man ist beschränkt, jeder ist beschränkt auf ein bestimmtes Ding – eine bestimmte Art und ich habe ja dann das Glück gehabt, dass du begeistert warst dafür und darum sind wir ein gutes Team gewesen. Dann bist du in Peeping Tom und ich habe in etwas Anderes gehen können.
 
 
 
@@ -3926,7 +3764,7 @@ Weil ich das Gefühl hatte, du hättest dazu mehr zu sagen.
 
 
 
-I: [03:22:40] Und andersherum freue ich mich jedes Mal bei den Ballettpremieren über die Pausen. Dann weiss man nämlich schon, ah jetzt Goeckes "Nijinsky", aha, jetzt kommen die beiden Ursulas. Jetzt müssen wir mal schauen, was sie sagen und dann ist es schon lustig, wenn ich schon weiss, ah, da wird jetzt die Ursula sicher sagen: Die Musik an sich, Chopin, schon mal super. Goecke auch. Aber zusammen geht es nicht.
+ [03:22:40]I: Und andersherum freue ich mich jedes Mal bei den Ballettpremieren über die Pausen. Dann weiss man nämlich schon, ah jetzt Goeckes "Nijinsky", aha, jetzt kommen die beiden Ursulas. Jetzt müssen wir mal schauen, was sie sagen und dann ist es schon lustig, wenn ich schon weiss, ah, da wird jetzt die Ursula sicher sagen: Die Musik an sich, Chopin, schon mal super. Goecke auch. Aber zusammen geht es nicht.
 
 
 
@@ -3956,7 +3794,7 @@ Und das andere, das wäre dann so summarisch gewesen, muss ich sagen. Ich anerke
 
 
 
-Also, ich bin da so dazwischen. Aber, das wäre so, dass ich sicher mit dem persönlichen Eindruck angefangen hätte und dann wäre die Kritik schon mal gut gewesen, weil ich ja dafür bin, oder? (lacht) Weil ich etwas Gutes gesehen, aber dann wären die Bedenken schon gekommen und dann vielleicht – ja. Es ist einfach ein sehr persönliches Stück. Das sind so die Sachen, wo man einfach auch seine Grenzen sehen muss. Ich denke, das ist ganz klar. 
+Also, ich bin da so dazwischen. Aber, das wäre so, dass ich sicher mit dem persönlichen Eindruck angefangen hätte und dann wäre die Kritik schon mal gut gewesen, weil ich ja dafür bin, oder? Weil ich etwas Gutes gesehen, aber dann wären die Bedenken schon gekommen und dann vielleicht – ja. Es ist einfach ein sehr persönliches Stück. Das sind so die Sachen, wo man einfach auch seine Grenzen sehen muss. Ich denke, das ist ganz klar. 
 
 
 
@@ -3996,7 +3834,7 @@ I: Den Erfahrungshorizont, den man hat. (3:25:37)
 
 
 
-P: Und dann kommt schon, also ich muss sagen, das ist vielleicht auch eine Alterserscheinung, dass man irgendwie sagt, das ist nicht mehr ganz meine Welt, vielleicht lasse ich das einfach an mir vorbeigehen. Das macht man als junge ja auch, dass man nicht – eben, ich meine, ich habe ja so viel verpasst. (lacht) Ohne, dass ich es richtig gemerkt habe. Aber vielleicht macht man es bewusster, wenn man alt wird. [03:26:06] Dass man sagt, ja ich muss ja nicht mehr alles gesehen haben. Und ich glaube, das ist auch der Grund warum – wo es dann einmal klar gewesen ist, dass das mit dem Schreiben nicht mehr geht, habe ich eigentlich auch nicht gedacht, ich muss unbedingt weiterschreiben. (3:26:20)
+P: Und dann kommt schon, also ich muss sagen, das ist vielleicht auch eine Alterserscheinung, dass man irgendwie sagt, das ist nicht mehr ganz meine Welt, vielleicht lasse ich das einfach an mir vorbeigehen. Das macht man als junge ja auch, dass man nicht – eben, ich meine, ich habe ja so viel verpasst. Ohne, dass ich es richtig gemerkt habe. Aber vielleicht macht man es bewusster, wenn man alt wird. [03:26:06] Dass man sagt, ja ich muss ja nicht mehr alles gesehen haben. Und ich glaube, das ist auch der Grund warum – wo es dann einmal klar gewesen ist, dass das mit dem Schreiben nicht mehr geht, habe ich eigentlich auch nicht gedacht, ich muss unbedingt weiterschreiben. (3:26:20)
 
 
 
@@ -4046,7 +3884,7 @@ K/R: Liegt das an der Förderkultur?P: Ja, ja, natürlich. Das Tanzhaus wird ja 
 
 
 
-Absprachen über den weiteren Verlauf
+
 
 
 
@@ -4066,7 +3904,7 @@ I: [03:29:17] Jedenfalls Ursula, dass die Populärkultur an der höheren Tochte
 
 
 
-P: [03:29:54] Ich sage ja, Forsythe. (lacht)
+[03:29:54] P: Ich sage ja, Forsythe. 
 
 
 
@@ -4076,27 +3914,7 @@ P: [03:29:54] Ich sage ja, Forsythe. (lacht)
 
 
 
-I: Das zitiere ich immer gern, wenn ich bei Forsythe thematisiere, dann sage ich mit einem bösen Lächeln, Frau Pellaton hat garantiert nie gekifft, aber Forsythe ist Haschisch für sie. 
-
-
-
-
-
-
-
-
-
-P: (lacht)
-
-
-
-
-
-
-
-
-
-I: Und das drückt das, glaube ich, einfach im Kern aus, was dir der Tanz geben kann und auch eben guter Tanz, gute, differenzierte Choreografie. (3:30:23)
+I: Das zitiere ich immer gern, wenn ich bei Forsythe thematisiere, dann sage ich mit einem bösen Lächeln, Frau Pellaton hat garantiert nie gekifft, aber Forsythe ist Haschisch für sie.sUnd das drückt das, glaube ich, einfach im Kern aus, was dir der Tanz geben kann und auch eben guter Tanz, gute, differenzierte Choreografie. (3:30:23)
 
 
 
@@ -4126,7 +3944,7 @@ I: Eine gewagte Choreografie.
 
 
 
-P: [03:30:26] Ja und es ist eine Art von Komplexität, und ich habe noch nie beim Forsythe das Gefühl gehabt, es sei Leerlauf. Und eben, es ist das Formale. Es ist eigentlich fast vom Formalen her wie überschwänglich. Und das ist dann wahrscheinlich das Ding. Ja natürlich, ich habe nie gekifft. Ich habe mich auch nie betrunken.[03:30:57]  Aber es ist ein rauschhaftes Erlebnis, das ich im Theater nicht so oft habe. 
+[03:30:26]P:  Ja und es ist eine Art von Komplexität, und ich habe noch nie beim Forsythe das Gefühl gehabt, es sei Leerlauf. Und eben, es ist das Formale. Es ist eigentlich fast vom Formalen her wie überschwänglich. Und das ist dann wahrscheinlich das Ding. Ja natürlich, ich habe nie gekifft. Ich habe mich auch nie betrunken.[03:30:57]  Aber es ist ein rauschhaftes Erlebnis, das ich im Theater nicht so oft habe. 
 
 
 
@@ -4146,7 +3964,7 @@ K/R: Darf ich das noch präzisieren? Du hast eigentlich alles gesagt, was sie (u
 
 
 
-I: Kannst du das nochmal sagen?K: Über den Forsythe, was dir das bedeutet (unv.) (3:31:20)
+I: Kannst du das nochmal sagen?(3:31:20)K: Über den Forsythe, was dir das bedeutet (unv.) 
 
 
 
@@ -4156,17 +3974,8 @@ I: Kannst du das nochmal sagen?K: Über den Forsythe, was dir das bedeutet (unv.
 
 
 
-(Weitere Absprachen über den Verlauf)
 
-
-
-
-
-
-
-
-
-P:[03:31:26]  Du hast erzählt von "Artefact", das ist eines von den quasi grossen Werken von Forsythe, aus seiner früheren Zeit. Und er bezieht sich ja dort auch sehr stark auf den klassischen Tanz, aber er tut ihn eben transformieren. Auf eine sehr weitgehende Art und Weise. Und es gibt sehr unterschiedliche Musik.[03:31:47]  Du bist offenbar ein bisschen erstaunt gewesen, dass mir das so gefallen hat, eben dass ich gesagt habe, das ist wie Hasch für mich. Und dann hast du gesagt, ich habe wahrscheinlich nicht gekifft, das stimmt, ich habe nie gekifft. Aber, das hat man in dieser Zeit eigentlich auch noch nicht. Und ich habe einen süchtigen Mann, ich glaube, das reicht. Der raucht seit 65 Jahren. [03:32:10] Aber es ist wirklich eine Art wirklich von Rausch, wenn ich das sehe, das hat die Anne Teresa de Keersmaeker manchmal auch, wenn das Formale dermassen verdichtet wird, und es so quasi wie Überschwänglich wird, fast wie übertrieben wird. Dass das da irgendwie noch etwas Zusätzliches generiert bei mir innen. (3:32:39)
+[03:31:26]P:  Du hast erzählt von "Artefact", das ist eines von den quasi grossen Werken von Forsythe, aus seiner früheren Zeit. Und er bezieht sich ja dort auch sehr stark auf den klassischen Tanz, aber er tut ihn eben transformieren. Auf eine sehr weitgehende Art und Weise. Und es gibt sehr unterschiedliche Musik.[03:31:47]  Du bist offenbar ein bisschen erstaunt gewesen, dass mir das so gefallen hat, eben dass ich gesagt habe, das ist wie Hasch für mich. Und dann hast du gesagt, ich habe wahrscheinlich nicht gekifft, das stimmt, ich habe nie gekifft. Aber, das hat man in dieser Zeit eigentlich auch noch nicht. Und ich habe einen süchtigen Mann, ich glaube, das reicht. Der raucht seit 65 Jahren. [03:32:10] Aber es ist wirklich eine Art wirklich von Rausch, wenn ich das sehe, das hat die Anne Teresa de Keersmaeker manchmal auch, wenn das Formale dermassen verdichtet wird, und es so quasi wie Überschwänglich wird, fast wie übertrieben wird. Dass das da irgendwie noch etwas Zusätzliches generiert bei mir innen. (3:32:39)
 
 
 
@@ -4196,7 +4005,7 @@ K/R: Sehr schön gesagt.
 
 
 
-W: Ja, es geht nochmal zurück. Du hast vorhin von deinem Selbstverständnis und deinem Interesse als Journalisten geredet. Das würde mich noch interessieren, wie die du die Presselandschaft beschreiben würdest. In den achtziger Jahren, da hast du ein paar Publikationen erwähnt. "Tanz und Gymnastik", "Tanz der Dinge". Kannst du vielleicht auch ein paar Namen nennen oder wichtige Publikation oder wie würdest du das beschreiben? (3:24:23)
+W: Ja, es geht nochmal zurück. Du hast vorhin von deinem Selbstverständnis und deinem Interesse als Journalisten geredet. Das würde mich noch interessieren, wie die du die Presselandschaft beschreiben würdest. In den achtziger Jahren, da hast du ein paar Publikationen erwähnt. "Tanz und Gymnastik", "Tanz der Dinge". (3:24:20) Kannst du vielleicht auch ein paar Namen nennen oder wichtige Publikation oder wie würdest du das beschreiben?
 
 
 
@@ -4206,34 +4015,15 @@ W: Ja, es geht nochmal zurück. Du hast vorhin von deinem Selbstverständnis und
 
 
 
-(unv.)
 
 
 
 
 
-
-
-
-
-P: [03:34:28] Also, du fragst nach Publikationen. Was einfach schön gewesen, ist einfach, dass seit diesen späten siebziger und achtziger Jahren, auch viele verschiedene Leute über Tanz geschrieben haben. Eben Marlies Strech hat schon vorher geschrieben, der Richard auch, aber zu denen ist in allen Zeitungen ein Haufen Leute dazu gekommen. Und durch das gab es auch eine Vielfalt gegeben, zum einen, dass auch in den kleinen Zeitungen darüber geschrieben worden ist. Und man hatte es nicht nur in den Zeitungen, man konnte es auch publizieren. Ich wüsste eigentlich nicht eine GROSSE Publikation, aber ich glaube, dass man also eben in diesen Zeitschriften, die man da gehabt hat, dass man da sehr viel finden würde vom Geist einfach dieser Zeit. [03:35:19] Ich glaube nicht, dass es da schon umfassende Publikationen gegeben hat. Es ist natürlich aufgekommen, dass wo dann die Pro Helvetia Hefte, die das alles zusammengefasst haben. Da gibt es ja verschiedene Versionen und da hat man mal einfach so geschichtlich zusammengefasst und hat geschaut, was heute ist. Es gab mal ein Tanzheft von Mimos. (3:35:50)
-
-
-
-
-
-
-
+[03:34:28] P: Also, du fragst nach Publikationen. Was einfach schön gewesen, ist einfach, dass seit diesen späten siebziger und achtziger Jahren, auch viele verschiedene Leute über Tanz geschrieben haben. Eben Marlies Strech hat schon vorher geschrieben, der Richard auch, aber zu denen ist in allen Zeitungen ein Haufen Leute dazu gekommen. Und durch das gab es auch eine Vielfalt gegeben, zum einen, dass auch in den kleinen Zeitungen darüber geschrieben worden ist. Und man hatte es nicht nur in den Zeitungen, man konnte es auch publizieren. Ich wüsste eigentlich nicht eine GROSSE Publikation, aber ich glaube, dass man also eben in diesen Zeitschriften, die man da gehabt hat, dass man da sehr viel finden würde vom Geist einfach dieser Zeit. [03:35:19] Ich glaube nicht, dass es da schon umfassende Publikationen gegeben hat. Es ist natürlich aufgekommen, dass wo dann die Pro Helvetia Hefte, die das alles zusammengefasst haben. Da gibt es ja verschiedene Versionen und da hat man mal einfach so geschichtlich zusammengefasst und hat geschaut, was heute ist. Es gab mal ein Tanzheft von Mimos. (3:35:50)
 
 
 Da hat es einfach von allem etwas drinnen, vom Volkstanz über Theaterballett über freie Szene, da gibt es relativ viel. Ich habe da meinen Lieblingsartikel geschrieben, ich durfte frei wählen. [03:36:03] Über Dada und Laban in Zürich. Aber das waren eigentlich nur punktuelle Sachen. Eben am meisten würde man, glaube ich, in diesen einzelnen Publikationen sehen und manchmal hat man auch eine Zusammenfassung geschrieben von irgendwelchen Erscheinungen. Wie die Ursula Fraevel, die über Ausdruckstanz und die Affinität zum Faschismus geschrieben hat. (3:36:40) Sie hat ja ihre Lizenziats Arbeit darüber geschrieben und ich habe ihr gesagt, sie soll das unbedingt publizieren, damals war das noch überhaupt kein Thema. Und das wäre grossartig gewesen. ich habe da eine Zusammenfassung über den Ausdruckstanz geschrieben und das sind alles so Sachen, die gekommen sind. Aber ich wüsste nicht, dass das quasi schon in einem ganzen Buch zusammengefasst worden ist. (3:37:08)
-
-
-
-
-
-
-
 
 
 Es sind mehr die einzelnen. Vielleicht hat mal das Theater St. Gallen ein Jubiläum gehabt oder Luzern und dann haben sie gerade auch gleich die Geschichte vom Tanz in diesen Theatern auch aufgearbeitet. Oder hier im Opernhaus, wo sie 100 Jahre Stadttheater gefeiert haben, da waren es auch zuerst Artikel in der NZZ gewesen und dann ist ein Buch daraus geworden.[03:37:34]  Erweitert. Es sind mehr so einzelne Sachen gewesen, die da entstanden sind. [03:37:41] Ich glaube, man müsste es sich tatsächlich zusammen suchen und das ist schwieriger, dass man sich das zusammen suchen müsste. [03:37:50] Und der Jean-Pierre Pastori ist eigentlich der gewesen, der am meisten publiziert hat, überhaupt in der Schweiz. Aber er hat eigentlich mehr eher in der französischsprachigen Schweiz, also er hat einzelne Sachen, schon auch einzelne Aspekte von der Schweiz bearbeitet, aber er hat sehr viel auch einfach über französische Tänzerpersönlichkeiten oder der tanzende Mann – ich weiss nicht genau, ob der Titel so gewesen ist, aber solche Sachen hat er geschrieben. (3:38:21)
@@ -4316,27 +4106,11 @@ Und es wird wahrscheinlich auch nicht besser werden, weil die Printmedien ja nic
 
 
 
-(Absprachen)
-
-
-
-
-
-
-
-
-
 K/R: Wenn du uns noch beschreiben würdest, wo wir da sind und was du für einen Bezug hast zu diesen Räumen. 
 
 
 
-
-
-
-
-
-
-P: [03:43:59] Also wir sind im Schulhaus von der Höhere Töchterschule (lacht) in Zürich. Die Hohe Promenade. Und das ist sehr lange eigentlich das einzige Gymnasium gewesen in dem Sinn und auch das Seminar ist da gewesen. Später die Oberrealschule, die ist ja auch noch hier gewesen. Das ist erst nachher abgespalten und alle anderen Abteilungen – also erst hat es dann noch die Handelsschule gegeben. Aber sonst ist eigentlich alles hier konzentriert gewesen, in diesem grossen Schulhaus, das sehr grosszügig gebaut ist. Und da, wo jetzt die Bibliothek ist, war die Turnhalle. Es war ein Teil der Turnhalle quasi in diesem Hof. [03:44:39] Und die Bibliothek ist da erst entstanden, wo da hinten das Schulhaus Stadelhofen für eine andere Abteilung gebaut haben. Und dann haben sie da hinten auch eine Turnhalle gebaut, oder. Dann konnte man diese Turnhalle anders nutzen und beim letzten Umbau haben sie dann eben die Bibliothek hier eingerichtet. Und ich glaube, es ist immer noch das traditionellste Gymnasium, das es so in Zürich und Umgebung gibt. Und ich glaube auch, es ist eine Auszeichnung, wenn man hier in die Schule durfte. (3:45:18)
+[03:43:59]P:  Also wir sind im Schulhaus von der Höhere Töchterschule in Zürich. Die Hohe Promenade. Und das ist sehr lange eigentlich das einzige Gymnasium gewesen in dem Sinn und auch das Seminar ist da gewesen. Später die Oberrealschule, die ist ja auch noch hier gewesen. Das ist erst nachher abgespalten und alle anderen Abteilungen – also erst hat es dann noch die Handelsschule gegeben. Aber sonst ist eigentlich alles hier konzentriert gewesen, in diesem grossen Schulhaus, das sehr grosszügig gebaut ist. Und da, wo jetzt die Bibliothek ist, war die Turnhalle. Es war ein Teil der Turnhalle quasi in diesem Hof. [03:44:39] Und die Bibliothek ist da erst entstanden, wo da hinten das Schulhaus Stadelhofen für eine andere Abteilung gebaut haben. Und dann haben sie da hinten auch eine Turnhalle gebaut, oder. Dann konnte man diese Turnhalle anders nutzen und beim letzten Umbau haben sie dann eben die Bibliothek hier eingerichtet. Und ich glaube, es ist immer noch das traditionellste Gymnasium, das es so in Zürich und Umgebung gibt. Und ich glaube auch, es ist eine Auszeichnung, wenn man hier in die Schule durfte. (3:45:18)
 
 
 
@@ -4356,7 +4130,7 @@ Das ist sicher. Und es ist selbstverständlich noch eine Mädchenschule gewesen,
 
 
 
-Oder eben im Mittelschul-Filmclub ist man auch zusammen gegangen. Das ist auch geschlechtsübergreifend gewesen. (lacht) Das ist ja kein Problem gewesen. Man hat wegen dem nicht zu wenige Jungs kennengelernt, wenn man es wollte. Aber es ist für mich eben auch, das habe ich schon am Anfang gesagt, weil meine Mutter hier in die Schule ist und ich eben zum Teil die Lehrer schon daher gekannt habe. Ja, es ist eigentlich etwas Schönes. [03:46:40] Dass es eben auch örtlich so zwischen dem Opernhaus und dem Schauspielhaus (lacht), zwischen den wichtigen Theatern innen ist. Und dann noch das Kunsthaus auf der anderen Seite. Es ist schon ein besonderer Platz, auch wenn ich vom... ich bin zwischen Triemli und Albisgüetli, ganz am Rand von der Stadt aufgewachsen. Ich habe eine dreiviertel Stunde gehabt bis ich hier gewesen bin, mit Bus und Tram umsteigen und allem zusammen. (3:47:07) Und trotzdem, das ist einfach die Welt gewesen, in der man gelebt hat und offenbar das zeitgenössische nicht mitbekommen hat. (lacht) Der Zweig hat ja "Die Welt von gestern" geschrieben und wir haben eigentlich in dieser Welt von gestern gelebt.[03:47:23]  Wir haben mit der Literatur gelebt, wir haben mit der Musik gelebt, mit dem Theater und so. Das hat uns vor allem interessiert, obschon die meisten, die nachher studiert haben, sind Ärztinnen geworden. Das häufigste bei uns. Okay?
+Oder eben im Mittelschul-Filmclub ist man auch zusammen gegangen. Das ist auch geschlechtsübergreifend gewesen. Das ist ja kein Problem gewesen. Man hat wegen dem nicht zu wenige Jungs kennengelernt, wenn man es wollte. Aber es ist für mich eben auch, das habe ich schon am Anfang gesagt, weil meine Mutter hier in die Schule ist und ich eben zum Teil die Lehrer schon daher gekannt habe. Ja, es ist eigentlich etwas Schönes. [03:46:40] Dass es eben auch örtlich so zwischen dem Opernhaus und dem Schauspielhaus, zwischen den wichtigen Theatern innen ist. Und dann noch das Kunsthaus auf der anderen Seite. Es ist schon ein besonderer Platz, auch wenn ich vom... ich bin zwischen Triemli und Albisgüetli, ganz am Rand von der Stadt aufgewachsen. Ich habe eine dreiviertel Stunde gehabt bis ich hier gewesen bin, mit Bus und Tram umsteigen und allem zusammen. (3:47:07) Und trotzdem, das ist einfach die Welt gewesen, in der man gelebt hat und offenbar das zeitgenössische nicht mitbekommen hat. Der Zweig hat ja "Die Welt von gestern" geschrieben und wir haben eigentlich in dieser Welt von gestern gelebt.[03:47:23]  Wir haben mit der Literatur gelebt, wir haben mit der Musik gelebt, mit dem Theater und so. Das hat uns vor allem interessiert, obschon die meisten, die nachher studiert haben, sind Ärztinnen geworden. Das häufigste bei uns. Okay?
 
 
 
@@ -4376,7 +4150,7 @@ I: Ursula, du hast mir aber mal, bei diesem Artikel, den ich geschrieben habe ü
 
 
 
-P: [03:48:00] Nein, das Rämibühl gab es da noch gar nicht. Also in dieser Zeit ist mein Mann in der Kantonsschule oben gewesen und er hat nachher mit dieser Klasse vom Rämibühl, das haben sie gerade gebaut zu dieser Zeit, ist er dort hinüber gezogen. Aber das Rämibühl hat es noch gar nicht gegeben. Aber wir haben da, selbstverständlich – Aber das haben auch die Kantonsschüler, also mein Mann hat ja im Schülerorchester die Soloflöte gespielt. Er hat alle Flötenkonzerte gespielt als Solo. [03:48:31] Darum, weil er ja mehr geübt hat als Latein gelernt hat, hat er darum noch ein Jahr länger Flöte gespielt im Schülerorchester. (lacht) Er musste repetieren. Sie haben also auch – nein, ich weiss nicht. Ich weiss nicht, warum ich nicht zu Rockkonzerten gegangen bin, vielleicht hat es das dann nicht gegeben. Ich weiss es nicht. Vielleicht findet man das heraus. Aber ich war nie bei einem Rockkonzert. Wie auch immer. [03:48:59] Es muss nicht sein. Also die Regina Christen die gleich alt ist wie ich, sie ist vor allem Elvis-Fan, aber sie ist dafür nicht in der Tonhalle gewesen. Naja also, man hat nicht alles können. Irgendwann hat man am Abend auch mal einen Aufsatz schreiben müssen oder eine Mathe-Aufgabe machen oder so. Wobei wir natürlich am Samstag-Morgen noch in die Schule sind. [03:49:35] Und meine Schwägerin, die nur etwa fünf Jahre älter ist, die durfte noch nicht mit Hosen in die Schule. Wir durften mit Hosen in die Schule. Vor allem wir sind da ja die Seegfrörni gewesen, die letzte Seegfrörni, da bin ich da in der Schule gewesen. Das ist sehr kalt gewesen. Ja, es hat sich natürlich viel geändert. Aber was ich am meisten gemacht habe in dieser Zeit, ist natürlich lesen. Ich habe mich eigentlich durch die Weltliteratur durchgefressen während dem Gymi. Ausser Gotthelf, das habe ich erst in der Germanistik gelesen.
+[03:48:00] P:  Nein, das Rämibühl gab es da noch gar nicht. Also in dieser Zeit ist mein Mann in der Kantonsschule oben gewesen und er hat nachher mit dieser Klasse vom Rämibühl, das haben sie gerade gebaut zu dieser Zeit, ist er dort hinüber gezogen. Aber das Rämibühl hat es noch gar nicht gegeben. Aber wir haben da, selbstverständlich – Aber das haben auch die Kantonsschüler, also mein Mann hat ja im Schülerorchester die Soloflöte gespielt. Er hat alle Flötenkonzerte gespielt als Solo. [03:48:31] Darum, weil er ja mehr geübt hat als Latein gelernt hat, hat er darum noch ein Jahr länger Flöte gespielt im Schülerorchester. Er musste repetieren. Sie haben also auch – nein, ich weiss nicht. Ich weiss nicht, warum ich nicht zu Rockkonzerten gegangen bin, vielleicht hat es das dann nicht gegeben. Ich weiss es nicht. Vielleicht findet man das heraus. Aber ich war nie bei einem Rockkonzert. Wie auch immer. [03:48:59] Es muss nicht sein. Also die Regina Christen die gleich alt ist wie ich, sie ist vor allem Elvis-Fan, aber sie ist dafür nicht in der Tonhalle gewesen. Naja also, man hat nicht alles können. Irgendwann hat man am Abend auch mal einen Aufsatz schreiben müssen oder eine Mathe-Aufgabe machen oder so. Wobei wir natürlich am Samstag-Morgen noch in die Schule sind. [03:49:35] Und meine Schwägerin, die nur etwa fünf Jahre älter ist, die durfte noch nicht mit Hosen in die Schule. Wir durften mit Hosen in die Schule. Vor allem wir sind da ja die Seegfrörni gewesen, die letzte Seegfrörni, da bin ich da in der Schule gewesen. Das ist sehr kalt gewesen. Ja, es hat sich natürlich viel geändert. Aber was ich am meisten gemacht habe in dieser Zeit, ist natürlich lesen. Ich habe mich eigentlich durch die Weltliteratur durchgefressen während dem Gymi. Ausser Gotthelf, das habe ich erst in der Germanistik gelesen.
 
 
 
