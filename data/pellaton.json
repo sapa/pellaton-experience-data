@@ -1179,7 +1179,10 @@
         {
             "video": 1,
             "start": 2966,
-            "text": "Wir haben am Morgen von 10.00 bis ungefähr 14.00 Uhr Unterricht gehabt."
+            "text": "Wir haben am Morgen von 10.00 bis ungefähr 14.00 Uhr Unterricht gehabt.",
+            "entities": [
+                "Unterricht"
+            ]
         },
         {
             "video": 1,
@@ -1257,6 +1260,7 @@
             "text": "In dieser Zeit oder. Ich habe aber dort auch die Mondlandung gesehen übrigens, weil die war ja in dieser Zeit als ich dort war. Wir durften in den Unterricht gehen, wir durften in die Proben schauen mit ihm zusammen so viel wir wollten.",
             "entities": [
                 "Mondlandung",
+                "Unterricht",
                 "Zeit",
                 "Zeit"
             ]
@@ -2410,8 +2414,8 @@
                 "Laban",
                 "Mary Wigman",
                 "Rudolf von Laban",
-                "Wigman",
-                "Wigman"
+                "Mary Wigman",
+                "Mary Wigman"
             ]
         },
         {
@@ -2781,7 +2785,7 @@
             "entities": [
                 "Ausdruckstanzes",
                 "Laban",
-                "Wigman",
+                "Mary Wigman",
                 "Zeit"
             ]
         },
@@ -2792,7 +2796,7 @@
             "entities": [
                 "Laban",
                 "Suzanne Perrottet",
-                "Wigman"
+                "Mary Wigman"
             ]
         },
         {
@@ -2821,7 +2825,7 @@
                 "Katja Wulff",
                 "Maja Lederer",
                 "Suzanne Perrottet",
-                "Wigman",
+                "Mary Wigman",
                 "Zürich"
             ]
         },
@@ -2896,7 +2900,8 @@
                 "IHN",
                 "Laban",
                 "Lisa Ullmann",
-                "SIE"
+                "SIE",
+                "Unterricht"
             ]
         },
         {
@@ -2999,7 +3004,7 @@
             "start": 7643,
             "text": "Das beste Beispiel ist natürlich der „Hexentanz“ der Wigman, wo es nicht kann sein für was er da immer gebraucht wird. Aber sonst ist es eigentlich mindestens im Moment, bin ich vor allem erstaunt, wo ich selber reingefallen bin.",
             "entities": [
-                "Wigman"
+                "Mary Wigman"
             ]
         },
         {
@@ -3689,6 +3694,7 @@
                 "Alain Platel",
                 "Keersmaeker",
                 "Keersmaeker",
+                "Komposition",
                 "Mhm",
                 "Platel"
             ]
@@ -5133,7 +5139,10 @@
         {
             "video": 2,
             "start": 640,
-            "text": "Und er hat immer gefunden, dass man, wenn man Kritiken schreibt, nicht vorher mit dem Künstler ein Interview macht. Sodass, wenn eine Zeitung ein Interview wollte mit einem Tänzer oder einem Choreografen oder einem Gast, dann hat er gefragt, ob ich es mache. Und so habe ich eigentlich angefangen, dass ich dann eben die kurzen Interviews für ihn gemacht habe."
+            "text": "Und er hat immer gefunden, dass man, wenn man Kritiken schreibt, nicht vorher mit dem Künstler ein Interview macht. Sodass, wenn eine Zeitung ein Interview wollte mit einem Tänzer oder einem Choreografen oder einem Gast, dann hat er gefragt, ob ich es mache. Und so habe ich eigentlich angefangen, dass ich dann eben die kurzen Interviews für ihn gemacht habe.",
+            "entities": [
+                "Choreografen"
+            ]
         },
         {
             "video": 2,
@@ -5178,6 +5187,7 @@
             "start": 764,
             "text": "P: Also, ich muss sagen, wo ich dann gewusst habe, dass ich das erste Mal vom Zürcher Ballett eine Aufführung rezensieren muss, da habe ich zwei Vorbereitungen gemacht. Das eine war – ich habe immer alle Kritiken gesammelt, ich bin immer ein grosser Sammler gewesen. Ich habe alle Kritiken hervorgenommen und habe mir den Aufbau [Anm. Transkription: angeschaut]. Also, wie viel von der Kritik ist Einführung, und was ist das Werk. Und was ist die Choreografie und wieviel ist über die Tänzer bei diesen Leuten.",
             "entities": [
+                "Choreografie",
                 "P",
                 "Zürcher"
             ]
@@ -5195,6 +5205,7 @@
                 "Agon",
                 "Balanchine",
                 "Balanchine-Büchern",
+                "Gastchoreografin",
                 "Pat Neary",
                 "Richard",
                 "Zürich"
@@ -5418,6 +5429,7 @@
             "entities": [
                 "Béjart",
                 "Béjart",
+                "Choreografie",
                 "Haydée",
                 "Neumeiergetanzt",
                 "Schauspielhaus"
@@ -5806,6 +5818,7 @@
             "start": 2556,
             "text": "Und das muss man dann halt beschreiben, wenn es um überlieferte Werke geht, aber die meisten Werke, die ja aufgeführt werden, das sind Uraufführungen. Oder das sind Schweizerische Erstaufführungen von einer Choreografie, die ein paar Jahre vorher von einem anderen Theater einstudiert worden ist. Dann kann man sich erkundigen, wie das da ausgesehen hat. Oder vielleicht merkt man es gar, was verändert worden ist. Aber im Wesentlichen sind es nicht Werke, die dem Publikum und dem Leser präsent sind.",
             "entities": [
+                "Choreografie",
                 "Schweizerische"
             ]
         },
@@ -6444,7 +6457,10 @@
         {
             "video": 2,
             "start": 4830,
-            "text": "Es gibt einfach Tatsachen, die man lernt, die vielleicht für jeden wichtig sind, aber für die anderen nicht so wichtig sind, weil sie die Phase nicht so durchgemacht haben. Und derartige Sachen hat es natürlich auch gegeben. Und dann ist so eine Kritik eben mehr eine Pflichtübung und da hilft dann schon die Routine, dass man da schreibt."
+            "text": "Es gibt einfach Tatsachen, die man lernt, die vielleicht für jeden wichtig sind, aber für die anderen nicht so wichtig sind, weil sie die Phase nicht so durchgemacht haben. Und derartige Sachen hat es natürlich auch gegeben. Und dann ist so eine Kritik eben mehr eine Pflichtübung und da hilft dann schon die Routine, dass man da schreibt.",
+            "entities": [
+                "Pflichtübung"
+            ]
         },
         {
             "video": 2,
@@ -6748,7 +6764,10 @@
         {
             "video": 2,
             "start": 5823,
-            "text": "Aber das sind meine beiden gewohnheitsmässigen Einstiege gewesen. Dass ich gerade irgendwie etwas herausgepickt habe und das dann an den Anfang gestellt. Weil der Leads war ja meistens sehr kurz gewesen. Also bei den grossen Artikel ist er ja meistens grösser gewesen, aber wir haben ja sehr oft die kleinen Artikel geschrieben über den Tanz. Und darum ist noch nicht alles zur Sprache gekommen, wer ist was, wo, wann, wer hat choreografiert. Was ist, oder?"
+            "text": "Aber das sind meine beiden gewohnheitsmässigen Einstiege gewesen. Dass ich gerade irgendwie etwas herausgepickt habe und das dann an den Anfang gestellt. Weil der Leads war ja meistens sehr kurz gewesen. Also bei den grossen Artikel ist er ja meistens grösser gewesen, aber wir haben ja sehr oft die kleinen Artikel geschrieben über den Tanz. Und darum ist noch nicht alles zur Sprache gekommen, wer ist was, wo, wann, wer hat choreografiert. Was ist, oder?",
+            "entities": [
+                "choreografiert"
+            ]
         },
         {
             "video": 2,
@@ -7143,6 +7162,7 @@
             "text": "Und dann habe ich mir überlegt, okay, was mir passt mir nicht dran [Anm. Transkription: gefällt], das ist die laute Musik, die mich kaputt macht und das ist das grelle Licht. Und ich bin auch nicht sehr gern im Werft-Areal. Dann habe ich gesagt, okay, ins Werft muss ich, da muss ich früh genug da sein, da muss ich einen guten Platz haben, wo ich mich wohl fühle. Ich ziehe eine Sonnenbrille an und ich tu Ohropax in die Ohren. Und ich bin in die Vorstellung und ich bin echt begeistert gewesen von der Choreografie. Weil, die laute Musik hat mich nicht stören können, die habe ich ja nur noch halb gehört.",
             "entities": [
                 "Anm",
+                "Choreografie",
                 "Ohropax"
             ]
         },
@@ -7164,6 +7184,8 @@
             "start": 6797,
             "text": "Aber, was ich dann gesehen habe tatsächlich, das ist eine höchst differenzierte und ganz interessant aufgebaute Minimal-Choreografie, die er da gemacht hat. Vor allem fast nur mit Raumwegen, sie sind fast nur gelaufen, hin und zurück. Aber, das ist so vielfältig gewesen und weil ich dann durchs andere, das mich genervt hätte, nicht abgelenkt worden bin, habe ich eine ganz grossartige Choreografie gesehen. Und das ist eigentlich der Effekt gewesen, an den ich mich eben noch erinnere. Es hat sicher auch andere gegeben.",
             "entities": [
+                "Choreografie",
+                "Minimal-Choreografie",
                 "Raumwegen"
             ]
         },
@@ -7753,7 +7775,7 @@
             "start": 8372,
             "text": "Man konnte dort in die Bibliothek hinein, dort gab es Karteikarten und wenn man alle Rezensionen über die Wigman wollte, die hat man alle gefunden, das war alles auf den Karteikarten. Man durfte die alten Zeitungen aufmachen und schauen, was dort geschrieben worden ist.",
             "entities": [
-                "Wigman"
+                "Mary Wigman"
             ]
         },
         {
@@ -7990,6 +8012,7 @@
             "start": 9078,
             "text": "Und dann haben wir geschaut wegen Kriterien. Wir haben auf jeden Fall mal den Schweizer Bezug. und dann mussten es wirklich Leute vom Theater sein, das heisst man hat Choreografen, die mindestens drei Jahre als Choreograf an einem Theater gearbeitet haben, zum Beispiel.",
             "entities": [
+                "Choreografen",
                 "Schweizer"
             ]
         },
@@ -8059,7 +8082,7 @@
             "start": 9257,
             "text": "Also ist es irgendwie darauf hinaus gelaufen, dass ich hier gearbeitet habe. Und da sind dann halt die ersten Vorstellungen von der Wigman gewesen, wo ich dann halt angefangen habe zu schreiben, solche historischen Sachen.",
             "entities": [
-                "Wigman"
+                "Mary Wigman"
             ]
         },
         {
@@ -8161,7 +8184,7 @@
             "entities": [
                 "Katja Wulff",
                 "Perrottethinaus",
-                "Wigman",
+                "Mary Wigman",
                 "Wolfgang",
                 "Zürich"
             ]
@@ -8522,6 +8545,7 @@
             "text": "Es ist nicht ausgerichtet gewesen. Es ist schwierig zu sagen, was da noch an Truppen – CH-Tanztheater, die haben ganz sicher nie ein schlechtes, nicht durchdachtes Stück gemacht. Sie haben auch zum Teil die Welscher, der Wherlock hat mal eine Choreografie gemacht für sie.",
             "entities": [
                 "CH-Tanztheater",
+                "Choreografie",
                 "Welscher"
             ]
         },
@@ -8531,7 +8555,8 @@
             "text": "Und da ist quasi das Niveau immer gut gewesen, vor allem der Ben Iida, wenn er choreografiert hat. Und weil er vor allem natürlich das ganze Team von Tänzerinnen, die sehr lange miteinander gearbeitet haben, das hat eigentlich immer etwas Interessantes und etwas Packendes gegeben. Das ist schon schön gewesen. I: Tust du auch mal verschiedene Kriterien anwenden, je nach Theater oder je nach Grösse von der Kompanie oder auch ja, nach Ressort vom Tanz?",
             "entities": [
                 "Ben Iida",
-                "I"
+                "I",
+                "choreografiert"
             ]
         },
         {
@@ -8583,6 +8608,7 @@
             "start": 10665,
             "text": ". Damit kann ich ein bisschen weniger anfangen. Und wo ich auch eine grössere Empfindlichkeit habe als früher, das ist, wenn die Musik überhaupt nicht passt. Beziehungsweise, wenn sie so ist, dass man die \"Jupiter Symphonie\" nimmt für irgendeinen Tanz, wo man auch eigentlich schlicht jede Musik nehmen könnte und wo es auch ein Minkus tun würde. Also, ich bin gar nicht gegen Minkus. Minkus Ballette sind gut, während der Petipa gute Choreografien hat und so ein mittelmässige Musik machen konnte.",
             "entities": [
+                "Choreografien",
                 "Jupiter Symphonie",
                 "Minkus",
                 "Minkus",
@@ -8647,6 +8673,7 @@
             "start": 10846,
             "text": "Und optimal umgesetzt, das wäre eben das Beispiel, die \"Reformations Sinfonie\" von Schläpfer. Die habe ich live gesehen, mehr als ein Mal. In Mainz, das ist noch eine Mainzer Choreografie.",
             "entities": [
+                "Choreografie",
                 "Mainz",
                 "Mainzer",
                 "Reformations Sinfonie"
@@ -9353,6 +9380,7 @@
             "start": 12594,
             "text": "P: Ich sage ja, Forsythe. I: Das zitiere ich immer gern, wenn ich bei Forsythe thematisiere, dann sage ich mit einem bösen Lächeln, Frau Pellaton hat garantiert nie gekifft, aber Forsythe ist Haschisch für sie.sUnd das drückt das, glaube ich, einfach im Kern aus, was dir der Tanz geben kann und auch eben guter Tanz, gute, differenzierte Choreografie.",
             "entities": [
+                "Choreografie",
                 "Forsythe",
                 "Forsythe",
                 "Forsythe",
@@ -9366,6 +9394,7 @@
             "start": 12623,
             "text": "P: Eben, es ist – I: Eine gewagte Choreografie.",
             "entities": [
+                "Choreografie",
                 "Eben",
                 "P"
             ]
@@ -9822,7 +9851,7 @@
                 "Anm",
                 "Jean-Pierre Pastori",
                 "P",
-                "Schweizerischen Tanzarchiv"
+                "Schweizer Tanzarchiv"
             ]
         },
         {
@@ -10006,7 +10035,7 @@
             "start": 421,
             "text": "Und so hat sich das glaube ich, langsam in eine Erweiterung hin entwickelt und jetzt haben wir im Prinzip in der Folkwang Schule das was der Jooss weiterentwickelt hat und was auch weitergeht, während wir beim Leeder wahrscheinlich eher das Ursprüngliche haben, weil er immer das Gefühl hatte, mit dem, was man mit der alten Technik lernt, kann man eigentlich alles mitteilen, erzählen, ausdrücken, zeigen durch eine Bewegung.",
             "entities": [
-                "Folkwang Schule",
+                "Folkwang Hochschule",
                 "Jooss",
                 "Leeder"
             ]
@@ -10040,7 +10069,10 @@
         {
             "video": 3,
             "start": 516,
-            "text": "Nur einfach auf eine neue Art. Und da sieht man gerade, wie sie notierte Choreografien, genau wie eine Musikpartitur eben zeigen können, etwas von der Vergangenheit und etwas von der Gegenwart. Weil es wird in der Gegenwart interpretiert, aber es ist doch von früher. Und das ist eigentlich spannend."
+            "text": "Nur einfach auf eine neue Art. Und da sieht man gerade, wie sie notierte Choreografien, genau wie eine Musikpartitur eben zeigen können, etwas von der Vergangenheit und etwas von der Gegenwart. Weil es wird in der Gegenwart interpretiert, aber es ist doch von früher. Und das ist eigentlich spannend.",
+            "entities": [
+                "Choreografien"
+            ]
         },
         {
             "video": 3,
@@ -10179,6 +10211,8 @@
             "text": "Aber trotzdem gibt es natürlich immer noch viele Leute, die diese Sachen kennen. Und das Grossartige bei Leeder ist natürlich, dass es auch Unterrichtsmaterial, die vielen Etüden, die er schon seit Dartington Hall notiert hat; und immer mit der Labanotation gearbeitet hat. Und die Etüden sind erhalten, die sind bei uns im Archiv, die sind da in diesen Lokalitäten.",
             "entities": [
                 "Dartington Hall",
+                "Etüden",
+                "Etüden",
                 "Labanotation",
                 "Leeder"
             ]
@@ -10186,7 +10220,11 @@
         {
             "video": 3,
             "start": 853,
-            "text": "Und da kann man immer noch damit arbeiten. Und die Etüden sind eben auch etwas ganz besonderes, weil normalerweise lernt man im Tanz entweder einfach Grundschritte oder kleine Kombinationen."
+            "text": "Und da kann man immer noch damit arbeiten. Und die Etüden sind eben auch etwas ganz besonderes, weil normalerweise lernt man im Tanz entweder einfach Grundschritte oder kleine Kombinationen.",
+            "entities": [
+                "Etüden",
+                "Grundschritte"
+            ]
         },
         {
             "video": 3,
@@ -10198,9 +10236,11 @@
             "start": 889,
             "text": "Und Leeder hat das gemacht, was es in der Musik gibt, nämlich eben Etüden, bei denen man verschiedene Sachen zusammenhängt. Die dann plötzlich auch zum Kontrast werden und die man eben mehr als eine kurze Übung macht, aber es ist eben noch nicht ein ganzes, umfangreiches Tanzwerk, sondern es ist etwas dazwischen. Und an diesen Etüden kann man sehr viel ablesen, wie Leeder unterrichtet hat und um was es ihm gegangen ist. Und das ist eben bei uns notiert.",
             "entities": [
+                "Etüden",
+                "Etüden",
                 "Leeder",
                 "Leeder",
-                "Übung macht"
+                "Übung"
             ]
         },
         {
@@ -10208,9 +10248,12 @@
             "start": 920,
             "text": "Und der einzige, der dann eben auch selbst stark mit Etüden gearbeitet hat im Unterricht, das ist eben diese Zeichnung von Jean Cébron, der auch ein Schüler von Leeder gewesen ist, er hat an der Folkwang Schule eben auch vor allem mit Etüden unterrichtet. Er hat das übernommen. Ich kenne heute keinen anderen Lehrer, der das so macht.",
             "entities": [
-                "Folkwang Schule",
+                "Etüden",
+                "Etüden",
+                "Folkwang Hochschule",
                 "Jean Cébron",
-                "Leeder"
+                "Leeder",
+                "Unterricht"
             ]
         },
         {
@@ -10218,6 +10261,7 @@
             "start": 951,
             "text": "I: Kannst Du mal den Unterrichtsstil beschreiben, wie er mit diesen Etüden umgegangen ist?",
             "entities": [
+                "Etüden",
                 "I",
                 "Kannst Du mal"
             ]
@@ -10228,7 +10272,8 @@
             "text": "P: Ich glaube, angefangen hat es – und Leeder schreibt das selbst, er hat ja auch relativ viel geschrieben und erklärt und Interviews gegeben. Er wollte einfach erstmal eine Übung in einen bestimmten Kontext stellen. Und wenn sie dann schwieriger geworden sind, wollte er einen Kontrast, also von der Spannung, von der Dynamik, vom Tempo.",
             "entities": [
                 "Leeder",
-                "P"
+                "P",
+                "Übung"
             ]
         },
         {
@@ -10246,7 +10291,10 @@
             "start": 1020,
             "text": "Und wo die Tanzschüler dann auch eigentlich hätten können – das konnte man beim Leeder im Unterricht sowieso – aber wenn man sich das heute anschaut, könnte man lernen, wie man … – eine Art Komposition, wie man mit Tanz arbeitet, wie man auf den Weg kommt zu einer Choreografie.",
             "entities": [
-                "Leeder"
+                "Choreografie",
+                "Komposition",
+                "Leeder",
+                "Unterricht"
             ]
         },
         {
@@ -10254,7 +10302,8 @@
             "start": 1037,
             "text": "Es ist einfach etwas dazwischen, wo man eben auch choreografisches Handwerk lernen kann. Wie man mit Kontrast arbeitet, wie man mit Weiterentwicklung arbeitet, wie man es auch aufbaut, und so weiter. Und insofern ist es interessant.",
             "entities": [
-                "Handwerk"
+                "Handwerk",
+                "choreografisches"
             ]
         },
         {
@@ -10373,7 +10422,7 @@
                 "Laban",
                 "Mary Wigman",
                 "Suzanne Perrottet",
-                "Wigman",
+                "Mary Wigman",
                 "Zürcher Zeit"
             ]
         },
@@ -10455,7 +10504,7 @@
                 "Hellerau",
                 "Hellerau",
                 "Schweiz",
-                "Wigman"
+                "Mary Wigman"
             ]
         },
         {
@@ -10473,7 +10522,8 @@
             "start": 1560,
             "text": "Und das ist ein Schritt dieser Emanzipation gewesen, die eben über das Dalcroze-Institut oder über die Konservatorien … dass dann dort Leute herausgekommen sind, die dann das Tänzerische betont haben an dem Unterricht und die dann Tanzschulen eröffnet haben.",
             "entities": [
-                "Dalcroze-Institut"
+                "Dalcroze-Institut",
+                "Unterricht"
             ]
         },
         {
@@ -10482,7 +10532,7 @@
             "text": "Es gab auch andere,… die Irene Steiner in Winterthur zum Beispiel, das ist auch so gelaufen … Und bei der Wigman ist es ja auch so gewesen, sie war eine Tochter aus gutem Hause.",
             "entities": [
                 "Irene Steiner",
-                "Wigman",
+                "Mary Wigman",
                 "Winterthur"
             ]
         },
@@ -10514,7 +10564,7 @@
                 "Du tanzt",
                 "Monte Verità",
                 "Perrottet",
-                "Wigman",
+                "Mary Wigman",
                 "Zürich"
             ]
         },
@@ -10531,7 +10581,7 @@
             "start": 1699,
             "text": "Er hat der Wigman gesagt: du das ist noch keine harmonische, tänzerische Bewegung, aber du bist eine grosse Tänzerin. Oder er hat auch das mit der Notation gekonnt. Da hat er herum gegrübelt und hat verschiedene Möglichkeiten ausgetestet.",
             "entities": [
-                "Wigman"
+                "Mary Wigman"
             ]
         },
         {
@@ -10567,7 +10617,8 @@
             "entities": [
                 "Kurt Jooss",
                 "Laban",
-                "Lisa Ullmann"
+                "Lisa Ullmann",
+                "Unterricht"
             ]
         },
         {
@@ -10582,7 +10633,7 @@
             "entities": [
                 "Meister",
                 "Monte Verità",
-                "Wigman"
+                "Mary Wigman"
             ]
         },
         {
@@ -10602,7 +10653,8 @@
                 "Choreutik",
                 "Jooss",
                 "Kurt Jooss",
-                "Leeder"
+                "Leeder",
+                "Unterricht"
             ]
         },
         {
@@ -10615,7 +10667,8 @@
             "start": 1886,
             "text": "Ich glaube, Laban selber hat gar kein Werk, das er so exemplarisch choreografiert hat. Und das ist das Faszinierende daran, wie viel tänzerische Energie er dafür eingesetzt hat.",
             "entities": [
-                "Laban"
+                "Laban",
+                "choreografiert"
             ]
         },
         {
@@ -10664,7 +10717,7 @@
             "text": "Aber gleichzeitig hat er ja auch schon Vorstellungen gehabt immer … Die Kinesphäre, die ja die Wigman bei diesen Versuchen da zeigt … Das muss fast,… das gehört in den Ikosaeder hinein.",
             "entities": [
                 "Ikosaeder",
-                "Wigman"
+                "Mary Wigman"
             ]
         },
         {
@@ -10786,6 +10839,7 @@
                 "Nina Macciacchini",
                 "Perrottet",
                 "Suzanne Perrottet",
+                "Unterricht",
                 "Zürich",
                 "Zürich"
             ]
@@ -10808,7 +10862,7 @@
                 "Glarnerland",
                 "Opernhaus",
                 "Schweiz",
-                "Wigman",
+                "Mary Wigman",
                 "Zürich"
             ]
         },
@@ -10843,8 +10897,8 @@
             "entities": [
                 "Berte Trümpi",
                 "Dresden",
-                "Wigman",
-                "Wigman"
+                "Mary Wigman",
+                "Mary Wigman"
             ]
         },
         {
@@ -10856,8 +10910,8 @@
                 "Skoronel",
                 "Suzanne Perrottet",
                 "Vera Skoronel",
-                "Wigman",
-                "Wigman"
+                "Mary Wigman",
+                "Mary Wigman"
             ]
         },
         {
@@ -10945,7 +10999,7 @@
             "start": 2665,
             "text": "Damals. Sie hat aber auch nicht gewusst, dass es da Leute gibt, wie eine Wigman, die so etwas unterrichten. Der Vater hat ihr ein Theater gemietet und drei Monate einen Pianisten gezahlt, und dann nachher hat sie ihre erste Aufführung gemacht. Und sie wollte vor allem eine tragische Tänzerin sein.",
             "entities": [
-                "Wigman"
+                "Mary Wigman"
             ]
         },
         {
@@ -11069,7 +11123,7 @@
             "start": 2920,
             "text": "Und sie hat sofort neue Räumlichkeiten gebraucht und sie durften dann im Kunsthaus Stunden haben, nicht nur in ihrer Schule, die ein kleiner Ort gewesen ist am Anfang.",
             "entities": [
-                "Kunsthaus"
+                "Kunsthaus Stunden"
             ]
         },
         {
@@ -11080,7 +11134,7 @@
                 "Laban",
                 "Laban",
                 "Laban",
-                "Wigman"
+                "Mary Wigman"
             ]
         },
         {
@@ -11091,7 +11145,7 @@
                 "Dresden",
                 "Haus an der Bautznerstrasse",
                 "Harald Kreutzberg",
-                "Wigman"
+                "Mary Wigman"
             ]
         },
         {
@@ -11101,7 +11155,7 @@
             "entities": [
                 "Ballettchef",
                 "Hannover",
-                "Wigman"
+                "Mary Wigman"
             ]
         },
         {
@@ -11190,7 +11244,7 @@
             "start": 3158,
             "text": "Also Stücke zu machen, die eigentlich länger sind, eben wie Wigman das mit ihrer freien Truppe gewollt hat, aber er hat eben das im Theater machen wollen.",
             "entities": [
-                "Wigman"
+                "Mary Wigman"
             ]
         },
         {
@@ -11202,8 +11256,8 @@
                 "Laban",
                 "Perrottet",
                 "Max Pfister-Terpis",
-                "Wigman",
-                "Wigman"
+                "Mary Wigman",
+                "Mary Wigman"
             ]
         },
         {
@@ -11260,7 +11314,7 @@
             "text": "Auch an den Theatern. Nur, ich meine, die ganz reine Form von, eben das, was man Ausdruckstanz nennt, die sieht man eben in den Soli von der Schoop, von der Niddy Impekoven, oder eben von der Wigman.",
             "entities": [
                 "Niddy Impekoven",
-                "Wigman"
+                "Mary Wigman"
             ]
         },
         {
@@ -11268,7 +11322,7 @@
             "start": 3296,
             "text": "Und die Wigman hat das ja dann eben für ihre Truppe, die sie dann immer wieder gehabt hat und die dann wieder hat aufhören müssen, da hat sie dann eben solche Tanzdramen gemacht.",
             "entities": [
-                "Wigman"
+                "Mary Wigman"
             ]
         },
         {
@@ -11329,7 +11383,7 @@
                 "Laban",
                 "Mary Wigman",
                 "Sophie Taeuber",
-                "Wigman"
+                "Mary Wigman"
             ]
         },
         {
@@ -11674,7 +11728,9 @@
             "start": 4139,
             "text": "Der ist ja dann da gewesen, der Wunderknabe Sziget Massin. Er hat ja Unterricht nehmen müssen, weil er noch nicht so gut gewesen ist als Tänzer. Er hat ja da choreografiert.",
             "entities": [
-                "Sziget Massin"
+                "Sziget Massin",
+                "Unterricht",
+                "choreografiert"
             ]
         },
         {
@@ -11706,7 +11762,7 @@
                 "HEUTE",
                 "Laban",
                 "SIE",
-                "Wigman",
+                "Mary Wigman",
                 "Zeit"
             ]
         },
@@ -11784,7 +11840,7 @@
             "start": 4400,
             "text": "also eben 1914 ist eine Dalcroze-Schülerin Ballettchefin geworden. Und sie durften am Montag … Der Montag ist der Tag gewesen, wo das Orchester nicht zur Verfügung gestanden ist und darum hat man am Montag Ballett machen können mit Klavierbegleitung, oder eben wie die Wigman mit Perkussion und so weiter.",
             "entities": [
-                "Wigman"
+                "Mary Wigman"
             ]
         },
         {
@@ -11793,7 +11849,7 @@
             "text": "Und die haben dort auch ein Programm gehabt \"Alte Tänze, neue Tänze\" und da haben sie zum Beispiel auch, es muss so etwas Ähnliches sein – so wie es beschrieben ist – wie Ausdruckstanz … vielleicht nicht so EXTREM wie die Wigman, vielleicht etwas leichter, vielleicht etwas oberflächlicher wahrscheinlich auch.",
             "entities": [
                 "EXTREM",
-                "Wigman"
+                "Mary Wigman"
             ]
         },
         {
@@ -11809,7 +11865,7 @@
             "start": 4460,
             "text": "Aber das hat sie nicht ganz vorbereitet auf das, wie die Wigman dann in ihrer Radikalität gekommen ist. Das ist ganz klar. Aber was ist die Frage gewesen?",
             "entities": [
-                "Wigman"
+                "Mary Wigman"
             ]
         },
         {
@@ -11829,7 +11885,7 @@
                 "Hannover",
                 "Suzanne Perrottet",
                 "Max Pfister-Terpis",
-                "Wigman"
+                "Mary Wigman"
             ]
         },
         {
@@ -11858,7 +11914,7 @@
                 "Emmy Hennings",
                 "P",
                 "Sophie Taeuber",
-                "Wigman",
+                "Mary Wigman",
                 "dieWigman"
             ]
         },
@@ -11867,7 +11923,7 @@
             "start": 4584,
             "text": "Und selbstverständlich ist auch mit der Malerei, also neben dem Sacharoff, der ja Ausstellungen gemacht und auch getanzt hat, hat es da natürlich schon noch mehr gegeben. Die Wigman hat auch, bei den Festen, die sie gemacht haben, da hat sie auch überall mitgemacht.",
             "entities": [
-                "Wigman"
+                "Mary Wigman"
             ]
         },
         {
@@ -11875,7 +11931,7 @@
             "start": 4607,
             "text": "Und zum Teil sind die Kostüme, also die Bilder, sind nicht von diesen Dada-Soiréen, sondern von privaten Festen, wo sie im Prinzip aus nichts; also aus Kartonrollen und dergleichen, ein Programm gemacht haben. Sonst ist eigentlich eher gewesen, dass man beim Kostüm von der Wigman – sie hat gern teure, schwere Stoffe gehabt – also da ist die Rede von dem berühmten Brokat, das sie dann verwendet hat für den Hexentanz.",
             "entities": [
-                "Wigman"
+                "Mary Wigman"
             ]
         },
         {
@@ -11883,7 +11939,7 @@
             "start": 4643,
             "text": "Das sie schon ziemlich vorher mal gekauft hat, oder auch einfach einen Rock und ein Oberteil, sodass man den Körper möglichst gut sieht. Auch die Art von Maskengebrauch … die Wigman hat nie einfach quasi eine Kartonschachtel und einen Schlitz oder so etwas gemacht.",
             "entities": [
-                "Wigman"
+                "Mary Wigman"
             ]
         },
         {
@@ -11905,7 +11961,7 @@
             "text": "Ich glaube, dass diese Spontaneität eigentlich nicht beim Kunstschaffen von der Sophie Taeuber, aber auch nicht im Tanzschaffen von der Wigman. Weil sie beschreibt dann schon später sehr genau, wie sie von einem Einfall, von einem Gefühl nachher daran arbeitet. Ich glaube, sie waren nicht die, die improvisiert haben vor Publikum.",
             "entities": [
                 "Sophie Taeuber",
-                "Wigman"
+                "Mary Wigman"
             ]
         },
         {
@@ -12029,7 +12085,7 @@
                 "Tessin",
                 "Trix Gutekunst",
                 "Trix Gutekunst",
-                "Wigman",
+                "Mary Wigman",
                 "Winterthur",
                 "Winterthur"
             ]
@@ -12072,7 +12128,7 @@
             "text": "Aber sie hat dort etwa drei Jahre getanzt und ist dann aber weiter zur Wigman. Und hat später geschrieben, dann habe ich wieder danach geschaut. Man hat mir ein Bild gezeigt davon, wo man dann wieder die Perrottet sieht. Eben, es sind immer so Puzzlesteine.",
             "entities": [
                 "Perrottet",
-                "Wigman"
+                "Mary Wigman"
             ]
         },
         {
@@ -12417,7 +12473,7 @@
             "start": 5983,
             "text": "Im Vorfeld, wo das geplant worden ist, haben sie gesagt, ja das ginge nicht, sie können da nicht mit einzelnen Tänzern verhandeln. Es muss irgendwie eine Vereinigung gegründet werden und darum haben sie dann den Schweizerischen Bund für oder – ah, wie hat es geheissen …",
             "entities": [
-                "Schweizerischen Bund"
+                "Schweizerische Berufsverband für Tanz und Gymnastik"
             ]
         },
         {
@@ -12743,7 +12799,7 @@
             "text": "Aber man hat so das Gefühl gehabt, das sei pikant, das sei gekünstelt, das sei irgendwie verwerflich. Währenddem bei der Isadora Duncan schon und dann eben auch bei der Wigman und allen diesen Sachen … man das Gefühl hatte, ja das sei Natur.",
             "entities": [
                 "Isadora Duncan",
-                "Wigman"
+                "Mary Wigman"
             ]
         },
         {
@@ -12799,7 +12855,8 @@
             "text": "Und ich glaube auch eine Karriere von, zum Beispiel von der Fumi Matsuda, die als Wigman-Schülerin Unterricht gehabt hat und die ihre allerersten Sachen, die sie beim Tanz-November gemacht hat in den siebziger Jahren, das ist wirklich Ausdruckstanz gewesen und das ist einfach grandios gewesen.",
             "entities": [
                 "Fumi Matsuda",
-                "Tanz-November"
+                "Tanz-November",
+                "Unterricht"
             ]
         },
         {
@@ -12882,7 +12939,7 @@
             "entities": [
                 "Chladek-Technik",
                 "Mary Wigman",
-                "Wigman"
+                "Mary Wigman"
             ]
         },
         {
@@ -13001,6 +13058,7 @@
             "start": 7589,
             "text": "Das hat sich fortgesetzt, das ist ja schon langsam gekommen vorher. Das hat sich dann fortgesetzt. Und dann hat man grossartige Choreografinnen gehabt, wie zum Beispiel die Tatjana Gsovsky. Die hat ja dann Tanzdramen gemacht, das ist jammerschade, dass das nicht erhalten ist.",
             "entities": [
+                "Choreografinnen",
                 "Tatjana Gsovsky"
             ]
         },
@@ -13296,7 +13354,7 @@
             "start": 8276,
             "text": "Also, wo eben noch eine künstlerische Absicht ist. Ich glaube, das ist fast die einzige Definition. Dann die Übungen sind zum Teil die gleichen. Das kommt wahrscheinlich auch auf das Individuum an, wie einer das empfindet. Aber die Gymnastik ist mehr wie Turnunterricht, da geht es einfach um die Freude an der Bewegung und um Gesundheit, Fitness.",
             "entities": [
-                "Übungen sind"
+                "Übungen"
             ]
         },
         {
@@ -13307,7 +13365,10 @@
         {
             "video": 3,
             "start": 8320,
-            "text": "Oder eine bestimmte Emotion zu verkörpern. Aber die Übungen könnten gleich sein. Es kommt natürlich auch ganz stark auf den Lehrer an, wie er das macht, wie er das erklärt. Das ist klar, wie man da irgendwie eingespurt wird."
+            "text": "Oder eine bestimmte Emotion zu verkörpern. Aber die Übungen könnten gleich sein. Es kommt natürlich auch ganz stark auf den Lehrer an, wie er das macht, wie er das erklärt. Das ist klar, wie man da irgendwie eingespurt wird.",
+            "entities": [
+                "Übungen"
+            ]
         },
         {
             "video": 3,
@@ -13406,7 +13467,8 @@
             "start": 8596,
             "text": "Das ist das eine gewesen vom Leeder, dass er dem immer auch einen emotionalen Hintergrund gegeben hat. Und das andere ist gewesen, dass er mit Bildern geredet hat. Er hat bildhafte Vorstellungen erweckt, nicht nur jetzt bei einer Armbewegung, sondern wenn es auch darum gegangen ist, dass man zum Beispiel eine Übung … wie es ja heute im zeitgenössischen Tanz auch ist …",
             "entities": [
-                "Leeder"
+                "Leeder",
+                "Übung"
             ]
         },
         {
@@ -13436,7 +13498,8 @@
             "text": "Und ich glaube, der Leeder ist ein grosser Führer gewesen. Ich weiss nicht … beim Laban habe ich noch nie so eine detaillierte Beschreibung vom Unterricht gelesen. Das ist mehr so dann auf einer abstrakteren Ebene, die Sachen, die ich gelesen habe, vielleicht nicht ganz alles. Aber eben, das sind dann diese Sachen.",
             "entities": [
                 "Laban",
-                "Leeder"
+                "Leeder",
+                "Unterricht"
             ]
         },
         {
@@ -13545,6 +13608,7 @@
             "start": 9013,
             "text": "Die sind natürlich auch international aufgetreten und die haben mit der Mariette von Meyenburg eine hervorragende Choreografin gehabt. Und die haben das wirklich doch ein Jahrzehnt lang mindestens … haben sie das auf ganz hohem Niveau durchhalten können. Und sie haben auch bei dem Tanzkongress oder an solchen Orten haben sie … und sie sind auch selber auf Tournee gegangen.",
             "entities": [
+                "Choreografin",
                 "Mariette von Meyenburg",
                 "Tanzkongress"
             ]
@@ -13597,7 +13661,7 @@
             "text": "Das ist dann sehr schnell ein grosses Ensemble geworden und da ist es auch einfach so gewesen, dass das nicht so ernster Tanz war. Ich sage mal nicht so wie bei der Wigman, bei der es immer um existenzielle Fragen ging. Sondern, dass es viel mehr um ungeschicktes Benehmen, eben von dem Looser, der immer alles durcheinander bringt und am Schluss ist gleich irgendetwas …",
             "entities": [
                 "Looser",
-                "Wigman"
+                "Mary Wigman"
             ]
         },
         {
@@ -13618,7 +13682,8 @@
             "start": 9203,
             "text": "Und er hat auch immer Nachwuchschoreografen die Chance gegeben ein Teil von einem Stück zu machen. Oder irgendwie so. Also er hat da enorm gefördert. Und ihm ist zugute gekommen, dass er selbst eine kaufmännische Ausbildung gehabt hat und das organisieren konnte.",
             "entities": [
-                "Ausbildung"
+                "Ausbildung",
+                "Nachwuchschoreografen"
             ]
         },
         {
@@ -13639,7 +13704,8 @@
             "start": 9246,
             "text": "Und ich meine heute, eben wenn man sieht, heute wird eher das Kulturmanagement angestellt, da ist ja der Grafiker oder der Kulturmanager viel grösser, als der, der choreografiert und tanzt. Das ist dann eben schwierig, oder?",
             "entities": [
-                "Kulturmanagement"
+                "Kulturmanagement",
+                "choreografiert"
             ]
         },
         {
@@ -13723,7 +13789,7 @@
             "entities": [
                 "Ich mag mich",
                 "Kunsthaus",
-                "Wigman"
+                "Mary Wigman"
             ]
         },
         {
@@ -13885,6 +13951,7 @@
             "start": 9893,
             "text": "Und er ist natürlich nicht mehr ganz jung gewesen, 1977 war er 31, da hat er sich entscheiden müssen. Das ist nicht so einfach. Und Nyon hat ihm eben auch nicht so viel geholfen, wenn man die Preisträger vom Choreografiewettbewerb in Nyon anschaut, dann hat die Maguy Marin und so, die haben hat dann natürlich grosse Karriere gemacht, aber die hatten halt einfach auch schon früher ein besseres Fördermodell in Frankreich gehabt.",
             "entities": [
+                "Choreografiewettbewerb",
                 "Frankreich",
                 "Maguy Marin",
                 "Nyon",
@@ -13984,7 +14051,7 @@
                 "Dore Hoyer",
                 "Laban",
                 "Pathetische",
-                "Wigman"
+                "Mary Wigman"
             ]
         },
         {
@@ -14430,8 +14497,8 @@
             "text": "Vor allem beim Ausdruckstanz hat man ja dann den Eindruck, es sei etwas sehr statuarisches gewesen. Wenn man die Bilder sieht von der Wigman, ein Foto nach dem anderen, es sind ja meistens die Serien von der Ulrich und dann hat man das Gefühl, ja von der Dynamik – und das ist es ja wahrscheinlich gewesen, was sie ausgemacht hat – weil die Wigman ist nicht gut gewesen, weil sie so eine Pose einnehmen konnte.",
             "entities": [
                 "Ulrich",
-                "Wigman",
-                "Wigman"
+                "Mary Wigman",
+                "Mary Wigman"
             ]
         },
         {
@@ -14445,7 +14512,7 @@
             "text": "Und dann kann man es wieder vergleichen mit anderen grossen Tänzerinnen. Und dann habe ich am Schluss die Wigman und die Margot Fonteyn und die müssen nur so machen und es ist grosse Kunst.",
             "entities": [
                 "Margot Fonteyn",
-                "Wigman"
+                "Mary Wigman"
             ]
         },
         {
@@ -14455,7 +14522,7 @@
             "entities": [
                 "Fonteyn",
                 "Fonteyn",
-                "Wigman"
+                "Mary Wigman"
             ]
         },
         {
@@ -14463,7 +14530,7 @@
             "start": 11263,
             "text": "Es muss das bei der Wigman gewesen sein, weil sie hat es nicht mit den Schritten machen können und nicht mit den Sprüngen und nicht mit den Pirouetten, das hat sie nicht gekonnt, das wissen wir alles, sie ist auf dem Boden gestanden. Sie konnte nicht mal auf einem Bein stehen.",
             "entities": [
-                "Wigman"
+                "Mary Wigman"
             ]
         },
         {
@@ -14480,7 +14547,7 @@
             "text": "So, wie die im Stummfilm, die haben Gesichter gehabt. Und mit dem, da kann man das Publikum zur Begeisterung führen. Wenn es stimmt, wenn die Niobe dargestellt ist. Oder so irgendetwas. Das geht eben. Aber das kann man auch nur erraten, weil da hat man die schönen, im Studio gefilmten Bilder, wo die Wigman schön eine Pose nach der anderen zeigt.",
             "entities": [
                 "Niobe",
-                "Wigman"
+                "Mary Wigman"
             ]
         },
         {
@@ -14573,7 +14640,7 @@
             "entities": [
                 "NIE",
                 "Nurejew",
-                "Wigman"
+                "Mary Wigman"
             ]
         },
         {
@@ -14603,7 +14670,7 @@
             "text": "Und auch an den grösseren Theatern, die Wigman hat in der Carnegie Hall getanzt. Allein. Und das muss wirklich … die haben nicht alle gesponnen, ich meine, die haben wirklich ETWAS erlebt mit diesen Leuten.",
             "entities": [
                 "Carnegie Hall",
-                "Wigman"
+                "Mary Wigman"
             ]
         },
         {
@@ -15024,6 +15091,7 @@
             "text": "Das ist \"The vertiginous Thrill of Exactitude\", das war eine Gastchoreografie von Forsythe in der Ära von Heinz Spoerli.",
             "entities": [
                 "Forsythe",
+                "Gastchoreografie",
                 "Heinz Spoerli",
                 "The vertiginous Thrill of Exactitude"
             ]
@@ -15143,8 +15211,11 @@
         {
             "video": 4,
             "start": 352,
-            "text": "Und da sieht man die Schwere und man kann sich auch die Stimmung, wie er das gestaltet hat, die kann man sich schon vorstellen. Der Spuck hat für diese Choreografie den Prix Benois bekommen. Eine von den höchsten Auszeichnungen, die man für eine Choreografie erhalten kann. (6:09) Es fehlt noch da mit dieser riesigen Krinoline, das ist aus dem \"Nussknacker und Mausekönig\" vom Spuck und das ist Frau Mäuserich, die kommt eigentlich vor allem in der Geschichte in der Geschichte vor, weil er hat ja eigentlich nicht das Libretto vom Ballett \"Nussknacker\" übernommen,",
+            "text": "Und da sieht man die Schwere und man kann sich auch die Stimmung, wie er das gestaltet hat, die kann man sich schon vorstellen. Der Spuck hat für diese Choreografie den Prix Benois bekommen. Eine von den höchsten Auszeichnungen, die man für eine Choreografie erhalten kann. (6:09) Es fehlt noch da mit dieser riesigen Krinoline, das ist aus dem \"Nussknacker und Mausekönig\" vom Spuck und das ist Frau Mäuserich, die kommt eigentlich vor allem in der Geschichte in der Geschichte vor, weil er hat ja eigentlich nicht das Libretto vom Ballett \"Nussknacker\" übernommen, sondern er ist aufs Original von E. T. A. Hofmann zurückgegangen.",
             "entities": [
+                "Choreografie",
+                "Choreografie",
+                "E. T. A. Hofmann",
                 "Mäuserich",
                 "Nussknacker",
                 "Nussknacker",
@@ -15155,10 +15226,9 @@
         },
         {
             "video": 4,
-            "start": 394,
-            "text": "sondern er ist aufs Original von E. T. A. Hofmann zurückgegangen. Und da hat es ja eine zweite Geschichte in dieser Geschichte und er hat die Musik umgestellt und eben in dieser Geschichte kommt die Frau Mäuserich vor.",
+            "start": 399,
+            "text": "Und da hat es ja eine zweite Geschichte in dieser Geschichte und er hat die Musik umgestellt und eben in dieser Geschichte kommt die Frau Mäuserich vor.",
             "entities": [
-                "E. T. A. Hofmann",
                 "Mäuserich"
             ]
         },
@@ -15168,6 +15238,7 @@
             "text": "Jetzt muss ich mal geschwind schauen, ob ich etwas vergessen habe. Ja, natürlich, da haben wir noch das, was im heutigen, sagen wir mal zeitgenössischen, Ballett ganz typisch ist, das sind die Trikots, die zum Teil halb transparent sind. Und da sind es zwei Trikots aus Martin Schläpfers seiner Gast-Choreografie, dem \"Forellenquintett\", sind die beiden sehr stark farbigen Trikots.",
             "entities": [
                 "Forellenquintett",
+                "Gast-Choreografie",
                 "Martin Schläpfers"
             ]
         },
@@ -15184,7 +15255,10 @@
         {
             "video": 4,
             "start": 471,
-            "text": "Und unten dran sind noch die Stiefel. Die Stiefel sind ständig während dieser Choreografie auf der Bühne, weil die Stiefel gehören dem Fischer, der den Fisch fangen will und dann auch erwischt."
+            "text": "Und unten dran sind noch die Stiefel. Die Stiefel sind ständig während dieser Choreografie auf der Bühne, weil die Stiefel gehören dem Fischer, der den Fisch fangen will und dann auch erwischt.",
+            "entities": [
+                "Choreografie"
+            ]
         },
         {
             "video": 4,
@@ -15194,7 +15268,7 @@
         {
             "video": 4,
             "start": 492,
-            "text": "P: Es gibt viele Leute, die Ballett aus dem 19. Jahrhundert eigentlich nicht inte- ressant finden, weil die grossen abendfüllenden Ballette eben aus dem 19. Jahrhundert, das sind ja eigentlich immer Geschichten gewesen. Das ist so Kinoersatz gewesen damals.",
+            "text": "P: Es gibt viele Leute, die Ballett aus dem 19. Jahrhundert eigentlich nicht interessant finden, weil die grossen abendfüllenden Ballette eben aus dem 19. Jahrhundert, das sind ja eigentlich immer Geschichten gewesen. Das ist so Kinoersatz gewesen damals.",
             "entities": [
                 "Kinoersatz",
                 "P"
@@ -15287,7 +15361,7 @@
         {
             "video": 4,
             "start": 710,
-            "text": "Also, man hat das ein- fach gemacht, auch in der Oper ist das ganz selbstverständlich gewesen. Und man hat meistens einfach einen Ausstattungschef gehabt oder einen Bühnenbildner, der hat sehr viel ganz Verschiedenes gemacht."
+            "text": "Also, man hat das einfach gemacht, auch in der Oper ist das ganz selbstverständlich gewesen. Und man hat meistens einfach einen Ausstattungschef gehabt oder einen Bühnenbildner, der hat sehr viel ganz Verschiedenes gemacht."
         },
         {
             "video": 4,
@@ -15535,12 +15609,12 @@
         {
             "video": 4,
             "start": 1208,
-            "text": "Und zwar einfach darum, weil das ist relativ schwierig eine Geschichte in einer Geschichte in einer Geschichte drinnen … also relativ verwinkelt ineinan- der übergehend."
+            "text": "Und zwar einfach darum, weil das ist relativ schwierig eine Geschichte in einer Geschichte in einer Geschichte drinnen … also relativ verwinkelt ineinander übergehend."
         },
         {
             "video": 4,
             "start": 1218,
-            "text": "Also wenn man einfach Freude hat, wenn da vorne jemand tanzt und mir ist ja gleich, was es bedeutet. Dann kann man sich das immer anschauen. Wenn man aber genau dahinterkommen will, wo jetzt die Bezüge sind von der Geschichte vom \"Nussknacker\",",
+            "text": "Also wenn man einfach Freude hat, wenn da vorne jemand tanzt und mir ist ja gleich, was es bedeutet. Dann kann man sich das immer anschauen. Wenn man aber genau dahinter kommen will, wo jetzt die Bezüge sind von der Geschichte vom \"Nussknacker\",",
             "entities": [
                 "Nussknacker"
             ]
@@ -15586,7 +15660,7 @@
         {
             "video": 4,
             "start": 1311,
-            "text": "Dann die Ballettschule. Und damals ist die Ballettschule noch angeschlossen ge- wesen ans Zürcher Ballett, also die alte Theatertanzschule. Er hat ja sehr stark integriert, weil er selber ja eine Bubenklasse angefangen hat und die Kinder da mitmachen durften.",
+            "text": "Dann die Ballettschule. Und damals ist die Ballettschule noch angeschlossen gewesen ans Zürcher Ballett, also die alte Theatertanzschule. Er hat ja sehr stark integriert, weil er selber ja eine Bubenklasse angefangen hat und die Kinder da mitmachen durften.",
             "entities": [
                 "Bubenklasse",
                 "Zürcher"
@@ -15621,7 +15695,10 @@
         {
             "video": 4,
             "start": 1373,
-            "text": "Das ist es ja ein bisschen. Und das sind dann auch für Choreografen die Sachen, die auf jeden Fall ein Erfolg werden, und zwar ein Erfolg, das heisst, wo man dann fünfzig Vorstellungen davon zeigen kann oder noch irgendetwas."
+            "text": "Das ist es ja ein bisschen. Und das sind dann auch für Choreografen die Sachen, die auf jeden Fall ein Erfolg werden, und zwar ein Erfolg, das heisst, wo man dann fünfzig Vorstellungen davon zeigen kann oder noch irgendetwas.",
+            "entities": [
+                "Choreografen"
+            ]
         },
         {
             "video": 4,
@@ -15683,8 +15760,9 @@
         {
             "video": 4,
             "start": 1511,
-            "text": "Ich mag mich erinnern, etwas was mich total begeistert hat, das ist dem Peter Schaufuss seine \"La Sylphide\" gewesen, wir haben ja schon verschiedene \"Sylphides\" gehabt, \"La Sylphide\" VON Bour- nonville unverändert, aber selbstverständlich verschieden einstudiert.",
+            "text": "Ich mag mich erinnern, etwas was mich total begeistert hat, das ist dem Peter Schaufuss seine \"La Sylphide\" gewesen, wir haben ja schon verschiedene \"Sylphides\" gehabt, \"La Sylphide\" VON Bournonville unverändert, aber selbstverständlich verschieden einstudiert.",
             "entities": [
+                "Bournonville",
                 "Ich mag mich",
                 "La Sylphide",
                 "La Sylphide",
@@ -15730,12 +15808,12 @@
         {
             "video": 4,
             "start": 1587,
-            "text": "Sodass es eigentlich das gleiche Ballett ge- wesen ist, aber so gut in die Länge gezogen, dass man nicht das Gefühl hatte, es sei einem langweilig. Und es ist stilistisch sehr, sehr schön gewesen, aber es hat … die Leute sind nicht gekommen."
+            "text": "Sodass es eigentlich das gleiche Ballett gewesen ist, aber so gut in die Länge gezogen, dass man nicht das Gefühl hatte, es sei einem langweilig. Und es ist stilistisch sehr, sehr schön gewesen, aber es hat … die Leute sind nicht gekommen."
         },
         {
             "video": 4,
             "start": 1607,
-            "text": "I: Wie kann man das in die Länge ziehen, wenn die Musik fix ist? P: Ja, da kann man ja die Musik wiederholen. Die erste \"Giselle\", die ich gesehen habe, die hatte nicht einmal ein Dutzend Wilis gehabt. Das ist vielleicht 1962/ 1963 gewesen. Also, die erste, die in Zürich …",
+            "text": "I: Wie kann man das in die Länge ziehen, wenn die Musik fix ist?P: Ja, da kann man ja die Musik wiederholen. Die erste \"Giselle\", die ich gesehen habe, die hatte nicht einmal ein Dutzend Wilis gehabt. Das ist vielleicht 1962/ 1963 gewesen. Also, die erste, die in Zürich …",
             "entities": [
                 "Giselle",
                 "I",
@@ -15746,12 +15824,11 @@
         {
             "video": 4,
             "start": 1629,
-            "text": "I: 1963? P: Ja. Also in der Saison 1962/63. Und da gab es ja die Leute gar nicht, die das hätten tanzen können. Da ist ja der Michel de Lutry drin gewesen, gerade zwei Direktoren vor dem Papa Beriozoff dann.",
+            "text": "I: 1963?P: Ja. Also in der Saison 1962/63. Und da gab es ja die Leute gar nicht, die das hätten tanzen können. Da ist ja der Michel de Lutry drin gewesen, gerade zwei Direktoren vor dem Papa Beriozoff dann.",
             "entities": [
                 "Beriozoff",
                 "I",
-                "Michel de Lutry",
-                "P"
+                "Michel de Lutry"
             ]
         },
         {
@@ -15818,17 +15895,14 @@
         {
             "video": 4,
             "start": 1782,
-            "text": "I: Du hast ein fantastisches Gedächtnis und trotzdem hast du dir über Jahre Notizen gemacht, Daten gesammelt, Auslastungsziffern erfasst – warum bist du auf die Idee gekommen? P:",
-            "entities": [
-                "P"
-            ]
+            "text": "I: Du hast ein fantastisches Gedächtnis und trotzdem hast du dir über Jahre Notizen gemacht, Daten gesammelt, Auslastungsziffern erfasst – warum bist du auf die Idee gekommen?"
         },
         {
             "video": 4,
             "start": 1792,
-            "text": "Ich liebe so quasi Darstellungen, die ich hintereinander anschauen kann. Und dann habe ich auch einfach – also ich mache das ehrlich gesagt seit dem Spuck nicht mehr, weil sie keine Jahrbücher mehr herausgeben, und weil ich ja dann auch fast aufgehört habe zu schreiben, ich habe ja dann nach dem Spuck nur noch die Hälfte geschrieben.",
+            "text": "P: Ich liebe so quasi Darstellungen, die ich hintereinander anschauen kann. Und dann habe ich auch einfach – also ich mache das ehrlich gesagt seit dem Spuck nicht mehr, weil sie keine Jahrbücher mehr herausgeben, und weil ich ja dann auch fast aufgehört habe zu schreiben, ich habe ja dann nach dem Spuck nur noch die Hälfte geschrieben.",
             "entities": [
-                "Ich liebe",
+                "P",
                 "Spuck",
                 "Spuck"
             ]
@@ -15844,10 +15918,17 @@
         {
             "video": 4,
             "start": 1828,
-            "text": "Bei den früheren Jahrbüchern hat man eben wirklich alle Besetzungen gehabt. Und konnte das eruieren könne. Es hat mich einfach interessiert. Irgendwann habe ich mir überlegt, wie ist das denn mit dem \"Schwanensee\"? Und ich habe zum Beispiel das auch von den Werken gemacht, ich habe irgendwie so einen grossen Bogen Papier genommen und habe links das Libretto angemalt, fotokopiert und hingehängt und dann habe ich die verschiedenen Versionen, die ich gesehen hab, mit allen Änderungen und so und darum habe ich dann relativ schnell herausgehabt, was ganz neu ist, was ganz anders ist beim \"Schwanensee\" oder auch bei den Rekonstruktionen vom Mariinski Ballett.",
+            "text": "Bei den früheren Jahrbüchern hat man eben wirklich alle Besetzungen gehabt. Und konnte das eruieren könne. Es hat mich einfach interessiert. Irgendwann habe ich mir überlegt, wie ist das denn mit dem \"Schwanensee\"?",
+            "entities": [
+                "Schwanensee"
+            ]
+        },
+        {
+            "video": 4,
+            "start": 1841,
+            "text": "Und ich habe zum Beispiel das auch von den Werken gemacht, ich habe irgendwie so einen grossen Bogen Papier genommen und habe links das Libretto angemalt, fotokopiert und hingehängt und dann habe ich die verschiedenen Versionen, die ich gesehen hab, mit allen Änderungen und so und darum habe ich dann relativ schnell herausgehabt, was ganz neu ist, was ganz anders ist beim \"Schwanensee\" oder auch bei den Rekonstruktionen vom Mariinski Ballett.",
             "entities": [
                 "Mariinski Ballett",
-                "Schwanensee",
                 "Schwanensee"
             ]
         },
@@ -15862,18 +15943,18 @@
         {
             "video": 4,
             "start": 1886,
-            "text": "I: Du hast vorhin gesagt, dass der \"Nussknacker\" immer gut gelaufen ist. Wenn ich jetzt an deine Zahlen denke, 70 Prozent Auslastung, 75 Prozent, du hast es markiert auf deiner Liste. Gab es Sachen, die dich überrascht haben bei deinen Zahlen, die du nicht erwartet hättest? Oder was ist besonders gewesen …? P:",
+            "text": "I: Du hast vorhin gesagt, dass der \"Nussknacker\" immer gut gelaufen ist. Wenn ich jetzt an deine Zahlen denke, 70 Prozent Auslastung, 75 Prozent, du hast es markiert auf deiner Liste. Gab es Sachen, die dich überrascht haben bei deinen Zahlen, die du nicht erwartet hättest? Oder was ist besonders gewesen …?",
             "entities": [
-                "Nussknacker",
-                "P"
+                "Nussknacker"
             ]
         },
         {
             "video": 4,
             "start": 1905,
-            "text": "Also, ich muss sagen, wenn ich heute die Auslastungszahlen höre, dann bin ich ehrlich gesagt etwas skeptisch, weil man muss natürlich auch wissen, wie diese gerechnet sind. Als ich angefangen habe, gab es noch keine solche Auslastungszahlen, weil da hat man kurzfristig disponiert.",
+            "text": "P: Also, ich muss sagen, wenn ich heute die Auslastungszahlen höre, dann bin ich ehrlich gesagt etwas skeptisch, weil man muss natürlich auch wissen, wie diese gerechnet sind. Als ich angefangen habe, gab es noch keine solche Auslastungszahlen, weil da hat man kurzfristig disponiert.",
             "entities": [
-                "Auslastungszahlen"
+                "Auslastungszahlen",
+                "P"
             ]
         },
         {
@@ -16065,7 +16146,7 @@
             "entities": [
                 "Saint-Saëns’",
                 "Suzanne Perrottet",
-                "Wigman"
+                "Mary Wigman"
             ]
         },
         {
@@ -16075,7 +16156,7 @@
             "entities": [
                 "Ballett-Mädchen",
                 "Fertig",
-                "Wigman"
+                "Mary Wigman"
             ]
         },
         {
@@ -16083,24 +16164,22 @@
             "start": 2319,
             "text": "Das sieht man gern, dem schauen die Leute gerne zu. Währenddem die Wigman einen vielmehr herausgefordert hat. Und am Anfang ist sie nicht gut angekommen, sie hat aber sehr schnell, innerhalb von diesen zwei Jahren, hat sie dann da ein Publikum gehabt,",
             "entities": [
-                "Wigman"
+                "Mary Wigman"
             ]
         },
         {
             "video": 4,
             "start": 2335,
-            "text": "das sie dann auch beim Stadttheater, wo sie dann aufgetreten ist und das Gefühl hatte, sie sei hier angekommen. Sie hat hier etwas erreicht. I:",
-            "entities": [
-                "I"
-            ]
+            "text": "das sie dann auch beim Stadttheater, wo sie dann aufgetreten ist und das Gefühl hatte, sie sei hier angekommen. Sie hat hier etwas erreicht."
         },
         {
             "video": 4,
             "start": 2343,
-            "text": "In welchem Jahr war das? P: Das ist 1918 gewesen. Und danach ist sie zum ersten Mal auf Tournee nach Deutschland und da war es das Gleiche, in Hamburg und so weiter.",
+            "text": "I: In welchem Jahr war das?P: Das ist 1918 gewesen. Und danach ist sie zum ersten Mal auf Tournee nach Deutschland und da war es das Gleiche, in Hamburg und so weiter.",
             "entities": [
                 "Deutschland",
                 "Hamburg",
+                "I",
                 "P"
             ]
         },
@@ -16144,7 +16223,7 @@
         {
             "video": 4,
             "start": 2423,
-            "text": "I: Das Ballett Zürich ist aus dem früheren Ballett vom Stadttheater entstanden, kannst du über diese Zeit noch etwas sagen, wie der Übergang stattgefunden hat? Ist das nur formell gewesen, oder … P:",
+            "text": "I: Das Ballett Zürich ist aus dem früheren Ballett vom Stadttheater entstanden, kannst du über diese Zeit noch etwas sagen, wie der Übergang stattgefunden hat? Ist das nur formell gewesen, oder …",
             "entities": [
                 "Ballett Zürich",
                 "I"
@@ -16153,9 +16232,10 @@
         {
             "video": 4,
             "start": 2440,
-            "text": "Nein, nein, das hat sich natürlich stark verändert, also ich meine, man muss sehen, während dem Generalstreik 1918, da hat auch das gesamte Ballett mit gestreikt.",
+            "text": "P: Nein, nein, das hat sich natürlich stark verändert, also ich meine, man muss sehen, während dem Generalstreik 1918, da hat auch das gesamte Ballett mit gestreikt.",
             "entities": [
-                "Generalstreik 1918"
+                "Generalstreik 1918",
+                "P"
             ]
         },
         {
@@ -16223,16 +16303,16 @@
         {
             "video": 4,
             "start": 2599,
-            "text": "Da hat eine ein Stück aus einem Ballett, vielleicht aus der \"Puppenfee\" oder ir- gendwie eine Variation getanzt und, vielleicht auch auf Spitze und dann haben sie Tänze aus Operetten gebracht und aus Opern. Man muss sich vorstellen, sie haben noch ganz lange, z. B. in \"Così fan tutte\" gab es eine Balletteinlage und die ist immer da capo noch einmal aufgeführt worden, weil das Publikum ist hell[auf] begeistert gewesen.",
+            "text": "Da hat eine ein Stück aus einem Ballett, vielleicht aus der \"Puppenfee\" oder irgendwie eine Variation getanzt und, vielleicht auch auf Spitze und dann haben sie Tänze aus Operetten gebracht und aus Opern. Man muss sich vorstellen, sie haben noch ganz lange, z. B. in \"Così fan tutte\" gab es eine Balletteinlage und die ist immer da capo noch einmal aufgeführt worden, weil das Publikum ist hell[auf] begeistert gewesen.",
             "entities": [
                 "Così fan tutte",
-                "Variation getanzt"
+                "Variation"
             ]
         },
         {
             "video": 4,
             "start": 2624,
-            "text": "Das Publikum hat Freude gehabt am Ballett, aber nicht am Ballettabend. Nicht dann, wenn nur getanzt wird. Aber, wenn das Ballett inte- griert war in einer Oper, die wir heute vollständig ohne Ballett tanzen, dann ist das immer sehr gut angekommen."
+            "text": "Das Publikum hat Freude gehabt am Ballett, aber nicht am Ballettabend. Nicht dann, wenn nur getanzt wird. Aber, wenn das Ballett integriert war in einer Oper, die wir heute vollständig ohne Ballett tanzen, dann ist das immer sehr gut angekommen."
         },
         {
             "video": 4,
@@ -16256,16 +16336,15 @@
         {
             "video": 4,
             "start": 2687,
-            "text": "Das konnte man vielleicht fünf Mal spielen. Der erste Einschnitt war dann, als sich auch organisatorisch das Pfauenhaus vom Stadttheater getrennt hat. Dann war das nur noch Musiktheater und dann gab es kein Sprechtheater mehr. I:",
-            "entities": [
-                "I"
-            ]
+            "text": "Das konnte man vielleicht fünf Mal spielen. Der erste Einschnitt war dann, als sich auch organisatorisch das Pfauenhaus vom Stadttheater getrennt hat. Dann war das nur noch Musiktheater und dann gab es kein Sprechtheater mehr."
         },
         {
             "video": 4,
             "start": 2710,
-            "text": "Wann war das? P: 22. Und dann haben sie 23/24 experimentiert, die Suzanne Perrottet hat einmal ein Jahr lang Choreografien gemacht.",
+            "text": "I: Wann war das?P: 22. Und dann haben sie 23/24 experimentiert, die Suzanne Perrottet hat einmal ein Jahr lang Choreografien gemacht.",
             "entities": [
+                "Choreografien",
+                "I",
                 "P",
                 "Suzanne Perrottet"
             ]
@@ -16296,6 +16375,7 @@
             "text": "Das hat mit der Petersburger Klassik nicht viel zu tun gehabt. Die Grundschritte waren schon gleich. Und der hat da versucht etwas Eigenes zu machen, hat aber noch nicht viel Erfolg gehabt und auch noch nicht viel mehr Stellenprozent bekommen für sein Corps.",
             "entities": [
                 "Corps",
+                "Grundschritte",
                 "Petersburger"
             ]
         },
@@ -16310,7 +16390,7 @@
         {
             "video": 4,
             "start": 2796,
-            "text": "Aber eben, dann haben sie immer noch in der Operette und in den Opern ge- tanzt. Und dann haben sie einen grösseren Schritt gemacht, wo sie dann wirklich eine Truppe hatten, mit der sie grössere Werke aufführen konnten."
+            "text": "Aber eben, dann haben sie immer noch in der Operette und in den Opern getanzt. Und dann haben sie einen grösseren Schritt gemacht, wo sie dann wirklich eine Truppe hatten, mit der sie grössere Werke aufführen konnten."
         },
         {
             "video": 4,
@@ -16391,24 +16471,23 @@
         {
             "video": 4,
             "start": 3033,
-            "text": "Sondern, dass es immer auf das Gegenwärtige gemacht worden ist. Das andere hat man dann wieder verloren. I:",
+            "text": "Sondern, dass es immer auf das Gegenwärtige gemacht worden ist. Das andere hat man dann wieder verloren. I: Du hast den Wechsel in den dreissiger Jahren in Zürich. Ist es denn sonst in der Schweiz gewesen?",
             "entities": [
-                "I"
+                "I",
+                "Zürich",
+                "der Schweiz"
             ]
         },
         {
             "video": 4,
-            "start": 3042,
-            "text": "Du hast den Wechsel in den dreissiger Jahren in Zürich. Ist es denn sonst in der Schweiz gewesen? P: Ich glaube, in dieser Zeit, also wichtig ist gewesen, das andere erzähle ich vielleicht noch einmal später, bei den Ballettchefs, das sind Pina und Pino Mlakar gewesen.",
+            "start": 3048,
+            "text": "P: Ich glaube, in dieser Zeit, also wichtig ist gewesen, das andere erzähle ich vielleicht noch einmal später, bei den Ballettchefs, das sind Pina und Pino Mlakar gewesen.",
             "entities": [
                 "Ballettchefs",
-                "Du hast",
                 "P",
                 "Pina",
                 "Pino Mlakar",
-                "Zeit",
-                "Zürich",
-                "der Schweiz"
+                "Zeit"
             ]
         },
         {
@@ -16478,7 +16557,8 @@
             "start": 3193,
             "text": "Das ist zwar dort noch nicht aufgeschrieben gewesen, aber das haben die Laban-Schüler oder alle, die mit dem in Verbindung gekommen sind, haben das gelernt, haben das gewusst, wissen wie es funktioniert hat. Und haben so choreografiert.",
             "entities": [
-                "Laban-Schüler"
+                "Laban-Schüler",
+                "choreografiert"
             ]
         },
         {
@@ -16554,7 +16634,7 @@
         {
             "video": 4,
             "start": 3356,
-            "text": "Was sie ja schon 1928 notiert haben. Und dann haben sie aber in Basel mit der Rosalia Chladek, die dort für drei Spielzeiten gewesen ist, haben sie auch so etwas, das ist dann einfach Dalcroze und ihre eigene Weiterentwicklung gewesen.",
+            "text": "Was sie ja schon 1928notiert haben. Und dann haben sie aber in Basel mit der Rosalia Chladek, die dort für drei Spielzeiten gewesen ist, haben sie auch so etwas, das ist dann einfach Dalcroze und ihre eigene Weiterentwicklung gewesen.",
             "entities": [
                 "Basel",
                 "Basel",
@@ -16605,19 +16685,26 @@
         {
             "video": 4,
             "start": 3458,
-            "text": "Er ist in den Balletts Jooss gewesen, er ist Jude gewesen und er ist einer von den paar Juden gewesen, die der Grund dafür gewesen sind, dass der Jooss aus dem nationalsozialistischen Deutschland so schnell wie möglich gegangen ist. Der Rosen ist mit ihm, es ist eben vor allem auch sein Komponist Cohen gewesen, aber er war eben auch unter den Tänzern bekannt. Der Rosen ist mit. Und hat weitergemacht dort. Ist aber schon 34 zurück gekommen, ist Tänzer geworden in St. Gallen und hat dann als Tänzer nach Zürich herüber gewechselt und ist, wo die Mlakars, die vier Jahre da gewesen sind, also 34 bis 38, hat ER für ein Jahr die Truppe übernommen.",
+            "text": "Er ist in den Balletts Jooss gewesen, er ist Jude gewesen und er ist einer von den paar Juden gewesen, die der Grund dafür gewesen sind, dass der Jooss aus dem nationalsozialistischen Deutschland so schnell wie möglich gegangen ist. Der Rosen ist mit ihm, es ist eben vor allem auch sein Komponist Cohen gewesen, aber er war eben auch unter den Tänzern bekannt.",
             "entities": [
                 "Cohen",
                 "Der Rosen",
-                "Der Rosen",
-                "ER",
                 "Jooss",
                 "Jooss",
                 "Jude",
                 "Juden",
-                "St. Gallen",
-                "Zürich",
                 "nationalsozialistischen"
+            ]
+        },
+        {
+            "video": 4,
+            "start": 3481,
+            "text": "Der Rosen ist mit. Und hat weitergemacht dort. Ist aber schon 34 zurück gekommen, ist Tänzer geworden in St. Gallen und hat dann als Tänzer nach Zürich herüber gewechselt und ist, wo die Mlakars, die vier Jahre da gewesen sind, also 34 bis 38, hat ER für ein Jahr die Truppe übernommen.",
+            "entities": [
+                "Der Rosen",
+                "ER",
+                "St. Gallen",
+                "Zürich"
             ]
         },
         {
@@ -16633,6 +16720,7 @@
             "start": 3522,
             "text": "Aber er hat sehr beliebte Balletteinlagen gemacht, weil sie dort wo die anderen Choreografen vielleicht immer Dramatik in den Vordergrund gestellt haben, hat er das Tänzerisch-schwungvolle auch zur Geltung gebracht. Und darum haben sie seine Balletteinlagen enorm gern gehabt.",
             "entities": [
+                "Choreografen",
                 "Tänzerisch-schwungvolle"
             ]
         },
@@ -16648,7 +16736,7 @@
         {
             "video": 4,
             "start": 3556,
-            "text": "Und der hat eben die Tanzdramen eigentlich … hat immer mit denen gearbeitet und hat sehr gute Tänzer gehabt. Und während dem Krieg ist der Heinz Rosen im Theaterballett in Zürich gewesen, hat wie gesagt als zweiter Ballettmeister und selbstver- ständlich als beliebter Tänzer ….",
+            "text": "Und der hat eben die Tanzdramen eigentlich … hat immer mit denen gearbeitet und hat sehr gute Tänzer gehabt. Und während dem Krieg ist der Heinz Rosen im Theaterballett in Zürich gewesen, hat wie gesagt als zweiter Ballettmeister und selbstverständlich als beliebter Tänzer ….",
             "entities": [
                 "Heinz Rosen",
                 "Krieg",
@@ -16658,26 +16746,26 @@
         {
             "video": 4,
             "start": 3577,
-            "text": "und hat auch immer einmal bei den Ballettaben- den ein Werk gemacht von den drei Stücken, die sie aufgeführt haben. Und die Truppe hat sich auch getrennt, in die einen, die eben mehr das Dramatische, das Gestalterische, das Darstellenden, eben das Ausdruckstänzerische in den Vordergrund und die anderen, die mehr das Schwungvolle, das Spiel mit der tänzerischen Energie im Vordergrund … die haben sich mehr zum Heinz Rosen–Block zugehörig gefühlt.",
+            "text": "und hat auch immer einmal bei den Ballettabenden ein Werk gemacht von den drei Stücken, die sie aufgeführt haben. Und die Truppe hat sich auch getrennt, in die einen, die eben mehr das Dramatische, das Gestalterische, das Darstellenden, eben das Ausdruckstänzerische in den Vordergrund und die anderen, die mehr das Schwungvolle, das Spiel mit der tänzerischen Energie im Vordergrund … die haben sich mehr zum Heinz Rosen–Block zugehörig gefühlt.",
             "entities": [
                 "Ausdruckstänzerische",
-                "Ballettaben-",
+                "Ballettabenden",
                 "Heinz Rosen–Block"
             ]
         },
         {
             "video": 4,
             "start": 3612,
-            "text": "Und dann, nach dem Krieg ist der Heinz Rosen nach Basel. Und hat einen Teil von der Zürcher Truppe mitgenommen und hat dann dort wieder Sachen aufgeführt, bevor er dann Ballettchef in München geworden ist, wo er sein berühmtestes Werk gemacht hat: \"Die Dame und das Einhorn\".",
+            "text": "Und dann, nach dem Krieg ist der Heinz Rosen nach Basel. Und hat einen Teil von der Zürcher Truppe mitgenommen und hat dann dort wieder Sachen aufgeführt, bevor er dann Ballettchef inMünchen geworden ist, wo er sein berühmtestes Werk gemacht hat: \"Die Dame und das Einhorn\".",
             "entities": [
                 "Ballettchef",
                 "Basel",
                 "Basel",
                 "Die Dame und das Einhorn",
                 "Heinz Rosen",
-                "München",
                 "Zürcher Truppe",
-                "Krieg"
+                "Krieg",
+                "inMünchen"
             ]
         },
         {
@@ -16772,7 +16860,7 @@
         {
             "video": 4,
             "start": 3755,
-            "text": "Wo dann eben der die \"Giselle\" gemacht hat im Jahr 1962, hat er für die Hauptrolle …. sind alles Gäste gewesen aus dem Ausland.",
+            "text": "Wo dann eben der de lutré die \"Giselle\" gemacht hat im Jahr 1962, hat er für die Hauptrolle …. sind alles Gäste gewesen aus dem Ausland.",
             "entities": [
                 "Giselle",
                 "Jahr 1962"
@@ -16833,7 +16921,7 @@
         {
             "video": 4,
             "start": 3874,
-            "text": "Ich will nicht das Stadttheater leiten, seitdem haben wir das Opernhaus. (lacht) Und ich will das Ballett profilieren. Er hat, ich glaube, es sind zehn neue Stellen … und hat den Papa Beriozoff geholt.",
+            "text": "Ich will nicht das Stadttheater leiten, seitdem haben wir das Opernhaus. Und ich will das Ballett profilieren. Er hat, ich glaube, es sind zehn neue Stellen … und hat den Papa Beriozoff geholt.",
             "entities": [
                 "Opernhaus"
             ]
@@ -16844,6 +16932,7 @@
             "text": "Nicholas Beriozoff. Und ich habe den Papa Beriozoff mal gefragt, was ist denn das Erfolgsgeheimnis des Zürcher Balletts, vorher haben sie immer getanzt und es sind immer interessante Vorstellungen gewesen, aber dann ist eigentlich der Beginn gewesen von einem Repertoire, das weit über eigene Choreografien vom Ballettmeister hinausgeht.",
             "entities": [
                 "Beriozoff",
+                "Choreografien",
                 "Nicholas Beriozoff",
                 "Zürcher Balletts"
             ]
@@ -16851,7 +16940,11 @@
         {
             "video": 4,
             "start": 3914,
-            "text": "Wo man eben auch Gastchoreografen hat, nicht nur einzelne Gastspiele, sondern Gastchoreografen. Und wo man auch traditionelle Sachen auf ganz verschiedene Art aufführt, also da ist eigentlich der Beginn vom Theaterballett, wie wir das dann haben."
+            "text": "Wo man eben auch Gastchoreografen hat, nicht nur einzelne Gastspiele, sondern Gastchoreografen. Und wo man auch traditionelle Sachen auf ganz verschiedene Art aufführt, also da ist eigentlich der Beginn vom Theaterballett, wie wir das dann haben.",
+            "entities": [
+                "Gastchoreografen",
+                "Gastchoreografen"
+            ]
         },
         {
             "video": 4,
@@ -16972,19 +17065,19 @@
         {
             "video": 4,
             "start": 4152,
-            "text": "I: Hat da auch in der Politik in Zürich ein Wechsel stattgefunden, dass man mehr Finanzen dem Ballett gegeben hat, dass es Leute aufstocken konnte? P:",
+            "text": "I: Hat da auch in der Politik in Zürich ein Wechsel stattgefunden, dass man mehr Finanzen dem Ballett gegeben hat, dass es Leute aufstocken konnte?",
             "entities": [
                 "I",
-                "P",
                 "Zürich"
             ]
         },
         {
             "video": 4,
             "start": 4162,
-            "text": "Nein, ja. Also wie die Verhandlungen da waren, als der Juch gekommen ist, das weiss ich nicht. Aber ich sehe einfach, dass das schon beim Graf so war, dass der einfach gesagt hat, er hat den Tenor James McCracken, die Altistin Sandra Warfield er hat diese Leute hierher gebracht, das sind wirklich führende Künstler gewesen, die musste man bezahlen pro Aufführung.",
+            "text": "P: Nein, ja. Also wie die Verhandlungen da waren, als der Juch gekommen ist, das weiss ich nicht. Aber ich sehe einfach, dass das schon beim Graf so war, dass der einfach gesagt hat, er hat den Tenor James McCracken, die Altistin Sandra Warfield er hat diese Leute hierher gebracht, das sind wirklich führende Künstler gewesen, die musste man bezahlen pro Aufführung.",
             "entities": [
                 "James McCracken",
+                "P",
                 "Sandra Warfield"
             ]
         },
@@ -17080,7 +17173,7 @@
         {
             "video": 4,
             "start": 4338,
-            "text": "Und dann, das mit dem Geld, das weiss ich besser von der Theatertanzschule. Weil eben, also die Theatertanz- schule, die hat einfach immer existiert und dann, wo sie den Aufschwung gehabt haben, Pina und Pino Mlakar, haben sie beschlossen, sie wollen eigentlich eine ganz eine grosse Theatertanzschule aufmachen.",
+            "text": "Und dann, das mit dem Geld, das weiss ich besser von der Theatertanzschule. Weil eben, also die Theatertanz- schule, die hat einfach immer existiert und dann, wo sie den Aufschwung gehabt haben, Pina und Pino Mlakar,haben sie beschlossen, sie wollen eigentlich eine ganz eine grosse Theatertanzschule aufmachen.",
             "entities": [
                 "Pina",
                 "Pino Mlakar"
@@ -17229,7 +17322,7 @@
         {
             "video": 4,
             "start": 4642,
-            "text": "Und da ist eben auch schon mal eine Tendenz spürbar gewesen, dass man ge- dacht hat, man müsse den Tanz unabhängiger machen, aber es ist dann nie lang- fristig durchgeführt worden. Und jetzt sind sie immer noch nicht unabhängig. Und es kommt immer darauf an, wie gut der Ballettleiter mit dem Intendanten – wie gut da die Zusammenarbeit ist.",
+            "text": "Und da ist eben auch schon mal eine Tendenz spürbar gewesen, dass man gedacht hat, man müsse den Tanz unabhängiger machen, aber es ist dann nie langfristig durchgeführt worden. Und jetzt sind sie immer noch nicht unabhängig. Und es kommt immer darauf an, wie gut der Ballettleiter mit dem Intendanten – wie gut da die Zusammenarbeit ist.",
             "entities": [
                 "Ballettleiter"
             ]
@@ -17237,7 +17330,7 @@
         {
             "video": 4,
             "start": 4672,
-            "text": "I: Die Wahl von den Tanzchefs, du hast es vorhin erwähnt, wird von Leuten ge- troffen, die eigentlich vielleicht gar nicht vom Tanz so angetan sind oder nichts davon verstehen.",
+            "text": "I: Die Wahl von den Tanzchefs, du hast es vorhin erwähnt, wird von Leuten getroffen, die eigentlich vielleicht gar nicht vom Tanz so angetan sind oder nichts davon verstehen.",
             "entities": [
                 "I",
                 "Tanzchefs"
@@ -17257,11 +17350,10 @@
         {
             "video": 4,
             "start": 4707,
-            "text": "P: Also, eben der Juch hat eindeutig – er wollte die Oper konsolidieren. Er hat dann auch in der Originalsprache, also auf Tschechisch und auf Russisch. Also, man hat immer in Originalsprache gesungen. I: Ohne Untertitel? P:",
+            "text": "P: Also, eben der Juch hat eindeutig – er wollte die Oper konsolidieren. Er hat dann auch in der Originalsprache, also auf Tschechisch und auf Russisch. Also, man hat immer in Originalsprache gesungen. I: Ohne Untertitel?",
             "entities": [
                 "I",
                 "Juch",
-                "P",
                 "P",
                 "Russisch",
                 "Tschechisch"
@@ -17270,7 +17362,10 @@
         {
             "video": 4,
             "start": 4722,
-            "text": "OHNE Untertitel, ja! Man hat vom Opernpublikum erwartet, dass sie entweder das Programm lesen oder das Libretto schon dabeihaben. Aber das ist dann nicht mehr anders gegangen, vor allem auch, weil man dann internationale Sänger … man hat ja dann neben dem Ensemble verschiedene Leute hergeholt, man hat einfach den Wagner herholen müssen. Es war dann einfach internationaler vernetzt."
+            "text": "P: OHNE Untertitel, ja! Man hat vom Opernpublikum erwartet, dass sie entweder das Programm lesen oder das Libretto schon dabeihaben. Aber das ist dann nicht mehr anders gegangen, vor allem auch, weil man dann internationale Sänger … man hat ja dann neben dem Ensemble verschiedene Leute hergeholt, man hat einfach den Wagner herholen müssen. Es war dann einfach internationaler vernetzt.",
+            "entities": [
+                "P"
+            ]
         },
         {
             "video": 4,
@@ -17330,7 +17425,7 @@
         {
             "video": 4,
             "start": 4896,
-            "text": "Dann war man wieder in diesem Schema, nicht mehr in dem, wo man mit einzel- nen Werken so erfolgreich war. ER hat aber die Klassiker überhaupt nicht vernachlässigt, wir haben drei Männer gehabt, als der Nurejew hier in Zürich inszeniert hat. Mit Gasttänzern.",
+            "text": "Dann war man wieder in diesem Schema, nicht mehr in dem, wo man mit einzelnen Werken so erfolgreich war. ER hat aber die Klassiker überhaupt nicht vernachlässigt, wir haben drei Männer gehabt, als der Nurejew hier in Zürich inszeniert hat. Mit Gasttänzern.",
             "entities": [
                 "ER",
                 "Gasttänzern",
@@ -17429,11 +17524,12 @@
         {
             "video": 4,
             "start": 5084,
-            "text": "Und dann kommt DER Theaterdirektor, der selber zugegeben hat in einem Interview, dass er sich GEIRRT hat, wieder mal im Ballettmeister. (lacht)… I: Wer? P: Und hat die richtig … Der Drese.",
+            "text": "Und dann kommt DER Theaterdirektor, der selber zugegeben hat in einem Interview, dass er sich GEIRRT hat, wieder mal im Ballettmeister. I: Wer? P: Und hat die richtig … Der Drese.",
             "entities": [
                 "DER",
                 "Drese",
                 "GEIRRT",
+                "I",
                 "P"
             ]
         },
@@ -17535,14 +17631,22 @@
         {
             "video": 4,
             "start": 5246,
-            "text": "Das sind alles Werke aus dem zwanzigsten Jahrhundert, die eigentlich jeder kennen sollte, wenn … in der Musik würde man die Werke kennen und beim Tanz wird man wahrscheinlich … wenn eben wenig Videos hat …– man hat Videos, aber sie sind weniger populär. Und \"Les Biches\" gibt es glaube ich, offiziell gar nicht. Aber \"La fille mal gardée\", vom ersten gibt es in verschiedenen Versionen. Und trotzdem, dann ist ihm (Drese) das aber irgendwie ziemlich schnell verleidet und er hat dann nach drei Jahren Pat Neary geholt.",
+            "text": "Das sind alles Werke aus dem zwanzigsten Jahrhundert, die eigentlich jeder kennen sollte, wenn … in der Musik würde man die Werke kennen und beim Tanz wird man wahrscheinlich … wenn eben wenig Videos hat …– man hat Videos, aber sie sind weniger populär.",
             "entities": [
+                "Videos",
+                "Videos"
+            ]
+        },
+        {
+            "video": 4,
+            "start": 5265,
+            "text": "Und \"Les Biches\" gibt es glaube ich, offiziell gar nicht. Aber \"La fille mal gardée\", vom Ashton gibt es in verschiedenen Versionen. Und trotzdem, dann ist ihm (Drese) das aber irgendwie ziemlich schnell verleidet und er hat dann nach drei Jahren Pat Neary geholt.",
+            "entities": [
+                "Ashton",
                 "Drese",
                 "La fille mal gardée",
                 "Les Biches",
-                "Pat Neary",
-                "Videos",
-                "Videos"
+                "Pat Neary"
             ]
         },
         {
@@ -17558,19 +17662,20 @@
         {
             "video": 4,
             "start": 5292,
-            "text": "Und der Drese hat immer gehofft, der Balanchine mache einmal eine Uraufführung von einem Werk von ihm in Zürich. Dazu ist es aber nicht mehr gekommen, weil Pat Neary hat natürlich zunächst erstmal einen Haufen Sachen einstudiert. Der Balanchine ist immer ge- kommen, daran magst du dich vielleicht auch erinnern (an die Interviewerin gerichtet), für Tanzproben, hat man ihn immer noch gesehen.",
+            "text": "Und der Drese hat immer gehofft, der Balanchine mache einmal eine Uraufführung von einem Werk von ihm in Zürich. Dazu ist es aber nicht mehr gekommen, weil Pat Neary hat natürlich zunächst erstmal einen Haufen Sachen einstudiert. Der Balanchine ist immer gekommen, daran magst du dich vielleicht auch erinnern, für Tanzproben, hat man ihn immer noch gesehen.",
             "entities": [
                 "Balanchine",
                 "Balanchine",
                 "Drese",
                 "Pat Neary",
+                "Tanzproben",
                 "Zürich"
             ]
         },
         {
             "video": 4,
             "start": 5318,
-            "text": "Und später dann ist das Opernhaus umgebaut worden. Sie,die Pat Neary hat überall getanzt. Im Theater 11, im Hallenstadion ja nicht, da haben sie die grossen Opernaufführungen gehabt, aber auf der Kongress hausbühne. Und so weiter. Dort haben sie wunderschöne Ballettabende gehabt, aber mit reduzierter Besetzung, das heisst, sie haben viele Stellen gekürzt, sie haben auch viel weniger Aufführungsmöglichkeiten gehabt.",
+            "text": "Und später dann ist das Opernhaus umgebaut worden. Sie,die Pat Neary hat überall getanzt. Im Theater 11, im Hallenstadion ja nicht, da haben sie die grossen Opernaufführungen gehabt, aber auf der Kongresshausbühne. Und so weiter. Dort haben sie wunderschöne Ballettabende gehabt, aber mit reduzierter Besetzung, das heisst, sie haben viele Stellen gekürzt, sie haben auch viel weniger Aufführungsmöglichkeiten gehabt.",
             "entities": [
                 "Hallenstadion",
                 "Opernhaus",
@@ -17645,7 +17750,8 @@
             "entities": [
                 "SO",
                 "Stuttgart",
-                "Uwe Scholz"
+                "Uwe Scholz",
+                "choreografiert"
             ]
         },
         {
@@ -17713,6 +17819,7 @@
             "text": "Dann nachher, niemand hat ihn gekannt, er hat an ein paar Orten mal Choreografien gemacht, während der Ausbildung. I: Was ist der Grund gewesen, wenn wir zurück blenden, dass er gegangen ist? Drei Tage vor der Premiere geht man ja nicht einfach grundlos?",
             "entities": [
                 "Ausbildung",
+                "Choreografien",
                 "I"
             ]
         },
@@ -17819,7 +17926,7 @@
         {
             "video": 4,
             "start": 5851,
-            "text": "Aber auf jeden Fall, der Pereira ist dann unter Druck gewesen und hat sich dann für den Bienert entschieden. I: Machen wir eine Zäsur und dann können wir nachher weitermachen? P: Wie bitte? I: Machen wir eine Zäsur? P: Ja, können wir gut.",
+            "text": "Aber auf jeden Fall, der Pereira ist dann unter Druck gewesen und hat sich dann für den Bienert entschieden. I: Machen wir eine Zäsur und dann können wir nachher weitermachen? P: Wie bitte?I: Machen wir eine Zäsur?P: Ja, können wir gut.",
             "entities": [
                 "Bienert",
                 "I",
@@ -17840,11 +17947,10 @@
         {
             "video": 4,
             "start": 5883,
-            "text": "I: Es gab in der Schweiz eine Zeit, wo man über das Nationalballett diskutiert hat. Man wollte nicht an sieben Orten ein mittelmässiges Ballett an den offiziell etablierten Häusern, sondern man hat davon geträumt, auch wenn man sparen muss, EINE tolle, grosse Schweizer Kompanie zu haben, mit der man ins Ausland fahren kann quasi so ein Aushängeschild. Kannst du dich erinnern, wie das genau gekommen ist und vor allem nachher, warum man es dann verworfen hat? P:",
+            "text": "I: Es gab in der Schweiz eine Zeit, wo man über das Nationalballett diskutiert hat. Man wollte nicht an sieben Orten ein mittelmässiges Ballett an den offiziell etablierten Häusern, sondern man hat davon geträumt, auch wenn man sparen muss, EINE tolle, grosse Schweizer Kompanie zu haben, mit der man ins Ausland fahren kann quasi so ein Aushängeschild. Kannst du dich erinnern, wie das genau gekommen ist und vor allem nachher, warum man es dann verworfen hat?",
             "entities": [
                 "I",
                 "Kannst du dich",
-                "P",
                 "Schweiz",
                 "Schweizer"
             ]
@@ -17852,10 +17958,11 @@
         {
             "video": 4,
             "start": 5916,
-            "text": "Also, ich weiss natürlich die politischen Hintergründe nicht. Aber ich weiss nur, dass eben der Drese, dann ist das mindestens in Zürich mal zur Sprache gekommen. Er hat das auch angekündigt und er hat erstmal eine Zusammenarbeit mit der Opéra von Genf anfangen wollen, weil da war ja Pat Neary auch gewesen.",
+            "text": "P: Also, ich weiss natürlich die politischen Hintergründe nicht. Aber ich weiss nur, dass eben der Drese, dann ist das mindestens in Zürich mal zur Sprache gekommen. Er hat das auch angekündigt und er hat erstmal eine Zusammenarbeit mit der Opéra von Genf anfangen wollen, weil da war ja Pat Neary auch gewesen.",
             "entities": [
                 "Drese",
                 "Opéra von Genf",
+                "P",
                 "Pat Neary",
                 "Zürich"
             ]
@@ -17914,6 +18021,8 @@
             "text": "Und später hat man das dann auf eine andere Art gemacht, einfach eine Zusammenarbeit probiert. Das war 1991, wo man ein Programm von Schweizer Choreografen gemacht hat, die dann gereist sind. Und gleichzeitig hat es ja dann in diesem Jubiläumsjahr die Aufführung gegeben, wo der Béjart eine Choreografie gemacht haben und der Spoerli, das ist auch gereist durch die ganze Schweiz.",
             "entities": [
                 "Béjart",
+                "Choreografen",
+                "Choreografie",
                 "Schweiz",
                 "Schweizer"
             ]
@@ -17956,17 +18065,17 @@
         {
             "video": 4,
             "start": 6173,
-            "text": "I: Du hast gesagt in unserem Gespräch gesagt, ich weiss nicht bei welchem Tanzchef, dass er eine Kompanie übernommen hat, die er vorher schon hatte. Wie sieht das aus, haben Tänzerinnen und Tänzer in einer gewissen Zeit zu wenig gekonnt – also, sie sind klassisch ausgebildet gewesen und mussten plötzlich auch modern tanzen – oder war das nie ein Problem? P:",
+            "text": "I: Du hast gesagt in unserem Gespräch gesagt, ich weiss nicht bei welchem Tanzchef, dass er eine Kompanie übernommen hat, die er vorher schon hatte. Wie sieht das aus, haben Tänzerinnen und Tänzer in einer gewissen Zeit zu wenig gekonnt – also, sie sind klassisch ausgebildet gewesen und mussten plötzlich auch modern tanzen – oder war das nie ein Problem?",
             "entities": [
-                "P",
                 "Tanzchef"
             ]
         },
         {
             "video": 4,
             "start": 6198,
-            "text": "Nein, ich glaube, das war kein Problem. Es war eher ein Problem, wo man eben von den zeitgenössischen Werken, wie sie ein Macke gemacht hat, und die gar nicht so ein riesigen Unterschied zu dem waren, was der Spuck macht … natürlich hat der Spuck Tänzer, die klassisch sehr, sehr viel besser tanzen, als das was damals möglich war.",
+            "text": "P: Nein, ich glaube, das war kein Problem. Es war eher ein Problem, wo man eben von den zeitgenössischen Werken, wie sie ein Macke gemacht hat, und die gar nicht so ein riesigen Unterschied zu dem waren, was der Spuck macht … natürlich hat der Spuck Tänzer, die klassisch sehr, sehr viel besser tanzen, als das was damals möglich war.",
             "entities": [
+                "P",
                 "Spuck"
             ]
         },
@@ -18000,7 +18109,10 @@
         {
             "video": 4,
             "start": 6281,
-            "text": "Wenn er auch viele Gastchoreografen engagieren KANN, dass er eben die Truppe so hat, wie er sie will, dass sie vor allem auch auf seine Sachen eingeschworen sind. Und das ist ja auch richtig."
+            "text": "Wenn er auch viele Gastchoreografen engagieren KANN, dass er eben die Truppe so hat, wie er sie will, dass sie vor allem auch auf seine Sachen eingeschworen sind. Und das ist ja auch richtig.",
+            "entities": [
+                "Gastchoreografen"
+            ]
         },
         {
             "video": 4,
@@ -18040,24 +18152,28 @@
         {
             "video": 4,
             "start": 6385,
-            "text": "I: Was ist \"Gräs\" gewesen, ich habe das nicht gesehen? P: \"Gräs\", also Gras, das ist Gras und das wächst … es sind Teile von Gras gewesen und es ging auch um Befindlichkeiten von heutigen Menschen, ich glaube, es ist sogar nur ein Duett gewesen.",
+            "text": "I: Was ist \"Gräs\" gewesen, ich habe das nicht gesehen?",
             "entities": [
-                "I",
+                "I"
+            ]
+        },
+        {
+            "video": 4,
+            "start": 6387,
+            "text": "P: \"Gräs\", also Gras, das ist Gras und das wächst … es sind Teile von Gras gewesen und es ging auch um Befindlichkeiten von heutigen Menschen, ich glaube, es ist sogar nur ein Duett gewesen.",
+            "entities": [
+                "Gräs",
                 "P"
             ]
         },
         {
             "video": 4,
             "start": 6401,
-            "text": "Und das war eine Choreografie, die der Mats Ek gemacht hat, die eben ein bestimmtes Thema, bestimmte Stimmungen, bestimmte Gefühlsbeziehungen",
+            "text": "Und das war eine Choreografie, die der Mats Ek gemacht hat, die eben ein bestimmtes Thema, bestimmte Stimmungen, bestimmte Gefühlsbeziehungen – vielleicht nicht Gefühlsbeziehungen, aber einfach Beziehungen zwischen den Menschen, wenn ihn das interessiert, das sind ja dann eigentlich für mich dann seine grössten Werke, wo er das zeigen kann.",
             "entities": [
+                "Choreografie",
                 "Mats Ek"
             ]
-        },
-        {
-            "video": 4,
-            "start": 6419,
-            "text": "– vielleicht nicht Gefühlsbeziehungen, aber einfach Beziehungen zwischen den Menschen, wenn ihn das interessiert, das sind ja dann eigentlich für mich dann seine grössten Werke, wo er das zeigen kann."
         },
         {
             "video": 4,
@@ -18122,6 +18238,7 @@
                 "Amerika",
                 "Baryshnikov",
                 "Ethan",
+                "Gastchoreografie",
                 "Twyla Tharp",
                 "Twyla Tharp"
             ]
@@ -18137,15 +18254,15 @@
         {
             "video": 4,
             "start": 6597,
-            "text": "Und dann SPÄTER haben sie es wieder aufgenommen, da hatten sie auch einen guten Tänzer und der hat es verrissen. Und das war immer noch lustig, immer noch amüsant, aber dann ist es nicht mehr die Spannung zwischen den verschiedenen Stilen,",
+            "text": "Und dann SPÄTER haben sie es wieder aufgenommen, da hatten sie auch einen guten Tänzer und der hat es verrissen. Und das war immer noch lustig, immer noch amüsant, aber dann ist es nicht mehr die Spannung zwischen den verschiedenen Stilen, zwischen denen sie einfach hin und her klicken konnten, das ist dann nicht mehr da gewesen.",
             "entities": [
                 "SPÄTER"
             ]
         },
         {
             "video": 4,
-            "start": 6616,
-            "text": "zwischen denen sie einfach hin und her klicken konnten, das ist dann nicht mehr da gewesen. Und das habe ich dann schon gedacht, das ist dann nicht mehr optimal gewesen. Aber das kann es immer geben."
+            "start": 6619,
+            "text": "Und das habe ich dann schon gedacht, das ist dann nicht mehr optimal gewesen. Aber das kann es immer geben."
         },
         {
             "video": 4,
@@ -18178,19 +18295,19 @@
         {
             "video": 4,
             "start": 6672,
-            "text": "I: Du plädierst also dafür, dass man das lernen kann, das Switchen zwischen den Stilen. Ich erinnere mich an den Prix de Lausanne, wo man angefangen hat moderne Variationen einzuführen, und die sind einfach klassisch gewesen. Das hast du gemerkt vom Körper her, von der Haltung her. Du würdest also dafür plädieren, dass man das lernen kann? P:",
+            "text": "I: Du plädierst also dafür, dass man das lernen kann, das Switchen zwischen den Stilen. Ich erinnere mich an den Prix de Lausanne, wo man angefangen hat moderne Variationen einzuführen, und die sind einfach klassisch gewesen. Das hast du gemerkt vom Körper her, von der Haltung her. Du würdest also dafür plädieren, dass man das lernen kann?",
             "entities": [
                 "Du plädierst also",
-                "P",
                 "Prix de Lausanne"
             ]
         },
         {
             "video": 4,
             "start": 6692,
-            "text": "Also, ich würde jetzt nicht allgemein sagen, über das, was man in der Freien Szene manchmal sieht, oder wo dann wieder etwas ganz ANDERES ist. Wo dann einer wirklich eine Bewegungssprache hat, die mit der Klassik gar nichts mehr zu tun hat.",
+            "text": "P: Also, ich würde jetzt nicht allgemein sagen, über das, was man in der Freien Szene manchmal sieht, oder wo dann wieder etwas ganz ANDERES ist. Wo dann einer wirklich eine Bewegungssprache hat, die mit der Klassik gar nichts mehr zu tun hat.",
             "entities": [
-                "ANDERES"
+                "ANDERES",
+                "P"
             ]
         },
         {
@@ -18217,6 +18334,7 @@
             "text": "Aber eben, wenn der Spuck oder eben der Bienert damals etwas ganz anderes macht, sowohl die Choreografen als auch die Leute haben alle einen klassischen Hintergrund. Und wenn ich zum Beispiel sehe, wie das Zürcher Ballett Goecke interpretieren kann, das ist gut, oder?",
             "entities": [
                 "Bienert",
+                "Choreografen",
                 "Goecke",
                 "Spuck",
                 "Zürcher"
@@ -18227,6 +18345,7 @@
             "start": 6780,
             "text": "Also ich meine, eben auch der Goecke kommt ja nicht aus einem absolut anti-klassischen Ding heraus, sondern das ist erstmal der Grund gewesen und dann haben sie das, jeder auf seine Art, ausgeweitet, die Choreografen.",
             "entities": [
+                "Choreografen",
                 "Goecke"
             ]
         },
@@ -18247,7 +18366,10 @@
         {
             "video": 4,
             "start": 6834,
-            "text": "\"Danse macabre\", in der Rekonstruktion, das sieht anders aus. Aber, wenn eine Choreografie Substanz hat, dann nachher übersteht sie das auch. Und das ist vielleicht besser, wenn man sie so interpretiert, als wenn man das einfach vergisst und verliert."
+            "text": "\"Danse macabre\", in der Rekonstruktion, das sieht anders aus. Aber, wenn eine Choreografie Substanz hat, dann nachher übersteht sie das auch. Und das ist vielleicht besser, wenn man sie so interpretiert, als wenn man das einfach vergisst und verliert.",
+            "entities": [
+                "Choreografie"
+            ]
         },
         {
             "video": 4,
@@ -18315,7 +18437,8 @@
             "text": "Weil, die machen nur die einfachen Übungen, aber sie müssen schon GANZ korrekt sein und sie müssen von der Haltung her und vor allem vom Rücken her, müssen sie ABSOLUT richtig sein. Die Arme werden von Anfang an einbezogen.",
             "entities": [
                 "ABSOLUT",
-                "GANZ"
+                "GANZ",
+                "Übungen"
             ]
         },
         {
@@ -18358,16 +18481,18 @@
         {
             "video": 4,
             "start": 7094,
-            "text": "Das stimmt schon bei relativ jungen Schülern, und dann, wenn die dann wirklich weitergehen, dann geht es sehr schnell bis sie dann wirklich richtig gut sind und wirklich alles stimmt. I: Und wo ist die Interpretation vom Individuum? P:",
+            "text": "Das stimmt schon bei relativ jungen Schülern, und dann, wenn die dann wirklich weitergehen, dann geht es sehr schnell bis sie dann wirklich richtig gut sind und wirklich alles stimmt. I: Und wo ist die Interpretation vom Individuum?",
             "entities": [
-                "I",
-                "P"
+                "I"
             ]
         },
         {
             "video": 4,
             "start": 7111,
-            "text": "Ich glaube, also ich würde jetzt mal sagen, dass wenn jemand Solistin wird, also einfach, was ich so gesehen ha- be, während der Proben oder so. Da wird erstmal, eben, wenn man es darauf anlegt, dass eben die Technik wirklich vollständig beherrscht wird, dann übt man das."
+            "text": "P: Ich glaube, also ich würde jetzt mal sagen, dass wenn jemand Solistin wird, also einfach, was ich so gesehen ha- be, während der Proben oder so. Da wird erstmal, eben, wenn man es darauf anlegt, dass eben die Technik wirklich vollständig beherrscht wird, dann übt man das.",
+            "entities": [
+                "P"
+            ]
         },
         {
             "video": 4,
@@ -18413,31 +18538,31 @@
         {
             "video": 4,
             "start": 7223,
-            "text": "Und wenn ich sehe – ich meine, ich habe die Proben von einem Pas de Deux gesehen, da ist der Coach von ihm da, der Coach von ihr, der beiden ihr Coach, die vielleicht einspringen müssen, wenn etwas was passiert. Und der Dirigent und der Pianist. Und dann wird da ganz genau geschaut, und deswegen ist es dann auch so exakt. Und es ist dann so exakt geprobt, dass sie nachher in der Vorstellung auf das nicht mehr achten müssen,",
+            "text": "Und wenn ich sehe – ich meine, ich habe die Proben von einem Pas de Deux gesehen, da ist der Coach von ihm da, der Coach von ihr, der beiden ihr Coach, die vielleicht einspringen müssen, wenn etwas was passiert. Und der Dirigent und der Pianist. Und dann wird da ganz genau geschaut, und deswegen ist es dann auch so exakt.",
             "entities": [
                 "Pas de Deux"
             ]
         },
         {
             "video": 4,
-            "start": 7253,
-            "text": "sondern dann können sie atmen, dann kön- nen sie darstellen, dann können sie das. Und ich glaube, die Besten lernen das dann. Da sieht man dann wahrscheinlich den Unterschied und ich muss sagen eben, mir gefällt das einfach."
+            "start": 7246,
+            "text": "Und es ist dann so exakt geprobt, dass sie nachher in der Vorstellung auf das nicht mehr achten müssen, sondern dann können sie atmen, dann können sie darstellen, dann können sie das. Und ich glaube, die Besten lernen das dann. Da sieht man dann wahrscheinlich den Unterschied und ich muss sagen eben, mir gefällt das einfach."
         },
         {
             "video": 4,
             "start": 7271,
-            "text": "I: Es ist sehr ähnlich wie in der Musik, wo du zuerst das Stück lernst anhand des Notentextes, du hast erst einen Notentext. Und NACHHER, wenn du auf der Büh- ne bist, darfst du interpretieren, also dass es nachher unterschiedlich wird, trotz einem fixierten Notentakt. P:",
+            "text": "I: Es ist sehr ähnlich wie in der Musik, wo du zuerst das Stück lernst anhand des Notentextes, du hast erst einen Notentext. Und NACHHER, wenn du auf der Bühne bist, darfst du interpretieren, also dass es nachher unterschiedlich wird, trotz einem fixierten Notentakt.",
             "entities": [
                 "I",
-                "NACHHER",
-                "P"
+                "NACHHER"
             ]
         },
         {
             "video": 4,
             "start": 7284,
-            "text": "Ja, es ist natürlich auch insofern vergleichbar, wenn eben die Klassiker, die ständig im Repertoire sind bei den Russen, die dann vielleicht eben mal ein Grigorovitsch oder ein Sergejev oder so, eben mal eine neue Fassung gemacht hat, aber sehr viel von der Substanz natürlich gelassen hat.",
+            "text": "P: Ja, es ist natürlich auch insofern vergleichbar, wenn eben die Klassiker, die ständig im Repertoire sind bei den Russen, die dann vielleicht eben mal ein Grigorovitsch oder ein Sergejev oder so, eben mal eine neue Fassung gemacht hat, aber sehr viel von der Substanz natürlich gelassen hat.",
             "entities": [
+                "P",
                 "Russen"
             ]
         },
@@ -18528,15 +18653,15 @@
             "start": 7497,
             "text": "Es ist eine Choreografie gewesen mit der Claudia Jeschke hinzugezogen …–",
             "entities": [
+                "Choreografie",
                 "Claudia Jeschke"
             ]
         },
         {
             "video": 4,
             "start": 7505,
-            "text": "P: Nein. (schüttelt den Kopf) I: Nein, es ist nicht \"Skating Rink\" gewesen. Später? Was ist es gewesen? P:",
+            "text": "P: Nein. (schüttelt den Kopf) I: Nein, es ist nicht \"Skating Rink\" gewesen. Später? Was ist es gewesen?",
             "entities": [
-                "P",
                 "P",
                 "Rink"
             ]
@@ -18544,7 +18669,10 @@
         {
             "video": 4,
             "start": 7506,
-            "text": "Also, ich glaube, man muss unterscheiden, ob man nach Notation arbeitet, ob es eine Notation gibt, oder ob man wirklich eine Rekonstruktion macht anhand von anderen Quellen. Von anderen schriftlichen Quellen, von Erinnerungen … und wir haben eigentlich beides gehabt, exemplarisch."
+            "text": "P: Also, ich glaube, man muss unterscheiden, ob man nach Notation arbeitet, ob es eine Notation gibt, oder ob man wirklich eine Rekonstruktion macht anhand von anderen Quellen. Von anderen schriftlichen Quellen, von Erinnerungen … und wir haben eigentlich beides gehabt, exemplarisch.",
+            "entities": [
+                "P"
+            ]
         },
         {
             "video": 4,
@@ -18593,6 +18721,7 @@
             "start": 7597,
             "text": "Das ist wieder ein ganz anderer Fall, da hat der Saint-Léon, der die Choreografie gemacht hat, hat die notiert in seiner eigenen Notation, er hat ein Buch herausgegeben, wie die Notation funktioniert aus dem 19. Jahrhundert.",
             "entities": [
+                "Choreografie",
                 "Saint-Léon"
             ]
         },
@@ -18610,20 +18739,13 @@
         {
             "video": 4,
             "start": 7640,
-            "text": "Und das konnten sie auch entziffern und einstudieren. Das ist hier in Zürich gelaufen und sie haben dann Workshops gegeben und haben alles erklärt. Und das ist interessant gewesen, weil bei der \"Vivandière\" hat man das Bewegungsmaterial,",
+            "text": "Und das konnten sie auch entziffern und einstudieren. Das ist hier in Zürich gelaufen und sie haben dann Workshops gegeben und haben alles erklärt. Und das ist interessant gewesen, weil bei der \"Vivandière\" hat man das Bewegungsmaterial, das der Saint-Léon benutzt hat, das noch sehr stark … im Prinzip ist es noch in der Bournonville-Technik erhalten, weil sie das nicht abgeändert haben.",
             "entities": [
                 "Bewegungsmaterial",
+                "Bournonville-Technik",
+                "Saint-Léon",
                 "Vivandière",
                 "Zürich"
-            ]
-        },
-        {
-            "video": 4,
-            "start": 7658,
-            "text": "das der Saint-Léon benutzt hat, das noch sehr stark … im Prinzip ist es noch in der Bournonville-Technik erhalten, weil sie das nicht abgeändert haben.",
-            "entities": [
-                "Bournonville-Technik",
-                "Saint-Léon"
             ]
         },
         {
@@ -18718,7 +18840,7 @@
         {
             "video": 4,
             "start": 7859,
-            "text": "I: Auf welche Art? P: Er wird mehr balletig, wenn man es so sagen will. Und zwar vor allem bei den Russen.",
+            "text": "I: Auf welche Art?P: Er wird mehr balletig, wenn man es so sagen will. Und zwar vor allem bei den Russen.",
             "entities": [
                 "I",
                 "P",
@@ -18794,13 +18916,13 @@
                 "Börlin",
                 "Börlin",
                 "Suédoise",
-                "Wigman"
+                "Mary Wigman"
             ]
         },
         {
             "video": 4,
             "start": 8002,
-            "text": "Und gleichzeitig ist er eigentlich von Fokine beeinflusst, Fokine war ja zwischendrin einmal eine Zeit- lang Ballettchef in Schweden. Auf jeden Fall ist das eigentlich eine ganz interes- sante Kombination. Und sie haben das hier mit dem Zürcher Ballett das erste Mal getanzt.",
+            "text": "Und gleichzeitig ist er eigentlich von Fokine beeinflusst, Fokine war ja zwischendrin einmal eine Zeit- lang Ballettchef in Schweden. Auf jeden Fall ist das eigentlich eine ganz interessante Kombination. Und sie haben das hier mit dem Zürcher Ballett das erste Mal getanzt.",
             "entities": [
                 "Ballettchef",
                 "Fokine",
@@ -18897,20 +19019,22 @@
         {
             "video": 4,
             "start": 8184,
-            "text": "Weil das ist ja das erste Beispiel gewesen, das der Stepanov gemacht hat als Beispiel, das ist ja von dem Jardin animé vom \"Corsaire\". Und das ist heute noch ein Wunder, wenn man da Bolschoi-Aufnahmen anschaut. I: Könntest du das noch erklären, was heisst \"genau\"? P: Einfach sehr präzise.",
+            "text": "Weil das ist ja das erste Beispiel gewesen, das der Stepanov gemacht hat als Beispiel, das ist ja von dem Jardin animé vom \"Corsaire\". Und das ist heute noch ein Wunder, wenn man da Bolschoi-Aufnahmen anschaut. I: Könntest du das noch erklären, was heisst \"genau\"?",
             "entities": [
                 "Corsaire",
                 "I",
                 "Jardin animé",
-                "P",
                 "Stepanov"
             ]
         },
         {
             "video": 4,
-            "start": 8202,
-            "text": "Die Notation vom Stepanov, die ist eigentlich anatomisch. Es geht um den Körper. Und da wird ganz genau gezeigt, und zwar ganz differenziert, WIE man das pas de basque macht oder WO man in einer Pirouette den Fuss anlegt.",
+            "start": 8200,
+            "text": "P: Einfach sehr präzise. Die Notation vom Stepanov, die ist eigentlich anatomisch. Es geht um den Körper. Und da wird ganz genau gezeigt, und zwar ganz differenziert, WIE man das pas de basque macht oder WO man in einer Pirouette den Fuss anlegt.",
             "entities": [
+                "Einfach",
+                "P",
+                "Stepanov",
                 "WIE",
                 "WO"
             ]
@@ -18923,9 +19047,8 @@
         {
             "video": 4,
             "start": 8238,
-            "text": "Aber im \"Schwanensee\" hat man gesehen, sehr viel, dass man den Fuss überall anlegen kann und in der Stepanow-Notation ist der Winkel zwischen dem Gelenk und da, wo das Bein ist, ganz genau angegeben. I:",
+            "text": "Aber im \"Schwanensee\" hat man gesehen, sehr viel, dass man den Fuss überall anlegen kann und in der Stepanow-Notation ist der Winkel zwischen dem Gelenk und da, wo das Bein ist, ganz genau angegeben.",
             "entities": [
-                "I",
                 "Schwanensee",
                 "Stepanow-Notation"
             ]
@@ -18933,17 +19056,18 @@
         {
             "video": 4,
             "start": 8257,
-            "text": "Ist das aus ästhetischen Gründen oder aus funktionellen Gründen? P:",
+            "text": "I: Ist das aus ästhetischen Gründen oder aus funktionellen Gründen?",
             "entities": [
-                "P"
+                "I"
             ]
         },
         {
             "video": 4,
             "start": 8261,
-            "text": "Ich glaube, es ist einfach so, wie man früher getanzt hat. Es ist einfach, es ist ein anderer Stil, es ist nicht der Waganowa-Stil, sondern es ist so, wie man zu der Zeit … am ehesten hat man es bei Cecchetti und bei Legat, die damalige Technik … die haben ja noch unterrichtet.",
+            "text": "P: Ich glaube, es ist einfach so, wie man früher getanzt hat. Es ist einfach, es ist ein anderer Stil, es ist nicht der Waganowa-Stil, sondern es ist so, wie man zu der Zeit … am ehesten hat man es bei Cecchetti und bei Legat, die damalige Technik … die haben ja noch unterrichtet.",
             "entities": [
-                "Cecchetti"
+                "Cecchetti",
+                "P"
             ]
         },
         {
@@ -19030,7 +19154,7 @@
         {
             "video": 4,
             "start": 8426,
-            "text": "Das ist wahnsinnig schwierig, wenn man fünf Pirouetten auf der Spitze machen kann und plötzlich eine einfache Pirouette mit einem harten Spitzenschuh auf so einer tiefen Halbspitze machen muss. I: Was ist die Wirkung von dieser … – P:",
+            "text": "Das ist wahnsinnig schwierig, wenn man fünf Pirouetten auf der Spitze machen kann und plötzlich eine einfache Pirouette mit einem harten Spitzenschuh auf so einer tiefen Halbspitze machen muss. I: Was ist die Wirkung von dieser … –",
             "entities": [
                 "Halbspitze",
                 "I",
@@ -19040,9 +19164,10 @@
         {
             "video": 4,
             "start": 8443,
-            "text": "Es ist einfach etwas Anderes und es ist auch eine Bereicherung. Weil, wenn ich zum Beispiel eine ruhige Person zeige und die macht eine einfache oder eine doppelte Pirouette, wie man sie machen sollte bei \"Dornröschen\" oder auch im \"Schwanensee\", gewöhnlich. Kaum langsame Drehungen und so weiter.",
+            "text": "P: Es ist einfach etwas Anderes und es ist auch eine Bereicherung. Weil, wenn ich zum Beispiel eine ruhige Person zeige und die macht eine einfache oder eine doppelte Pirouette, wie man sie machen sollte bei \"Dornröschen\" oder auch im \"Schwanensee\", gewöhnlich. Kaum langsame Drehungen und so weiter.",
             "entities": [
                 "Dornröschen",
+                "P",
                 "Schwanensee"
             ]
         },
@@ -19090,6 +19215,7 @@
             "start": 8549,
             "text": "Etwas streicht, dort eine Pantomime durch Tanz ersetzt oder so. Warum darf es nicht einen \"Schwanensee\" geben, der die Choreografie von der Uraufführung, eben die von Petipa-Iwanow möglichst nah kommt. Und das ist das, was er ge- macht hat. Und mich fasziniert das, weil ich bin auch Historikerin, auch von der Literaturgeschichte und mich interessiert immer auch, dass ich in die Vergangenheit zurückgehe.",
             "entities": [
+                "Choreografie",
                 "Petipa-Iwanow",
                 "Schwanensee"
             ]
@@ -19171,7 +19297,10 @@
         {
             "video": 4,
             "start": 8718,
-            "text": "Und wo man sagen kann: \"Nein, es gibt nicht falsch und richtig, sondern es gibt die Möglichkeit und die Möglichkeit und ich kann etwas auswählen.\" Und dann ist es klar, bei diesen Notationen, da fehlt natürlich immer auch etwas. Das ist ja nicht vollständig. Und die Notationen sind ja auch gebraucht worden und dann gibt es eine neue Variation und dann muss man auswählen,"
+            "text": "Und wo man sagen kann: \"Nein, es gibt nicht falsch und richtig, sondern es gibt die Möglichkeit und die Möglichkeit und ich kann etwas auswählen.\" Und dann ist es klar, bei diesen Notationen, da fehlt natürlich immer auch etwas. Das ist ja nicht vollständig. Und die Notationen sind ja auch gebraucht worden und dann gibt es eine neue Variation und dann muss man auswählen,",
+            "entities": [
+                "Variation"
+            ]
         },
         {
             "video": 4,
@@ -19226,57 +19355,56 @@
         {
             "video": 4,
             "start": 8833,
-            "text": "I: Also es geht auch um Plausibilität, wenn man so etwas macht? P:",
+            "text": "I: Also es geht auch um Plausibilität, wenn man so etwas macht?",
             "entities": [
-                "I",
-                "P"
+                "I"
             ]
         },
         {
             "video": 4,
             "start": 8836,
-            "text": "Ja, ja, das ist klar. Das ist klar. Genau. Ich meine, ich sage nicht, dass wir das jetzt ständig hier machen müssen. Ich glaube, das liegt der Truppe auch nicht so stark. Ich fand es eine schöne Bereicherung und ich habe auf jeden Fall bei den Kostümen gehört, dass sie noch nicht schon alles weggegeben haben. Es ist, glaube ich, zum Teil zurück gekommen von Mailand.",
+            "text": "P: Ja, ja, das ist klar. Das ist klar. Genau. Ich meine, ich sage nicht, dass wir das jetzt ständig hier machen müssen. Ich glaube, das liegt der Truppe auch nicht so stark. Ich fand es eine schöne Bereicherung und ich habe auf jeden Fall bei den Kostümen gehört, dass sie noch nicht schon alles weggegeben haben. Es ist, glaube ich, zum Teil zurück gekommen von Mailand.",
             "entities": [
-                "Mailand"
-            ]
-        },
-        {
-            "video": 4,
-            "start": 8860,
-            "text": "I: Was mich noch interessiert, du hast vorhin gesagt gehabt, von der Oral History mit älteren Tänzerinnen, ehemalige, die das noch irgendwo im Körper haben, was sie mal getanzt haben. Wie verlässlich ist das? Tut sich nicht durch die Jahre, wo man eine Version nicht mehr getanzt hat, das verfälschen? P:",
-            "entities": [
-                "I",
-                "Oral History",
+                "Mailand",
                 "P"
             ]
         },
         {
             "video": 4,
-            "start": 8884,
-            "text": "Ich bin keine Tänzerin, ich weiss es nicht. ich weiss nur, was bestimmte Leute gesagt haben. Der Roger George zum Beispiel, mit dem haben wir noch ein Interview gemacht, der hat ja praktisch alle Tänze vom Kreutzberg, hat er gekannt und auch getanzt. Und einstudiert bekommen vom Kreutzberg. Und er hat gesagt, er müsse NUR die Musik hören und er wisse es wieder.",
+            "start": 8860,
+            "text": "I: Was mich noch interessiert, du hast vorhin gesagt gehabt, von der Oral History mit älteren Tänzerinnen, ehemalige, die das noch irgendwo im Körper haben, was sie mal getanzt haben. Wie verlässlich ist das? Tut sich nicht durch die Jahre, wo man eine Version nicht mehr getanzt hat, das verfälschen?",
             "entities": [
-                "Ich bin keine Tänzerin",
+                "I",
+                "Oral History"
+            ]
+        },
+        {
+            "video": 4,
+            "start": 8884,
+            "text": "P: Ich bin keine Tänzerin, ich weiss es nicht. ich weiss nur, was bestimmte Leute gesagt haben. Der Roger George zum Beispiel, mit dem haben wir noch ein Interview gemacht, der hat ja praktisch alle Tänze vom Kreutzberg, hat er gekannt und auch getanzt. Und einstudiert bekommen vom Kreutzberg. Und er hat gesagt, er müsse NUR die Musik hören und er wisse es wieder.",
+            "entities": [
                 "Harald Kreutzberg",
                 "Harald Kreutzberg",
                 "NUR",
+                "P: Ich bin keine Tänzerin",
                 "Roger George"
             ]
         },
         {
             "video": 4,
             "start": 8917,
-            "text": "I: Also der Körper weiss es wieder? P:",
+            "text": "I: Also der Körper weiss es wieder?",
             "entities": [
-                "I",
-                "P"
+                "I"
             ]
         },
         {
             "video": 4,
             "start": 8914,
-            "text": "Der Körper weiss es wieder, WENN er die Musik hört. Dann wisse er es wieder. Aber das kann ich schwer kontrollieren, weil soviel ich weiss, ist Kreutzberg nicht irgendwie in einer Notation festgehalten.",
+            "text": "P: Der Körper weiss es wieder, WENN er die Musik hört. Dann wisse er es wieder. Aber das kann ich schwer kontrollieren, weil soviel ich weiss, ist Kreutzberg nicht irgendwie in einer Notation festgehalten.",
             "entities": [
-                "Harald Kreutzberg"
+                "Harald Kreutzberg",
+                "P"
             ]
         },
         {
@@ -19285,6 +19413,7 @@
             "text": "Wir haben das gleiche gehabt in der Bearbeitung vom Leeder-Nachlass, der die wir jetzt bei SAPA haben, du hast es gefilmt. Da haben wir ja jetzt das Etüdenprojekt von der Ann Hutchinson eigentlich und dort ist es ein interessanter Unterschied gewesen.",
             "entities": [
                 "Ann Hutchinson",
+                "Etüdenprojekt",
                 "Leeder-Nachlass",
                 "SAPA"
             ]
@@ -19308,7 +19437,8 @@
             "text": "Ich glaube, das ist wirklich … aber interessanterweise, sie haben dann eine Frau … die hat, seit sie nicht mehr beim Leeder im Unterricht gewesen ist, NIE etwas Anderes getanzt. Nie Tanz unterrichtet.",
             "entities": [
                 "Leeder",
-                "NIE"
+                "NIE",
+                "Unterricht"
             ]
         },
         {
@@ -19417,7 +19547,7 @@
         {
             "video": 4,
             "start": 9223,
-            "text": "I: Macht man das wegen dem Publikum? P: Ja. In Paris … Ja, es ist einfach so in Russland, man wird schon relativ früh eingeteilt.",
+            "text": "I: Macht man das wegen dem Publikum?P: Ja. In Paris … Ja, es ist einfach so in Russland, man wird schon relativ früh eingeteilt.",
             "entities": [
                 "I",
                 "P",
@@ -19450,7 +19580,7 @@
         {
             "video": 4,
             "start": 9287,
-            "text": "Das hat es immer gegeben. In Paris sind sie noch viel strenger, dort haben sie ja einen Wettbewerb, oder.",
+            "text": "Das hat es immer gegeben.In Paris sind sie noch viel strenger, dort haben sie ja einen Wettbewerb, oder.",
             "entities": [
                 "Paris"
             ]
@@ -19568,7 +19698,7 @@
                 "Fonteyn",
                 "Julia",
                 "Lynn Seymour",
-                "Wigman"
+                "Mary Wigman"
             ]
         },
         {
@@ -19611,17 +19741,18 @@
         {
             "video": 4,
             "start": 9573,
-            "text": "Und das hat man vor allem mit dem meisterhaften Ballett vom Spoerli gesehen, mit den \"Goldberg-Variationen\", wo der Pianist einfach einbezo- gen ist. Und das kann man ab Band machen, selbstverständlich – I: Das ist ein Sonderfall, weil er tut dort wie ein Tänzer als Solist eingestellt ist, aber wenn das ganze Orchester da ist, ist es anders. P:",
+            "text": "Und das hat man vor allem mit dem meisterhaften Ballett vom Spoerli gesehen, mit den \"Goldberg-Variationen\", wo der Pianist einfach einbezogen ist. Und das kann man ab Band machen, selbstverständlich – I: Das ist ein Sonderfall, weil er tut dort wie ein Tänzer als Solist eingestellt ist, aber wenn das ganze Orchester da ist, ist es anders.",
             "entities": [
-                "Goldberg-Variationen",
-                "P"
+                "Goldberg-Variationen"
             ]
         },
         {
             "video": 4,
             "start": 9593,
-            "text": "Das ist schon anders, aber es ist gleich nicht das gleiche, und ich habe also auch den anderen Fall, den haben wir auch gehabt in Zürich. Wo sich das Orchester durchgesetzt hat und die Choreografie dafür nicht mehr gestimmt hat.",
+            "text": "P: Das ist schon anders, aber es ist gleich nicht das gleiche, und ich habe also auch den anderen Fall, den haben wir auch gehabt in Zürich. Wo sich das Orchester durchgesetzt hat und die Choreografie dafür nicht mehr gestimmt hat.",
             "entities": [
+                "Choreografie",
+                "P",
                 "Zürich"
             ]
         },
@@ -19632,7 +19763,8 @@
             "entities": [
                 "Balanchine",
                 "Concerto Barocco",
-                "Doppelgeigenkonzert"
+                "Doppelgeigenkonzert",
+                "choreografiert"
             ]
         },
         {
@@ -19647,13 +19779,17 @@
         {
             "video": 4,
             "start": 9658,
-            "text": "was wahrscheinlich richtig ist. ABER, in der Choreografie geht es nicht, es stimmt nicht und das Orchester hat es durchgezogen und die Tänzer haben wurden unpräzise."
+            "text": "was wahrscheinlich richtig ist. ABER, in der Choreografie geht es nicht, es stimmt nicht und das Orchester hat es durchgezogen und die Tänzer haben wurden unpräzise.",
+            "entities": [
+                "Choreografie"
+            ]
         },
         {
             "video": 4,
             "start": 9671,
             "text": "Es ist schlimm gewesen. Es war WIRKLICH schade. Weil, da wäre es besser gewesen, sie hätten eine Konserve genommen, wenn das Orchester nicht bereit ist dann bei der Choreografie anzupassen.",
             "entities": [
+                "Choreografie",
                 "WIRKLICH"
             ]
         },
@@ -19665,10 +19801,9 @@
         {
             "video": 4,
             "start": 9701,
-            "text": "Und es hat früher – ich gehe immer wieder von der Schweiz weg – aber in Leningrad und dann später in Petersburg am Anfang auch noch, da hat es den Fedotov gegeben und der hat am schönsten die Tschaikowsky-Ballette dirigiert. Und wenn er nicht … – I: P:",
+            "text": "Und es hat früher – ich gehe immer wieder von der Schweiz weg – aber in Leningrad und dann später in Petersburg am Anfang auch noch, da hat es den Fedotov gegeben und der hat am schönsten die Tschaikowsky-Ballette dirigiert. Und wenn er nicht … –",
             "entities": [
                 "Leningrad",
-                "P",
                 "Petersburg",
                 "Tschaikowsky-Ballette",
                 "der Schweiz"
@@ -19677,9 +19812,10 @@
         {
             "video": 4,
             "start": 9722,
-            "text": "Ja, Fjodor. Da hat man überhaupt nicht mehr fragen müssen, ob man ein Orchester wollte oder nicht, weil ich konnte sogar die Augen zumachen, es ist einfach – er hat daran geglaubt, die Musiker haben schön gespielt, sie haben es gross besetzt, mit besonders vielen Celli.",
+            "text": "P: Ja, Fjodor. Da hat man überhaupt nicht mehr fragen müssen, ob man ein Orchester wollte oder nicht, weil ich konnte sogar die Augen zumachen, es ist einfach – er hat daran geglaubt, die Musiker haben schön gespielt, sie haben es gross besetzt, mit besonders vielen Celli.",
             "entities": [
-                "Fjodor"
+                "Fjodor",
+                "P:"
             ]
         },
         {
@@ -19702,6 +19838,7 @@
                 "Botvinov",
                 "Goldberg-Variationen",
                 "Spoerli",
+                "Spoerli-Choreografie",
                 "Tigran",
                 "Yen Han"
             ]
@@ -19740,15 +19877,15 @@
         {
             "video": 4,
             "start": 9863,
-            "text": "Für mich ist es ein ganz ein grosser Unterschied. Ich meine, der Béjart reist nur noch ohne Orchester. Das ist schon möglich. Das kann man machen. Aber ich finde, wenn man ein Ballett hat an einem Opernhaus, das auch die Musik pflegt, und auch sagt, sie wollen ein gutes Orchester sein, ein Orchester, das sehr verschiedene Opern spielt,",
+            "text": "Für mich ist es ein ganz ein grosser Unterschied. Ich meine, der Béjart reist nur noch ohne Orchester. Das ist schon möglich. Das kann man machen.",
             "entities": [
                 "Béjart"
             ]
         },
         {
             "video": 4,
-            "start": 9894,
-            "text": "dann fände ich es eigentlich auch gut, wenn sie AUCH fürs Ballett schön spielen. Und nicht sagen: \"Nein, 'Giselle', das ist uns zu blöd, die Musik.",
+            "start": 9880,
+            "text": "Aber ich finde, wenn man ein Ballett hat an einem Opernhaus, das auch die Musik pflegt, und auch sagt, sie wollen ein gutes Orchester sein, ein Orchester, das sehr verschiedene Opern spielt, dann fände ich es eigentlich auch gut, wenn sie AUCH fürs Ballett schön spielen. Und nicht sagen: \"Nein, 'Giselle', das ist uns zu blöd, die Musik.",
             "entities": [
                 "AUCH",
                 "Giselle"
@@ -19767,18 +19904,20 @@
         {
             "video": 4,
             "start": 9920,
-            "text": "I: Wenn du zeitgenössische Choreografien aufführst, die zum Teil die Choreografen die Partituren nicht lesen können und gern mit Collagen arbeiten, dann kann man aber nicht mit einem Orchester arbeiten. P:",
+            "text": "I: Wenn du zeitgenössische Choreografien aufführst, die zum Teil die Choreografen die Partituren nicht lesen können und gern mit Collagen arbeiten, dann kann man aber nicht mit einem Orchester arbeiten.",
             "entities": [
-                "I",
-                "P"
+                "Choreografen",
+                "Choreografien",
+                "I"
             ]
         },
         {
             "video": 4,
             "start": 9935,
-            "text": "Ja, ja, das ist klar, das ist dann einfach etwas Anderes. Ich meine, das sind andere Stile, das sind andere Möglichkeiten, da habe ich nichts dagegen. Ich meine, es ist nicht so, dass ich sagen, das MUSS man durchziehen.",
+            "text": "P: Ja, ja, das ist klar, das ist dann einfach etwas Anderes. Ich meine, das sind andere Stile, das sind andere Möglichkeiten, da habe ich nichts dagegen. Ich meine, es ist nicht so, dass ich sagen, das MUSS man durchziehen.",
             "entities": [
-                "MUSS"
+                "MUSS",
+                "P"
             ]
         },
         {
@@ -19831,6 +19970,7 @@
             "start": 10072,
             "text": "Liz King hat mal etwas ganz lustiges gemacht, die MUSIK ist fantastisch gewesen, was der mit dem Tschaikowsky gemacht hat. Die Choreografie ist aber nicht ganz so raffiniert gewesen wie die Musik.",
             "entities": [
+                "Choreografie",
                 "Liz King",
                 "MUSIK",
                 "Tschaikowsky"
@@ -19933,6 +20073,7 @@
             "text": "Es ist nicht im Bewusstsein und man kann es auch nirgendwo anschauen. Denn, wenn ich auf YouTube gehe, was finde ich vor allem? Ich finde zwanzig Mal von irgendeinem Tänzer die Variation aus dem \"Corsaire\" und dann kann ich mich dort aufgeilen und dann sagen, der ist noch höher und der ist noch schneller und der dreht noch mehr Pirouetten oder irgendetwas.",
             "entities": [
                 "Corsaire",
+                "Variation",
                 "YouTube"
             ]
         },
@@ -19947,7 +20088,10 @@
         {
             "video": 4,
             "start": 10289,
-            "text": "Es ist einfach eine reisserische Variation, es ist eine Show."
+            "text": "Es ist einfach eine reisserische Variation, es ist eine Show.",
+            "entities": [
+                "Variation"
+            ]
         },
         {
             "video": 4,
@@ -19993,7 +20137,7 @@
         {
             "video": 4,
             "start": 10374,
-            "text": "I: Denkst du nicht daran, dass das nicht ein Allgemeingut ist, dass man die Entzifferungen machen kann, wenn es in einer normalen Schrift geschrieben wäre …– P:",
+            "text": "I: Denkst du nicht daran, dass das nicht ein Allgemeingut ist, dass man die Entzifferungen machen kann, wenn es in einer normalen Schrift geschrieben wäre …–",
             "entities": [
                 "I"
             ]
@@ -20001,7 +20145,10 @@
         {
             "video": 4,
             "start": 10384,
-            "text": "Ja, aber ich meine, es ist doch auch so, das Kind, das nur lernt auf einem Xylophon mit Farben oder auf Gitarrengriffen, das lernt ganz automatisch mit Farben und Notenlinien, lernt das überhaupt einmal, wie man Musik aufschreiben kann. \"Alle meine Entchen\" und dann kann ich das aufschreiben."
+            "text": "P: Ja, aber ich meine, es ist doch auch so, das Kind, das nur lernt auf einem Xylophon mit Farben oder auf Gitarrengriffen, das lernt ganz automatisch mit Farben und Notenlinien, lernt das überhaupt einmal, wie man Musik aufschreiben kann. \"Alle meine Entchen\" und dann kann ich das aufschreiben.",
+            "entities": [
+                "P"
+            ]
         },
         {
             "video": 4,
@@ -20134,11 +20281,10 @@
         {
             "video": 4,
             "start": 10720,
-            "text": "Das ist auch ein Punkt gewesen. Natürlich ist es einfacher, so wie es die grossen Schulen, wie von der Scala, in London, überall mach …, dass Kinder ihren eigenen Teil machen und dann aber irgendwann gehen, nicht quasi einspringen müssen. Weil das ist natürlich, sowohl für den Schulbetrieb gibt das Unruhe, als auch für das andere. Ja! I: Wie ist es denn in Russland, kommen dort die Kinder woher P:",
+            "text": "Das ist auch ein Punkt gewesen. Natürlich ist es einfacher, so wie es die grossen Schulen, wie von der Scala, in London, überall machen, dass Kinder ihren eigenen Teil machen und dann aber irgendwann gehen, nicht quasi einspringen müssen. Weil das ist natürlich, sowohl für den Schulbetrieb gibt das Unruhe, als auch für das andere. Ja! I: Wie ist es denn in Russland, kommen dort die Kinder woher?",
             "entities": [
                 "Ja! I",
                 "London",
-                "P",
                 "Russland",
                 "Scala"
             ]
@@ -20146,9 +20292,10 @@
         {
             "video": 4,
             "start": 10749,
-            "text": "Sehr. Das sind ja alles die eigenen Schulen, als ich kenne ja nur die. Ich meine, so. Ich bin auch einfach schon bei den Proben gewesen und bei Aufführungen, eigene Schulaufführungen und so, in Moskau und in Petersburg.",
+            "text": "P: Sehr. Das sind ja alles die eigenen Schulen, als ich kenne ja nur die, kenne, ich bin auch einfach schon bei den Proben gewesen und bei Aufführungen, eigene Schulaufführungen und so, in Moskau und in Petersburg.",
             "entities": [
                 "Moskau",
+                "P",
                 "Petersburg"
             ]
         },
@@ -20163,7 +20310,7 @@
         {
             "video": 4,
             "start": 10775,
-            "text": "Jeder trägt mal die Schleppe von der Königin, aber sie sind im Ganzen mit drin und sie sehen. Sie haben die Schleppe und sie setzen sich dann hin. Oder im \"Corsaire\", sind die Buben, die dann die Blumenkörbe hereinstellen, das gibt es nur im Bolschoi (lacht), die anderen haben das nicht, weil sie sind ja im Paradiesgarten, im persischen.",
+            "text": "Jeder trägt mal die Schleppe von der Königin, aber sie sind im Ganzen mit drin und sie sehen. Sie haben die Schleppe und sie setzen sich dann hin. Oder im \"Corsaire\", sind die Buben, die dann die Blumenkörbe hereinstellen, das gibt es nur im Bolschoi, die anderen haben das nicht, weil sie sind ja im Paradiesgarten, im persischen.",
             "entities": [
                 "Bolschoi",
                 "Corsaire"
@@ -20186,7 +20333,7 @@
         {
             "video": 4,
             "start": 10816,
-            "text": "Und dann müssen sie es zeigen. Und dann sitzen alle kritischen Lehrer im Theater und ; aber sie können es! Einfach, weil sie da hineingewachsen sind."
+            "text": "Und dann müssen sie es zeigen. Und dann sitzen alle kritischen Lehrer im Theater und finden es raus; aber sie können es! Einfach, weil sie da hineingewachsen sind."
         },
         {
             "video": 4,
@@ -20196,9 +20343,11 @@
         {
             "video": 4,
             "start": 10844,
-            "text": "Und der \"Nussknacker\" vom Weilamann, der hat ja sehr viele Kinder drinnen. Da gibt es ja die berühmte Partitur, wo sie dann bereits solistisch mit Partnern auftreten können. Das sind dann schon die, wo man denkt, das werden dann später auch die Solisten. Das wird dann so eingeteilt. Und da ist es eigentlich schön, dass die Zusammenarbeit jetzt wieder ziemlich gut funktioniert, und zwar mit beiden Schulen.",
+            "text": "Und der \"Nussknacker\" vom Weinammann, der hat ja sehr viele Kinder drinnen. Da gibt es ja die berühmte Pas de trois, wo sie dann bereits solistisch mit Partnern auftreten können. Das sind dann schon die, wo man denkt, das werden dann später auch die Solisten. Das wird dann so eingeteilt. Und da ist es eigentlich schön, dass die Zusammenarbeit jetzt wieder ziemlich gut funktioniert, und zwar mit beiden Schulen.",
             "entities": [
-                "Nussknacker"
+                "Nussknacker",
+                "Pas de trois",
+                "Weinammann"
             ]
         },
         {
@@ -20431,10 +20580,7 @@
         {
             "video": 4,
             "start": 11384,
-            "text": "Aber sie haben immer … – I: Aber die Tourneetheater, die … (Unv.) – P: Die Tourneetheater ja, aber die sind ja nicht so schlecht. Also wir finde es vielleicht übertrieben oder so. Aber ich glaube nicht, dass sie viel Schaden anrichten.",
-            "entities": [
-                "P"
-            ]
+            "text": "Aber sie haben immer … – I: Aber die Tourneetheater, die … P: Die Tourneetheater ja, aber die sind ja nicht so schlecht. Also wir finde es vielleicht übertrieben oder so. Aber ich glaube nicht, dass sie viel Schaden anrichten."
         },
         {
             "video": 4,
@@ -20467,7 +20613,7 @@
         {
             "video": 4,
             "start": 11452,
-            "text": "P: Ja, aber vielleicht haben es die Leute sogar schön gefunden. Das ist ja dann (lacht) Ich weiss es nicht. Ich weiss nur, für die Werke, die einmal gespielt sind, die kann man immer noch besser sehen, weil das kann ja sein, dass jemand denkt, das ist aber komisch gewesen, das hat mir nicht so gefallen.",
+            "text": "P: Ja, aber vielleicht haben es die Leute sogar schön gefunden. Das ist ja dann schlimm. Ich weiss es nicht. Ich weiss nur, für die Werke, die einmal gespielt sind, die kann man immer noch besser sehen, weil das kann ja sein, dass jemand denkt, das ist aber komisch gewesen, das hat mir nicht so gefallen.",
             "entities": [
                 "P"
             ]
@@ -20530,9 +20676,8 @@
         {
             "video": 4,
             "start": 11571,
-            "text": "Oder was ich dich nicht gefragt habe, worüber du noch gerne reden möchtest? P: Ja, ich glaube (hustet und räuspert sich) K: Willst du einen Schluck Wasser? P:",
+            "text": "Oder was ich dich nicht gefragt habe, worüber du noch gerne reden möchtest?P: Ja, ich glaube K: Willst du einen Schluck Wasser?",
             "entities": [
-                "P",
                 "P",
                 "Willst du einen Schluck Wasser"
             ]
@@ -20540,27 +20685,28 @@
         {
             "video": 4,
             "start": 11584,
-            "text": "Wir haben noch wenig über den Spuck geredet. Wir haben noch wenig über das jetzige Ballett geredet …– I: Wir können das jetzt noch machen, was willst du über den Christian Spuck noch … P: Ja, es ist einfach wieder eine neue Richtung. Er hat …– I: Er ist sieben Jahre hier und wird wiederkommen, also das wird eine längere …",
+            "text": "P: Wir haben noch wenig über den Spuck geredet. Wir haben noch wenig über das jetzige Ballett geredet …– I: Wir können das jetzt noch machen, was willst du über den Christian Spuck noch … P: Ja, es ist einfach wieder eine neue Richtung. Er hat …–I: Er ist sieben Jahre hier und wird wiederkommen, also das wird eine längere …",
             "entities": [
                 "Christian Spuck",
+                "P",
                 "Spuck"
             ]
         },
         {
             "video": 4,
             "start": 11606,
-            "text": "P: Und wird nochmal sechs, sieben Jahre … 2025 glaube ich, haben sie mal im Vertrag … Ja! Eben, er hat sehr grossen Erfolg und er hat das Theater geprägt. Es ist einfach wieder eine ganz andere Art, was er macht. I: In welcher Beziehung? P:",
+            "text": "P: Und wird nochmal sechs, sieben Jahre … 2025 glaube ich, haben sie mal im Vertrag … Ja! Eben, er hat sehr grossen Erfolg und er hat das Theater geprägt. Es ist einfach wieder eine ganz andere Art, was er macht. I: In welcher Beziehung?",
             "entities": [
                 "I",
-                "P",
                 "P"
             ]
         },
         {
             "video": 4,
             "start": 11628,
-            "text": "Eben, einerseits – wir haben da hinten ja den Mantel, das zeigt schon, das ist ja kein gewöhnliches Ballettkostüm, sondern das zeigt, dass er sich mit einem Thema, das durch die Musik vermittelt wird – die \"Winterreise\" – dass er sich da mit allen Gefühlen, die im Winter mit Einsamkeit, mit Ausgesetztheit, mit Verletzlichkeit, auch mit dem Sich-Schützen im Winter.",
+            "text": "P: Eben, einerseits – wir haben da hinten ja den Mantel, das zeigt schon, das ist ja kein gewöhnliches Ballettkostüm, sondern das zeigt, dass er sich mit einem Thema, das durch die Musik vermittelt wird – die \"Winterreise\" – dass er sich da mit allen Gefühlen, die im Winter mit Einsamkeit, mit Ausgesetztheit, mit Verletzlichkeit, auch mit dem Sich-Schützen im Winter.",
             "entities": [
+                "P",
                 "Winterreise"
             ]
         },
@@ -20594,7 +20740,7 @@
         {
             "video": 4,
             "start": 11724,
-            "text": "I: Was hat dir nicht gefallen? P: Ich höre mir das \"Verdi-Requiem\" lieber nur an. I: Und Neumeier? P: Auch nicht. Nein. I: Brauchst du auch nicht? P: Nein! I: Also, die Passion …– P:",
+            "text": "I: Was hat dir nicht gefallen?P: Ich höre mir das \"Verdi-Requiem\" lieber nur an. I: Und Neumeier? P: Auch nicht. Nein. I: Brauchst du auch nicht? P: Nein! I: Also, die Passion …–",
             "entities": [
                 "I",
                 "I",
@@ -20610,7 +20756,7 @@
         {
             "video": 4,
             "start": 11736,
-            "text": "Den Neumeier …– nein, muss ich nicht. Da habe ich schon in der Musik selbst genug, aber das ist etwas ganz Persönliches, oder? I: Aber die\"Schöpfung\" vom Haydn, das ist gegangen? P:",
+            "text": "P: Den Neumeier …– nein, muss ich nicht. Da habe ich schon in der Musik selbst genug, aber das ist etwas ganz Persönliches, oder? I: Aber die\"Schöpfung\" vom Haydn, das ist gegangen?",
             "entities": [
                 "Haydn",
                 "P"
@@ -20619,8 +20765,9 @@
         {
             "video": 4,
             "start": 11746,
-            "text": "Eigentlich auch nicht ganz. Ich glaube, es wäre ohne das Bühnenbild von der Rosali nicht so ein Wahnsinnserfolg geworden. Schon weil … – jetzt sind wir schon wieder zurück in der Vergangenheit – also, der Scholz hat auch dramaturgische Fehler; also Fehler kann man sagen.",
+            "text": "P: Eigentlich auch nicht ganz. Ich glaube, es wäre ohne das Bühnenbild von der Rosali nicht so ein Wahnsinnserfolg geworden. Schon weil … – jetzt sind wir schon wieder zurück in der Vergangenheit – also, der Scholz hat auch dramaturgische Fehler; also Fehler kann man sagen.",
             "entities": [
+                "P",
                 "Scholz"
             ]
         },
@@ -20658,7 +20805,10 @@
         {
             "video": 4,
             "start": 11830,
-            "text": "Und das ist etwas, was die Leute sehr anspricht und was die Leute auch verständlich finden. Und daneben hat er immer wieder interessante Gastchoreografien."
+            "text": "Und das ist etwas, was die Leute sehr anspricht und was die Leute auch verständlich finden. Und daneben hat er immer wieder interessante Gastchoreografien.",
+            "entities": [
+                "Gastchoreografien"
+            ]
         },
         {
             "video": 4,
@@ -20674,18 +20824,19 @@
             "start": 11861,
             "text": "Und so, wie ich das erlebe, aber wie gesagt, das ist nur von aussen, ich kenne ihn ja nicht persönlich, aber wenn ich erlebe, in den Proben oder auch bei den Einführungsmatinéen, ist er einfach auch jemand, der eine Gastchoreografin, einen Gastchoreograf auch richtig betreut.",
             "entities": [
-                "Einführungsmatinéen"
+                "Einführungsmatinéen",
+                "Gastchoreografin"
             ]
         },
         {
             "video": 4,
             "start": 11880,
-            "text": "Und der auch mit seinen Tänzern ein gutes Verhältnis hat. Und das spürt man. Das teilt sich einfach mit, dass da keine Spannungen sind. Sondern dass alle wirklich mit Leib und Seele dabei sind und das überträgt sich natürlich …–"
+            "text": "Und der auch mit seinen Tänzern ein gutes Verhältnis hat. Und das spürt man. Das teilt sich einfach mit, dass da keine Spannungen sind. Sondern dass alle wirklich mit Leib und Seele dabei sind und das überträgt sich natürlich …"
         },
         {
             "video": 4,
             "start": 11896,
-            "text": "I: Eine Art wie beim Martin Schläpfer, wo es ähnlich ist …– P:",
+            "text": "I: Eine Art wie beim Martin Schläpfer, wo es ähnlich ist …–",
             "entities": [
                 "I",
                 "Martin Schläpfer"
@@ -20694,10 +20845,11 @@
         {
             "video": 4,
             "start": 11899,
-            "text": "Ja, ja. Da ist es ähnlich. Der Martin Schläpfer hat natürlich auch genau gewusst, was er will. Während dem der Goecke ja eher es vielleicht noch schwieriger hat mit sich selbst, um es mal so zu sagen.",
+            "text": "P: Ja, ja. Da ist es ähnlich. Der Martin Schläpfer hat natürlich auch genau gewusst, was er will. Während dem der Goecke ja eher es vielleicht noch schwieriger hat mit sich selbst, um es mal so zu sagen.",
             "entities": [
                 "Goecke",
-                "Martin Schläpfer"
+                "Martin Schläpfer",
+                "P"
             ]
         },
         {
@@ -20710,6 +20862,8 @@
             "start": 11923,
             "text": "Kylian haben wir schon so viele gesehen. Das haben wir schon seit der Pat Neary immer eine Choreografie vom Kylian. Da ist es vielleicht weniger wichtig, dass das kommt. Ich finde es eigentlich interessanter, wenn er neuere – beziehungs- weise nicht unbedingt neuere oder junge, aber Choreografen, die vorher nie im Repertoire gewesen sind, wenn er solche bringt.",
             "entities": [
+                "Choreografen",
+                "Choreografie",
                 "Kylian",
                 "Kylian",
                 "Pat Neary"
@@ -20726,7 +20880,7 @@
         {
             "video": 4,
             "start": 11963,
-            "text": "Ja. Das ist natürlich auch wirklich schon, dass er die Gastspiele machen kann. I: Danke Ursula. Wunderbar. P: Ich weiss nicht, wahrscheinlich kommt mir erst am Abend in den Sinn, was ich noch vergessen habe. I: Mir auch. P: Aber, vielleicht weiss es die Julia. (deutet hinter die Kamera)",
+            "text": "Ja. Das ist natürlich auch wirklich schon, dass er die Gastspiele machen kann. I: Danke Ursula. Wunderbar.P: Ich weiss nicht, wahrscheinlich kommt mir erst am Abend in den Sinn, was ich noch vergessen habe.I: Mir auch. P: Aber, vielleicht weiss es die Julia.",
             "entities": [
                 "Danke Ursula",
                 "I",
@@ -20867,7 +21021,10 @@
             "name": "Alain Bernard",
             "type": "PER",
             "wikidata": "http://www.wikidata.org/entity/Q1574103",
-            "sapa": "http://data.performing-arts.ch/a/6c42c391-55ba-4272-9619-591a5add1573"
+            "theaterlexikon": "http://tls.theaterwissenschaft.ch/wiki/Alain_Bernard",
+            "sapa": "http://data.performing-arts.ch/a/6c42c391-55ba-4272-9619-591a5add1573",
+            "dob": "30.8.1932",
+            "dod": "18.4.2012"
         },
         {
             "name": "Alain Bernhard",
@@ -20931,7 +21088,7 @@
         },
         {
             "name": "Amerikaner",
-            "type": "LOC"
+            "type": "MISC"
         },
         {
             "name": "Amerikanisches",
@@ -21029,7 +21186,7 @@
         },
         {
             "name": "Appenzeller-Kind",
-            "type": "ORG"
+            "type": "MISC"
         },
         {
             "name": "Arabesque",
@@ -21191,7 +21348,7 @@
         },
         {
             "name": "Balanchine",
-            "type": "PER"
+            "type": "MISC;PER"
         },
         {
             "name": "Balanchine-Ballettführer",
@@ -21251,8 +21408,8 @@
             "type": "MISC"
         },
         {
-            "name": "Ballettaben-",
-            "type": "LOC"
+            "name": "Ballettabenden",
+            "type": "ORG"
         },
         {
             "name": "Ballettchef",
@@ -21290,7 +21447,9 @@
             "name": "Barbara",
             "type": "PER",
             "wikidata": "http://www.wikidata.org/entity/Q1804",
-            "sapa": "http://data.performing-arts.ch/a/ada23dac-3bc1-4d77-8433-78e6b5256425"
+            "sapa": "http://data.performing-arts.ch/a/ada23dac-3bc1-4d77-8433-78e6b5256425",
+            "dob": "9.6.1930",
+            "dod": "24.11.1997"
         },
         {
             "name": "Bartók",
@@ -21302,7 +21461,9 @@
         },
         {
             "name": "Basel",
-            "type": "LOC"
+            "type": "LOC",
+            "wikidata": "http://www.wikidata.org/entity/Q78",
+            "sapa": "http://data.performing-arts.ch/p/f45b60e5-e014-4f79-93f9-156d82718ab6"
         },
         {
             "name": "Basic Food",
@@ -21375,7 +21536,9 @@
         },
         {
             "name": "Bern",
-            "type": "LOC"
+            "type": "LOC",
+            "wikidata": "http://www.wikidata.org/entity/Q70",
+            "sapa": "http://data.performing-arts.ch/p/5094b2fa-9fb3-4925-8687-79bf0707aac2"
         },
         {
             "name": "Bernd Bienert",
@@ -21383,7 +21546,7 @@
         },
         {
             "name": "Berner",
-            "type": "LOC"
+            "type": "MISC"
         },
         {
             "name": "Berner Zeitung",
@@ -21407,7 +21570,7 @@
         },
         {
             "name": "Berufstänzer",
-            "type": "MISC;PER"
+            "type": "MISC"
         },
         {
             "name": "Berührt-Sein",
@@ -21435,9 +21598,7 @@
         },
         {
             "name": "Biel",
-            "type": "LOC",
-            "wikidata": "http://www.wikidata.org/entity/Q1034",
-            "sapa": "http://data.performing-arts.ch/p/0350354b-4e66-4ba3-a250-dde379aa0a35"
+            "type": "LOC"
         },
         {
             "name": "Bienert",
@@ -21498,6 +21659,10 @@
         {
             "name": "Botvinov",
             "type": "LOC"
+        },
+        {
+            "name": "Bournonville",
+            "type": "PER"
         },
         {
             "name": "Bournonville-Ballette",
@@ -21649,12 +21814,13 @@
         },
         {
             "name": "CH",
-            "type": "LOC"
+            "type": "MISC"
         },
         {
             "name": "CH-Tanztheater",
             "type": "ORG",
             "wikidata": "http://www.wikidata.org/entity/Q29949909",
+            "theaterlexikon": "http://tls.theaterwissenschaft.ch/wiki/CH-Tanztheater,_Zürich_ZH",
             "sapa": "http://data.performing-arts.ch/a/2e85ec2d-a855-4e59-abbb-96e54c0d359e"
         },
         {
@@ -21675,8 +21841,7 @@
         },
         {
             "name": "Carnegie Hall",
-            "type": "LOC",
-            "wikidata": "http://www.wikidata.org/entity/Q200959"
+            "type": "LOC"
         },
         {
             "name": "Catana",
@@ -21692,8 +21857,7 @@
         },
         {
             "name": "Chaplin",
-            "type": "PER",
-            "wikidata": "http://www.wikidata.org/entity/Q882"
+            "type": "PER"
         },
         {
             "name": "Charaktertanz",
@@ -21701,8 +21865,7 @@
         },
         {
             "name": "Charaktertänze",
-            "type": "MISC",
-            "wikidata": "http://www.wikidata.org/entity/Q1063002"
+            "type": "LOC"
         },
         {
             "name": "Charaktertänzern",
@@ -21714,9 +21877,7 @@
         },
         {
             "name": "Chile",
-            "type": "LOC",
-            "wikidata": "http://www.wikidata.org/entity/Q23650252",
-            "sapa": "http://data.performing-arts.ch/p/143cb3d9-7e46-4595-a2d5-f3ef2230da6d"
+            "type": "LOC"
         },
         {
             "name": "Chiton",
@@ -21752,8 +21913,32 @@
             "type": "MISC"
         },
         {
+            "name": "Choreografen",
+            "type": "PROC"
+        },
+        {
+            "name": "Choreografie",
+            "type": "PROC"
+        },
+        {
             "name": "Choreografie-Wettbewerb",
-            "type": "MISC"
+            "type": "PROC"
+        },
+        {
+            "name": "Choreografien",
+            "type": "PROC"
+        },
+        {
+            "name": "Choreografiewettbewerb",
+            "type": "PROC"
+        },
+        {
+            "name": "Choreografin",
+            "type": "PROC"
+        },
+        {
+            "name": "Choreografinnen",
+            "type": "PROC"
         },
         {
             "name": "Choreutik",
@@ -21781,7 +21966,9 @@
         },
         {
             "name": "Chur",
-            "type": "LOC"
+            "type": "LOC",
+            "wikidata": "http://www.wikidata.org/entity/Q69007",
+            "sapa": "http://data.performing-arts.ch/p/c4f1ae9b-5956-47dd-a7e7-f848babe59ca"
         },
         {
             "name": "Cinderella",
@@ -21801,7 +21988,10 @@
         },
         {
             "name": "Clotilde von Derp",
-            "type": "PER"
+            "type": "PER",
+            "wikidata": "http://www.wikidata.org/entity/Q1102565",
+            "dob": "5.11.1892",
+            "dod": "11.1.1974"
         },
         {
             "name": "Cohen",
@@ -21826,7 +22016,8 @@
         },
         {
             "name": "Corps de Ballet",
-            "type": "ORG"
+            "type": "MISC",
+            "wikidata": "http://www.wikidata.org/entity/Q1206595"
         },
         {
             "name": "Corps de Ballet-Tänzer",
@@ -21842,7 +22033,8 @@
         },
         {
             "name": "Così fan tutte",
-            "type": "MISC"
+            "type": "MISC",
+            "wikidata": "http://www.wikidata.org/entity/Q207410"
         },
         {
             "name": "Couverts",
@@ -21940,9 +22132,7 @@
         },
         {
             "name": "Dalcroze-Institut",
-            "type": "ORG",
-            "wikidata": "http://www.wikidata.org/entity/Q3151752",
-            "sapa": "http://data.performing-arts.ch/a/6db0926b-dfe8-47dd-b853-829736f7510c"
+            "type": "LOC"
         },
         {
             "name": "Danke",
@@ -22020,7 +22210,8 @@
         },
         {
             "name": "Der sterbende Schwan",
-            "type": "MISC"
+            "type": "MISC",
+            "wikidata": "http://www.wikidata.org/entity/Q1334530"
         },
         {
             "name": "Descombey",
@@ -22040,9 +22231,7 @@
         },
         {
             "name": "Deutschland",
-            "type": "LOC",
-            "wikidata": "http://www.wikidata.org/entity/Q183",
-            "sapa": "http://data.performing-arts.ch/p/a7cbf121-4ac8-4cbd-af7d-4d6d25cd7efb"
+            "type": "LOC"
         },
         {
             "name": "Deutschland-Tournee",
@@ -22173,10 +22362,6 @@
             "type": "MISC"
         },
         {
-            "name": "Du hast",
-            "type": "MISC"
-        },
-        {
             "name": "Du hast \"Shortpieces",
             "type": "MISC"
         },
@@ -22239,9 +22424,7 @@
         },
         {
             "name": "Düsseldorf",
-            "type": "LOC",
-            "wikidata": "http://www.wikidata.org/entity/Q1718",
-            "sapa": "http://data.performing-arts.ch/p/f4839440-e5d4-4e89-995c-d30a1d19c985"
+            "type": "LOC"
         },
         {
             "name": "E. T. A. Hoffmann",
@@ -22313,7 +22496,7 @@
         },
         {
             "name": "Einfach",
-            "type": "MISC"
+            "type": "LOC;MISC"
         },
         {
             "name": "Einfluss-Wellen",
@@ -22413,9 +22596,7 @@
         },
         {
             "name": "Erwin Schumann",
-            "type": "PER",
-            "wikidata": "http://www.wikidata.org/entity/Q106017515",
-            "sapa": "http://data.performing-arts.ch/a/8100956b-42ed-4b2c-9d92-229f948fef51"
+            "type": "PER"
         },
         {
             "name": "Essen",
@@ -22433,7 +22614,11 @@
         },
         {
             "name": "Etüden",
-            "type": "MISC"
+            "type": "PROC"
+        },
+        {
+            "name": "Etüdenprojekt",
+            "type": "PROC"
         },
         {
             "name": "Evdokimova",
@@ -22457,8 +22642,7 @@
         },
         {
             "name": "Excelsior",
-            "type": "MISC",
-            "image": "https://upload.wikimedia.org/wikipedia/it/thumb/e/ee/Balloexcelsior.jpg/1280px-Balloexcelsior.jpg"
+            "type": "MISC"
         },
         {
             "name": "FANTASTISCH",
@@ -22551,6 +22735,7 @@
                 "Flamencos"
             ],
             "wikidata": "http://www.wikidata.org/entity/Q29935018",
+            "theaterlexikon": "http://tls.theaterwissenschaft.ch/wiki/Tanzcompagnie_Flamencos_en_route,_Baden_AG",
             "sapa": "http://data.performing-arts.ch/r/c3e92b31-8d02-461b-a0c2-fa593ff95f5e"
         },
         {
@@ -22575,7 +22760,12 @@
         },
         {
             "name": "Folkwang Hochschule",
-            "type": "ORG"
+            "type": "ORG",
+            "variations": [
+                "Folkwang Schule"
+            ],
+            "wikidata": "http://www.wikidata.org/entity/Q521612",
+            "image": "https://media.performing-arts.ch/iiif/image/1027-5-11-41/full/max/0/color.jpg"
         },
         {
             "name": "Folkwang Schule",
@@ -22603,7 +22793,7 @@
         },
         {
             "name": "Franken",
-            "type": "LOC"
+            "type": "MISC"
         },
         {
             "name": "Frankfurt",
@@ -22619,9 +22809,7 @@
         },
         {
             "name": "Frankreich",
-            "type": "LOC",
-            "wikidata": "http://www.wikidata.org/entity/Q142",
-            "sapa": "http://data.performing-arts.ch/p/804af1fe-911d-449e-9a90-c127110acda5"
+            "type": "LOC"
         },
         {
             "name": "Frans de Waal",
@@ -22671,7 +22859,14 @@
         },
         {
             "name": "Fumi Matsuda",
-            "type": "PER"
+            "type": "PER",
+            "variations": [
+                "Fumi",
+                "Matsuda"
+            ],
+            "wikidata": "http://www.wikidata.org/entity/Q106017345",
+            "theaterlexikon": "http://tls.theaterwissenschaft.ch/wiki/Fumi_Matsuda",
+            "sapa": "http://data.performing-arts.ch/a/7fbec640-fe28-47c0-a5bc-5c48a7595066"
         },
         {
             "name": "Fumi-Stil",
@@ -22745,6 +22940,26 @@
         {
             "name": "Gar",
             "type": "PER"
+        },
+        {
+            "name": "Gast-Choreografie",
+            "type": "PROC"
+        },
+        {
+            "name": "Gastchoreografen",
+            "type": "PROC"
+        },
+        {
+            "name": "Gastchoreografie",
+            "type": "PROC"
+        },
+        {
+            "name": "Gastchoreografien",
+            "type": "PROC"
+        },
+        {
+            "name": "Gastchoreografin",
+            "type": "PROC"
         },
         {
             "name": "Gasttänzern",
@@ -22821,8 +23036,7 @@
         },
         {
             "name": "Gessnerallee",
-            "type": "ORG",
-            "sapa": "http://data.performing-arts.ch/o/3157ce75-456f-4687-ab65-97194022af0b"
+            "type": "LOC"
         },
         {
             "name": "Giessen",
@@ -22879,7 +23093,12 @@
         },
         {
             "name": "Gottfried Keller",
-            "type": "PER"
+            "type": "PER",
+            "wikidata": "http://www.wikidata.org/entity/Q122370",
+            "theaterlexikon": "http://tls.theaterwissenschaft.ch/wiki/Gottfried_Keller",
+            "sapa": "http://data.performing-arts.ch/a/843a5a6f-608c-46b9-98db-ec345a29bb6f",
+            "dob": "19.7.1819",
+            "dod": "15.7.1890"
         },
         {
             "name": "Gottfried Stutz",
@@ -22889,7 +23108,9 @@
             "name": "Graham",
             "type": "PER",
             "wikidata": "http://www.wikidata.org/entity/Q487604",
-            "sapa": "http://data.performing-arts.ch/a/13f399f4-de45-4e09-9629-71d33a8d54bd"
+            "sapa": "http://data.performing-arts.ch/a/13f399f4-de45-4e09-9629-71d33a8d54bd",
+            "dob": "11.5.1894",
+            "dod": "1.4.1991"
         },
         {
             "name": "Graham-",
@@ -22905,10 +23126,7 @@
         },
         {
             "name": "Grete Müller",
-            "type": "PER",
-            "wikidata": "http://www.wikidata.org/entity/Q94760465",
-            "sapa": "http://data.performing-arts.ch/a/be056761-7b64-4123-8774-1de9e9f9751b",
-            "image": "https://media.performing-arts.ch/iiif/image/1027-11-2-6-5/full/max/0/color.jpg"
+            "type": "PER"
         },
         {
             "name": "Griechen",
@@ -22950,7 +23168,15 @@
             "type": "MISC"
         },
         {
+            "name": "Grundschritte",
+            "type": "PROC"
+        },
+        {
             "name": "Gruppengeschehen",
+            "type": "LOC"
+        },
+        {
+            "name": "Gräs",
             "type": "LOC"
         },
         {
@@ -23031,9 +23257,7 @@
         },
         {
             "name": "Hannover",
-            "type": "LOC",
-            "wikidata": "http://www.wikidata.org/entity/Q1715",
-            "sapa": "http://data.performing-arts.ch/p/c5e46fcb-3065-4f1c-8154-cd22725248dc"
+            "type": "LOC"
         },
         {
             "name": "Hans Brandenberg",
@@ -23070,7 +23294,10 @@
                 "Kreutzberg"
             ],
             "wikidata": "http://www.wikidata.org/entity/Q99308",
+            "theaterlexikon": "http://tls.theaterwissenschaft.ch/wiki/Harald_Kreutzberg",
             "sapa": "http://data.performing-arts.ch/a/6972a58d-0645-445d-90c0-973255a478ed",
+            "dob": "11.12.1902",
+            "dod": "25.4.1968",
             "image": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Will_Burgdorf_Fotografie_Harald_Kreutzberg.jpg"
         },
         {
@@ -23151,10 +23378,7 @@
         },
         {
             "name": "Hellerau",
-            "type": "LOC",
-            "wikidata": "http://www.wikidata.org/entity/Q8920",
-            "sapa": "http://data.performing-arts.ch/p/3fee8fb5-508a-4316-af28-95ac0399d439",
-            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Festspielhaus_Hellerau_1913.png/800px-Festspielhaus_Hellerau_1913.png"
+            "type": "LOC"
         },
         {
             "name": "Henze",
@@ -23222,7 +23446,9 @@
         },
         {
             "name": "Humphrey",
-            "type": "PER"
+            "type": "PER",
+            "sapa": "http://data.performing-arts.ch/a/6847ad82-076e-443c-8c18-da7ec78633b3",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/0/09/Doris_Humphrey_%28Sep_1921%29.png"
         },
         {
             "name": "Hutchinson",
@@ -23306,14 +23532,6 @@
             "type": "PER"
         },
         {
-            "name": "Ich bin keine Tänzerin",
-            "type": "PER"
-        },
-        {
-            "name": "Ich liebe",
-            "type": "MISC"
-        },
-        {
             "name": "Ich mag mich",
             "type": "MISC"
         },
@@ -23327,11 +23545,7 @@
         },
         {
             "name": "Ikarus",
-            "type": "MISC",
-            "variations": [
-                "Ikarus."
-            ],
-            "wikidata": "http://www.wikidata.org/entity/Q34041"
+            "type": "MISC"
         },
         {
             "name": "Ikosaeder",
@@ -23363,9 +23577,7 @@
         },
         {
             "name": "Irland",
-            "type": "LOC",
-            "wikidata": "http://www.wikidata.org/entity/Q22890",
-            "sapa": "http://data.performing-arts.ch/p/3885d342-055b-45ab-abc4-58af725a33ea"
+            "type": "LOC"
         },
         {
             "name": "Isadora",
@@ -23373,7 +23585,15 @@
         },
         {
             "name": "Isadora Duncan",
-            "type": "PER"
+            "type": "PER",
+            "variations": [
+                "Duncan"
+            ],
+            "wikidata": "http://www.wikidata.org/entity/Q483512",
+            "sapa": "http://data.performing-arts.ch/a/569ad952-808e-4620-906f-8bc100f2419e",
+            "dob": "27.5.1877",
+            "dod": "14.9.1927",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Isadora_Duncan_1.jpg?uselang=de"
         },
         {
             "name": "Island",
@@ -23413,7 +23633,18 @@
         },
         {
             "name": "Jacques Dalcroze",
-            "type": "PER"
+            "type": "PER",
+            "variations": [
+                "Dalcroze...",
+                "Dalcroze",
+                "Dalcroze ja doppelt auf die Musik"
+            ],
+            "wikidata": "http://www.wikidata.org/entity/Q286062",
+            "theaterlexikon": "http://tls.theaterwissenschaft.ch/wiki/Émile_Jaques-Dalcroze",
+            "sapa": "http://data.performing-arts.ch/a/6db0926b-dfe8-47dd-b853-829736f7510c",
+            "dob": "6.7.1865",
+            "dod": "1.7.1950",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/1/19/Emile_Jaques_Dalcroze.jpg"
         },
         {
             "name": "Jahr 1919",
@@ -23480,8 +23711,7 @@
         },
         {
             "name": "Jean Cébron",
-            "type": "PER",
-            "wikidata": "http://www.wikidata.org/entity/Q3171505"
+            "type": "PER"
         },
         {
             "name": "Jean Nouvel",
@@ -23493,12 +23723,7 @@
         },
         {
             "name": "Jean-Pierre Pastori",
-            "type": "PER",
-            "variations": [
-                "Jean-Pierre"
-            ],
-            "wikidata": "http://www.wikidata.org/entity/Q3169628",
-            "sapa": "http://data.performing-arts.ch/a/a5b8a4a1-96e3-4bcb-9617-6c95111e6a86"
+            "type": "PER"
         },
         {
             "name": "Jedenfalls Ursula",
@@ -23582,8 +23807,7 @@
         },
         {
             "name": "Jooss-Tänzer",
-            "type": "MISC",
-            "image": "https://media.performing-arts.ch/iiif/image/1027-9-4-2-12/full/max/0/color.jpg"
+            "type": "MISC"
         },
         {
             "name": "Jooss-Werke",
@@ -23629,7 +23853,9 @@
         {
             "name": "Julia Markus",
             "type": "PER",
-            "wikidata": "http://www.wikidata.org/entity/Q52437344"
+            "wikidata": "http://www.wikidata.org/entity/Q52437344",
+            "dob": "24.12.1905",
+            "dod": "17.7.2002"
         },
         {
             "name": "Julia“",
@@ -23840,6 +24066,10 @@
             "type": "MISC"
         },
         {
+            "name": "Komposition",
+            "type": "PROC"
+        },
+        {
             "name": "Kongo",
             "type": "LOC"
         },
@@ -23907,12 +24137,7 @@
         },
         {
             "name": "Kunsthaus",
-            "type": "LOC",
-            "variations": [
-                "Kunsthaus Stunden"
-            ],
-            "wikidata": "http://www.wikidata.org/entity/Q685038",
-            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Kunsthaus_Zürich.jpg/1280px-Kunsthaus_Zürich.jpg"
+            "type": "LOC"
         },
         {
             "name": "Kunsthaus Heimplatz",
@@ -23961,7 +24186,9 @@
         },
         {
             "name": "Köln",
-            "type": "LOC"
+            "type": "LOC",
+            "wikidata": "http://www.wikidata.org/entity/Q365",
+            "sapa": "http://data.performing-arts.ch/p/5860ce58-a53f-46f7-b275-3b9b8a95670f"
         },
         {
             "name": "Königsfelder Festspielen",
@@ -24033,12 +24260,7 @@
         },
         {
             "name": "Laban-Schüler",
-            "type": "MISC",
-            "variations": [
-                "Laban-Leute",
-                "Laban-Leuten"
-            ],
-            "image": "https://media.performing-arts.ch/iiif/image/1027-5-10-89/full/max/0/color.jpg"
+            "type": "MISC"
         },
         {
             "name": "Laban-Spektakel",
@@ -24046,10 +24268,7 @@
         },
         {
             "name": "Laban-Tänzerinnen",
-            "type": "MISC",
-            "variations": [
-                "Laban-Frauen"
-            ]
+            "type": "LOC"
         },
         {
             "name": "Labanotation",
@@ -24331,13 +24550,14 @@
         },
         {
             "name": "Maguy Marin",
-            "type": "MISC"
+            "type": "PER",
+            "wikidata": "http://www.wikidata.org/entity/Q445870",
+            "sapa": "http://data.performing-arts.ch/a/83c45591-4872-4b27-a6f4-18b48bbab45f",
+            "dob": "2.6.1951"
         },
         {
             "name": "Mailand",
-            "type": "LOC",
-            "wikidata": "http://www.wikidata.org/entity/Q490",
-            "sapa": "http://data.performing-arts.ch/p/0a47325e-b6c4-4462-ac0a-23390675e396"
+            "type": "LOC"
         },
         {
             "name": "Mainz",
@@ -24386,7 +24606,9 @@
             "name": "Mann",
             "type": "PER",
             "wikidata": "http://www.wikidata.org/entity/Q37030",
-            "sapa": "http://data.performing-arts.ch/a/af90230a-0dd4-47aa-a5d3-3a88e220d0f6"
+            "sapa": "http://data.performing-arts.ch/a/af90230a-0dd4-47aa-a5d3-3a88e220d0f6",
+            "dob": "6.6.1875",
+            "dod": "12.8.1955"
         },
         {
             "name": "Mara Jovanovits",
@@ -24402,9 +24624,7 @@
         },
         {
             "name": "Margit Huber",
-            "type": "PER",
-            "wikidata": "http://www.wikidata.org/entity/Q95201297",
-            "image": "https://media.performing-arts.ch/iiif/image/1027-6-8-31-20/full/max/0/color.jpg"
+            "type": "PER"
         },
         {
             "name": "Margot Fonteyn",
@@ -24416,13 +24636,15 @@
         },
         {
             "name": "Marianne Forster",
-            "type": "PER"
+            "type": "PER",
+            "wikidata": "http://www.wikidata.org/entity/Q94743727",
+            "sapa": "http://data.performing-arts.ch/a/48f38825-dfb7-4c36-9c4f-a541abd2b860",
+            "dob": "4.10.1943",
+            "dod": "25.1.2014"
         },
         {
             "name": "Marie Rambert",
-            "type": "PER",
-            "wikidata": "http://www.wikidata.org/entity/Q240736",
-            "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Ballet_Goes_To_the_Factory-_Dance_and_Entertainment_Organised_by_the_Council_For_the_Encouragement_of_Music_and_the_Arts%2C_England%2C_1943_D14039.jpg"
+            "type": "PER"
         },
         {
             "name": "Mariette von Meyenburg",
@@ -24438,11 +24660,7 @@
         },
         {
             "name": "Mariinski-Ballett",
-            "type": "ORG",
-            "variations": [
-                "Mariinski"
-            ],
-            "wikidata": "http://www.wikidata.org/entity/Q1503773"
+            "type": "ORG"
         },
         {
             "name": "Mariinski-Palais",
@@ -24494,7 +24712,16 @@
         },
         {
             "name": "Mary Wigman",
-            "type": "PER"
+            "type": "PER",
+            "variations": [
+                "Wigman"
+            ],
+            "wikidata": "http://www.wikidata.org/entity/Q77127",
+            "theaterlexikon": "http://tls.theaterwissenschaft.ch/wiki/Mary_Wigman",
+            "sapa": "http://data.performing-arts.ch/a/83fa286b-fb96-4cce-b3f8-7dcba18eaea0",
+            "dob": "13.11.1886",
+            "dod": "18.9.1973",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Mary_Wigman_by_Hugo_Erfurth_1926.jpg"
         },
         {
             "name": "Mary-Wigman-Schule",
@@ -24530,7 +24757,10 @@
             "variations": [
                 "Terpis"
             ],
-            "wikidata": "http://www.wikidata.org/entity/Q21040197"
+            "wikidata": "http://www.wikidata.org/entity/Q21040197",
+            "theaterlexikon": "http://tls.theaterwissenschaft.ch/wiki/Max_Terpis",
+            "dob": "1.3.1889",
+            "dod": "18.3.1958"
         },
         {
             "name": "Maya Kübler",
@@ -24630,6 +24860,10 @@
             "type": "PER"
         },
         {
+            "name": "Minimal-Choreografie",
+            "type": "PROC"
+        },
+        {
             "name": "Minkus",
             "type": "ORG;PER"
         },
@@ -24688,6 +24922,7 @@
                 "Monte Dada"
             ],
             "wikidata": "http://www.wikidata.org/entity/Q870148",
+            "theaterlexikon": "http://tls.theaterwissenschaft.ch/wiki/Monte_Verità,_Ascona_TI",
             "image": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Mary_Wigman.gif"
         },
         {
@@ -24805,7 +25040,7 @@
         },
         {
             "name": "Nachwuchschoreografen",
-            "type": "MISC"
+            "type": "PROC"
         },
         {
             "name": "Nadja Rothenburger",
@@ -24845,7 +25080,7 @@
         },
         {
             "name": "Nationalfonds",
-            "type": "MISC"
+            "type": "ORG"
         },
         {
             "name": "Naturhistorische Museum",
@@ -24886,9 +25121,7 @@
         },
         {
             "name": "Neumeier",
-            "type": "PER",
-            "wikidata": "http://www.wikidata.org/entity/Q246321",
-            "sapa": "http://data.performing-arts.ch/a/ec58665f-e305-4e1d-8082-c16cafe3ed63"
+            "type": "MISC;PER"
         },
         {
             "name": "Neumeiergetanzt",
@@ -24936,7 +25169,11 @@
         },
         {
             "name": "Nijinsky",
-            "type": "PER"
+            "type": "PER",
+            "wikidata": "http://www.wikidata.org/entity/Q194363",
+            "dob": "12.3.1889",
+            "dod": "8.4.1950",
+            "image": "https://media.performing-arts.ch/iiif/image/1047-1-4-21-1/full/max/0/color.jpg"
         },
         {
             "name": "Nikita Sergejewitsch Cruschtschow",
@@ -25006,7 +25243,9 @@
             "name": "Nurejew",
             "type": "PER",
             "wikidata": "http://www.wikidata.org/entity/Q84217",
-            "sapa": "http://data.performing-arts.ch/a/8258784d-3b9f-4ce5-a638-f08a634106ba"
+            "sapa": "http://data.performing-arts.ch/a/8258784d-3b9f-4ce5-a638-f08a634106ba",
+            "dob": "17.3.1938",
+            "dod": "6.1.1993"
         },
         {
             "name": "Nurejew-Fans",
@@ -25022,7 +25261,9 @@
         },
         {
             "name": "Nyon",
-            "type": "LOC"
+            "type": "LOC",
+            "wikidata": "http://www.wikidata.org/entity/Q64027",
+            "sapa": "http://data.performing-arts.ch/p/03c0a577-b769-4af7-acaf-c4223b19541f"
         },
         {
             "name": "Nördlichen Kap",
@@ -25034,7 +25275,7 @@
         },
         {
             "name": "Obergericht",
-            "type": "LOC"
+            "type": "MISC"
         },
         {
             "name": "Oberkörper",
@@ -25158,6 +25399,10 @@
             "type": "MISC"
         },
         {
+            "name": "P: Ich bin keine Tänzerin",
+            "type": "MISC"
+        },
+        {
             "name": "P: Ich lese bei denen",
             "type": "MISC"
         },
@@ -25203,7 +25448,7 @@
         },
         {
             "name": "Parenthese",
-            "type": "MISC"
+            "type": "LOC"
         },
         {
             "name": "Paris",
@@ -25211,11 +25456,12 @@
         },
         {
             "name": "Pariser",
-            "type": "LOC"
+            "type": "MISC"
         },
         {
             "name": "Pariser Oper",
-            "type": "ORG"
+            "type": "ORG",
+            "wikidata": "http://www.wikidata.org/entity/Q283339"
         },
         {
             "name": "Parzival",
@@ -25236,6 +25482,10 @@
         {
             "name": "Pas de deux",
             "type": "MISC"
+        },
+        {
+            "name": "Pas de trois",
+            "type": "LOC"
         },
         {
             "name": "Pastori",
@@ -25259,7 +25509,9 @@
         },
         {
             "name": "Pawlowa",
-            "type": "PER"
+            "type": "PER",
+            "sapa": "http://data.performing-arts.ch/a/959dde78-b62f-44ac-915d-b4e8f4cf0ceb",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Anna_Pavlova_1916.jpg"
         },
         {
             "name": "Peer Gynt",
@@ -25321,7 +25573,15 @@
         },
         {
             "name": "Petipa",
-            "type": "PER"
+            "type": "PER",
+            "variations": [
+                "Haus vom Petipa"
+            ],
+            "wikidata": "http://www.wikidata.org/entity/Q312320",
+            "sapa": "http://data.performing-arts.ch/a/6f38455e-1b5c-4f20-8066-4a6579d1737a",
+            "dob": "11.3.1818",
+            "dod": "1.7.1910",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/7/72/Petipa_Maruis_La_Fille_du_Pharaon.jpg"
         },
         {
             "name": "Petipa-Iwanow",
@@ -25334,6 +25594,10 @@
         {
             "name": "Pfauentheater",
             "type": "LOC;ORG"
+        },
+        {
+            "name": "Pflichtübung",
+            "type": "PROC"
         },
         {
             "name": "Pfrundhaus",
@@ -25513,6 +25777,7 @@
             "type": "PER",
             "wikidata": "http://www.wikidata.org/entity/Q2834382",
             "sapa": "http://data.performing-arts.ch/a/6fddb79f-fada-4d25-b378-73a28d4f5f7f",
+            "dob": "27.8.1968",
             "image": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Ratmansky_%26_Khanon_Middle_Duet_24no198.jpg"
         },
         {
@@ -25520,6 +25785,7 @@
             "type": "PER",
             "wikidata": "http://www.wikidata.org/entity/Q2834382",
             "sapa": "http://data.performing-arts.ch/a/6fddb79f-fada-4d25-b378-73a28d4f5f7f",
+            "dob": "27.8.1968",
             "image": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Ratmansky_%26_Khanon_Middle_Duet_24no198.jpg"
         },
         {
@@ -25540,10 +25806,7 @@
         },
         {
             "name": "Raumharmonie",
-            "type": "PER",
-            "variations": [
-                "Raumharmonie Bindestrich"
-            ]
+            "type": "PER"
         },
         {
             "name": "Raumharmonielehre",
@@ -25567,7 +25830,7 @@
         },
         {
             "name": "Reformkolonie",
-            "type": "LOC"
+            "type": "MISC"
         },
         {
             "name": "Regelmässigkeiten",
@@ -25693,7 +25956,10 @@
             "name": "Rosalia Chladek",
             "type": "PER",
             "wikidata": "http://www.wikidata.org/entity/Q979906",
-            "sapa": "http://data.performing-arts.ch/a/51231fcb-6da9-4337-816b-3f4ca8ef09d2"
+            "theaterlexikon": "http://tls.theaterwissenschaft.ch/wiki/Rosalia_Chladek",
+            "sapa": "http://data.performing-arts.ch/a/51231fcb-6da9-4337-816b-3f4ca8ef09d2",
+            "dob": "21.5.1905",
+            "dod": "3.7.1995"
         },
         {
             "name": "Rosenkavalier",
@@ -25735,7 +26001,10 @@
                 "Rudolf Laban"
             ],
             "wikidata": "http://www.wikidata.org/entity/Q213712",
+            "theaterlexikon": "http://tls.theaterwissenschaft.ch/wiki/Rudolf_von_Laban",
             "sapa": "http://data.performing-arts.ch/a/9dd84202-8274-4fa3-96a1-358cdea7ed5a",
+            "dob": "15.12.1879",
+            "dod": "1.7.1958",
             "image": "https://media.performing-arts.ch/iiif/image/1027-5-10-89/full/max/0/color.jpg"
         },
         {
@@ -25851,11 +26120,13 @@
             "name": "Sacharoff",
             "type": "PER",
             "wikidata": "http://www.wikidata.org/entity/Q2581909",
-            "sapa": "http://data.performing-arts.ch/a/2bb410f5-6067-4f3d-be13-5f71d6d96a54"
+            "sapa": "http://data.performing-arts.ch/a/2bb410f5-6067-4f3d-be13-5f71d6d96a54",
+            "dob": "28.5.1881",
+            "dod": "1.3.1967"
         },
         {
             "name": "Sacharoff-Stücke",
-            "type": "LOC"
+            "type": "MISC"
         },
         {
             "name": "Sackgeld",
@@ -25867,12 +26138,7 @@
         },
         {
             "name": "Sacre du Printemps",
-            "type": "MISC",
-            "variations": [
-                "Sacre"
-            ],
-            "wikidata": "http://www.wikidata.org/entity/Q28553917",
-            "image": "https://upload.wikimedia.org/wikipedia/commons/6/67/RiteofSpringDancers.jpg"
+            "type": "MISC;ORG"
         },
         {
             "name": "Safa",
@@ -25930,8 +26196,7 @@
         },
         {
             "name": "Schauspielhaus",
-            "type": "LOC",
-            "wikidata": "http://www.wikidata.org/entity/Q675022"
+            "type": "LOC"
         },
         {
             "name": "Schild Rämistrasse 3",
@@ -25939,8 +26204,7 @@
         },
         {
             "name": "Schiller",
-            "type": "PER",
-            "sapa": "http://data.performing-arts.ch/a/57f3ab4c-8769-4441-b4b1-960e2c8aa743"
+            "type": "PER"
         },
         {
             "name": "Schläpfer",
@@ -25984,8 +26248,7 @@
         },
         {
             "name": "Schwanensee",
-            "type": "MISC",
-            "wikidata": "http://www.wikidata.org/entity/Q199786"
+            "type": "MISC;PER"
         },
         {
             "name": "Schwanensee\"-Aufführung",
@@ -26017,7 +26280,10 @@
         },
         {
             "name": "Schweizer Tanzarchiv",
-            "type": "ORG"
+            "type": "LOC",
+            "variations": [
+                "Schweizerischen Tanzarchiv"
+            ]
         },
         {
             "name": "Schweizer Theaterlexikon",
@@ -26033,7 +26299,7 @@
         },
         {
             "name": "Schweizerin",
-            "type": "MISC"
+            "type": "PER"
         },
         {
             "name": "Schweizerisch",
@@ -26049,7 +26315,14 @@
         },
         {
             "name": "Schweizerische Berufsverband für Tanz und Gymnastik",
-            "type": "ORG"
+            "type": "ORG",
+            "variations": [
+                "Schweizerischen Bund",
+                "SBTG",
+                "Schweizerische Bund für Tanz",
+                "Bund für Tanz und Gymnastik...",
+                "Schweizerische Verband für Tanz und Gymnastik"
+            ]
         },
         {
             "name": "Schweizerische Frauenausstellung",
@@ -26162,7 +26435,10 @@
                 "Leeder"
             ],
             "wikidata": "http://www.wikidata.org/entity/Q547547",
+            "theaterlexikon": "http://tls.theaterwissenschaft.ch/wiki/Sigurd_Leeder",
             "sapa": "http://data.performing-arts.ch/a/49187985-04f9-4280-be72-dc316d9c1e01",
+            "dob": "14.8.1902",
+            "dod": "20.6.1981",
             "image": "https://media.performing-arts.ch/iiif/image/1027-9-4-6-6/full/max/0/color.jpg"
         },
         {
@@ -26259,6 +26535,10 @@
         {
             "name": "Spoerli",
             "type": "LOC;PER"
+        },
+        {
+            "name": "Spoerli-Choreografie",
+            "type": "PROC"
         },
         {
             "name": "Sprichst du von Bauer",
@@ -26360,7 +26640,8 @@
         },
         {
             "name": "Strawinsky",
-            "type": "PER"
+            "type": "PER",
+            "sapa": "http://data.performing-arts.ch/a/24186eeb-6d31-4b28-b7e4-ddde2d5b6210"
         },
         {
             "name": "Street-Tänzer",
@@ -26421,7 +26702,10 @@
                 "Suzanne"
             ],
             "wikidata": "http://www.wikidata.org/entity/Q21087539",
-            "sapa": "http://data.performing-arts.ch/a/188bc3d3-ffb5-43aa-9714-2d54a096901f"
+            "theaterlexikon": "http://tls.theaterwissenschaft.ch/wiki/Suzanne_Perrottet",
+            "sapa": "http://data.performing-arts.ch/a/188bc3d3-ffb5-43aa-9714-2d54a096901f",
+            "dob": "13.9.1889",
+            "dod": "10.8.1983"
         },
         {
             "name": "Suédoise",
@@ -26473,13 +26757,11 @@
         },
         {
             "name": "Südafrika",
-            "type": "LOC",
-            "wikidata": "http://www.wikidata.org/entity/Q27394",
-            "sapa": "http://data.performing-arts.ch/p/01420140-eb8b-405c-a338-39d60a521442"
+            "type": "LOC"
         },
         {
             "name": "Südafrikaner",
-            "type": "LOC"
+            "type": "MISC"
         },
         {
             "name": "Südostanatolien",
@@ -26527,8 +26809,7 @@
         },
         {
             "name": "Tanz",
-            "type": "MISC",
-            "wikidata": "http://www.wikidata.org/entity/Q11639"
+            "type": "MISC"
         },
         {
             "name": "Tanz in Stücken",
@@ -26631,6 +26912,10 @@
             "type": "PER"
         },
         {
+            "name": "Tanzproben",
+            "type": "PER"
+        },
+        {
             "name": "Tanzschaffende",
             "type": "LOC;ORG"
         },
@@ -26658,7 +26943,9 @@
             "name": "Tatjana Gsovsky",
             "type": "PER",
             "wikidata": "http://www.wikidata.org/entity/Q107995",
-            "sapa": "http://data.performing-arts.ch/a/5e15a34d-acc0-4a4d-a44d-9b3450cef40a"
+            "sapa": "http://data.performing-arts.ch/a/5e15a34d-acc0-4a4d-a44d-9b3450cef40a",
+            "dob": "18.3.1901",
+            "dod": "29.9.1993"
         },
         {
             "name": "Teen-Meet",
@@ -26678,8 +26965,7 @@
         },
         {
             "name": "Tessin",
-            "type": "LOC",
-            "sapa": "http://data.performing-arts.ch/p/13a91523-1514-4e71-afc8-1be1af5de5d3"
+            "type": "LOC"
         },
         {
             "name": "Thaddäus Kloster",
@@ -26763,8 +27049,7 @@
         },
         {
             "name": "Tina",
-            "type": "PER",
-            "sapa": "http://data.performing-arts.ch/a/aaa2f40c-0e30-468d-a202-9f41b472228a"
+            "type": "PER"
         },
         {
             "name": "Tip-Ex",
@@ -26788,7 +27073,12 @@
         },
         {
             "name": "Toni-Areal",
-            "type": "MISC"
+            "type": "LOC",
+            "variations": [
+                "Toni Areal"
+            ],
+            "wikidata": "http://www.wikidata.org/entity/Q2441730",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Toni-Areal_Z%C3%BCrich_%28Juli_2012%29.jpg"
         },
         {
             "name": "Toni-Areal Zürich",
@@ -26822,7 +27112,8 @@
         {
             "name": "Triton",
             "type": "PER",
-            "wikidata": "http://www.wikidata.org/entity/Q7844472"
+            "wikidata": "http://www.wikidata.org/entity/Q7844472",
+            "dob": "23.3.1987"
         },
         {
             "name": "Trix Gutekunst",
@@ -26894,7 +27185,8 @@
         },
         {
             "name": "Uetliberg",
-            "type": "LOC"
+            "type": "LOC",
+            "wikidata": "http://www.wikidata.org/entity/Q16524"
         },
         {
             "name": "Uganda",
@@ -26949,6 +27241,10 @@
             "type": "PER"
         },
         {
+            "name": "Unterricht",
+            "type": "PROC"
+        },
+        {
             "name": "Unterrichtsmaterial",
             "type": "MISC"
         },
@@ -26978,12 +27274,7 @@
         },
         {
             "name": "Ursula Pellaton",
-            "type": "PER",
-            "variations": [
-                "Liebe Ursula"
-            ],
-            "wikidata": "http://www.wikidata.org/entity/Q95195773",
-            "sapa": "http://data.performing-arts.ch/a/db703db6-7011-41f3-9da4-a4fbcef61c52"
+            "type": "PER"
         },
         {
             "name": "Ursulas",
@@ -27026,7 +27317,7 @@
             "type": "PER"
         },
         {
-            "name": "Variation getanzt",
+            "name": "Variation",
             "type": "PROC"
         },
         {
@@ -27170,7 +27461,7 @@
         },
         {
             "name": "Wandervogel",
-            "type": "MISC"
+            "type": "ORG"
         },
         {
             "name": "Warschau",
@@ -27203,6 +27494,10 @@
         {
             "name": "Weimar",
             "type": "LOC"
+        },
+        {
+            "name": "Weinammann",
+            "type": "PER"
         },
         {
             "name": "Weinöhl",
@@ -27286,7 +27581,8 @@
         },
         {
             "name": "Wilhelm Tell",
-            "type": "PER"
+            "type": "PER",
+            "sapa": "http://data.performing-arts.ch/a/712c2339-a788-4188-ab71-ac5c97a74fab"
         },
         {
             "name": "William Forsythe",
@@ -27384,8 +27680,7 @@
         },
         {
             "name": "YouTube",
-            "type": "MISC",
-            "wikidata": "http://www.wikidata.org/entity/Q866"
+            "type": "MISC"
         },
         {
             "name": "Yuresha",
@@ -27465,7 +27760,7 @@
         },
         {
             "name": "Zentrum",
-            "type": "MISC"
+            "type": "ORG"
         },
         {
             "name": "ZhdK",
@@ -27533,7 +27828,7 @@
         },
         {
             "name": "Zürcher Zeit",
-            "type": "LOC"
+            "type": "MISC"
         },
         {
             "name": "Zürcherin",
@@ -27596,6 +27891,14 @@
         {
             "name": "arabische",
             "type": "MISC"
+        },
+        {
+            "name": "choreografiert",
+            "type": "PROC"
+        },
+        {
+            "name": "choreografisches",
+            "type": "PROC"
         },
         {
             "name": "dem Krieg",
@@ -27671,6 +27974,10 @@
         },
         {
             "name": "französischen",
+            "type": "MISC"
+        },
+        {
+            "name": "inMünchen",
             "type": "MISC"
         },
         {
@@ -27786,11 +28093,11 @@
             "type": "PER"
         },
         {
-            "name": "Übung macht",
+            "name": "Übung",
             "type": "PROC"
         },
         {
-            "name": "Übungen sind",
+            "name": "Übungen",
             "type": "PROC"
         },
         {

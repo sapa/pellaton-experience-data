@@ -1,14 +1,12 @@
-{"label":"PROC","pattern":"unterricht"}
-{"label":"PROC","pattern":"etüde"}
-{"label":"PROC","pattern":"komposition"}
-{"label":"PROC","pattern":"grundschritte"}
-{"label":"PROC","pattern":"EXAMPLE: oder einfach einen ganzen satz"}
-{"label":"PROC","pattern":[{"lower":"übung"}, {"lower":"macht"}]}
-{"label":"PROC","pattern":[{"lower":"übungen"}, {"lower":"sind"}]}
-{"label":"PROC","pattern":[{"lower":"variation"},{"lower":"getanzt"}]}
+{"label":"PROC","pattern":[{"lower":"unterricht"}]}
+{"label":"PROC","pattern":[{"lower":{"regex": "etüd[e|en]"}}]}
+{"label":"PROC","pattern":[{"lower":"komposition"}]}
+{"label":"PROC","pattern":[{"lower":"grundschritte"}]}
+{"label":"PROC","pattern":[{"lower":{"regex": "übun[gen|g|g macht]"}}]}
+{"label":"PROC","pattern":[{"lower":"variation"}]}
 {"label":"PROC","pattern":[{"lower":"handwerk"}]}
 {"label":"PROC","pattern":[{"lower":"Lehre"}]}
 {"label":"PROC","pattern":[{"lower":"tonart"}]}
 {"label":"PROC","pattern":[{"lower":"ertüchtigung"}]}
 {"label":"PROC","pattern":[{"lower":"ausbildung"}]}
-{"label":"PROC","pattern":[{"lower":"choreografieren"}]}
+{"label":"PROC","pattern":[{"lower" : {"regex": "choreograf[ieren|ie|]"}}]}
