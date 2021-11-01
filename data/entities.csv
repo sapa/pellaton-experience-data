@@ -100,7 +100,7 @@ Bacharbeiten,PER
 Bad Ragaz,LOC
 Baden Baden,LOC
 Baden-Baden,LOC
-Balanchine,PER
+Balanchine,MISC;PER
 Balanchine-Ballettführer,MISC
 Balanchine-Büchern,LOC
 Balanchine-Trust,MISC
@@ -115,7 +115,7 @@ Ballets Russesda,ORG
 Ballett Zürich,LOC
 Ballett-Abend,MISC
 Ballett-Mädchen,MISC
-Ballettaben-,LOC
+Ballettabenden,ORG
 Ballettchef,LOC
 Ballettchefs,ORG
 Ballettgastspiele,MISC
@@ -172,6 +172,7 @@ Bonobos,MISC
 Borneo,LOC
 Botta,PER
 Botvinov,LOC
+Bournonville,PER
 Bournonville-Ballette,LOC
 Bournonville-Spezialist,MISC
 Bournonville-Technik,LOC
@@ -321,7 +322,6 @@ Du bist Ballettexpertin,MISC
 Du da,MISC
 Du da nicht Lust – also Lust hast Du,MISC
 Du freust dich,MISC
-Du hast,MISC
 "Du hast ""Shortpieces",MISC
 Du hast in deinem Leben,MISC
 Du hast ja,MISC
@@ -351,7 +351,7 @@ Edith Carola,PER
 Edith Piaf,PER
 Ein Autogramm von Nurejew,MISC
 Eindrückliches,MISC
-Einfach,MISC
+Einfach,LOC;MISC
 Einfluss-Wellen,LOC
 Einführungsmatinéen,ORG
 Einstudierungen,MISC
@@ -493,6 +493,7 @@ Grossmami,PER
 Grossvater Kantonsbaumeister,PER
 Grossvater Weihnachtslieder,MISC
 Gruppengeschehen,LOC
+Gräs,LOC
 Gründungsgruppe,LOC
 Grüne Tisch,MISC
 Grünen Tisch,ORG
@@ -571,8 +572,6 @@ IMMER,ORG
 IRGENDWO,ORG
 IST,ORG
 Ich bin,PER
-Ich bin keine Tänzerin,PER
-Ich liebe,MISC
 Ich mag mich,MISC
 Ich suche lieber etwas,MISC
 Idi Amin,PER
@@ -985,6 +984,7 @@ P,LOC;MISC;ORG;PER
 P Ja,LOC
 P:,MISC;PER
 P: Ich,MISC
+P: Ich bin keine Tänzerin,MISC
 P: Ich lese bei denen,MISC
 P: Ich sage ja,MISC
 P: Ja,MISC
@@ -1003,6 +1003,7 @@ Pas de Deux,LOC
 Pas de Six,MISC
 Pas de basque,LOC
 Pas de deux,MISC
+Pas de trois,LOC
 Pastori,PER
 Pat Neary,PER
 Pathetische,MISC
@@ -1309,6 +1310,7 @@ Tanzkritikern,LOC
 Tanznetz,MISC
 Tanznovember,MISC;PER
 Tanzpreisträger,PER
+Tanzproben,PER
 Tanzschaffende,LOC;ORG
 Tanzschaffenden,MISC;PER
 Tanzschauen,LOC
@@ -1535,6 +1537,7 @@ afrikanisches,MISC
 amerikanische,MISC
 anglo-anglikanisches,MISC
 arabische,MISC
+de Lutry,LOC
 dem Krieg,MISC
 der Schweiz,LOC
 derFranz Frautschi,PER
@@ -1554,6 +1557,7 @@ europäische,MISC
 finnischen,MISC
 französische,MISC
 französischen,MISC
+inMünchen,MISC
 iranischen,MISC
 islamischen,MISC
 islamisches,MISC
