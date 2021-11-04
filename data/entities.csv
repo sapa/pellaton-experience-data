@@ -1,22 +1,15 @@
 entity,type
-(lacht),LOC
 1. Weltkrieg,MISC
 10 Jahre älter,MISC
 100 Jahre Stadttheater,MISC
 62er Jahr,MISC
-ABSOLUT,MISC
-ABSOLUT FESTMACHEN,MISC
-AKTIV,MISC
-ALLE,ORG
 ALLERERSTEN,ORG
 ALLES,ORG
-ANDERES,MISC
-AUCH,MISC
 AUGE,ORG
 Aarau,LOC
 Aargauer Tagblatt,ORG
-Ach,MISC
-Acht,LOC
+Abonnement,PROC
+Abschnitt,PROC
 Addis Abeba,LOC
 Affendarstellungen,LOC
 Affenkasten,PER
@@ -25,10 +18,6 @@ Afrikaner,LOC
 Afrikanerin,LOC
 Afrikanern,LOC
 Agon,MISC;PER
-Ah,MISC
-Aha,LOC;MISC;PER
-Aha ja,MISC
-Aktion,MISC
 Alain,PER
 Alain Bernard,PER
 Alain Bernhard,PER
@@ -48,6 +37,7 @@ Amerika-Tournee,LOC
 Amerikaner,LOC
 Amerikanisches,MISC
 Amerikatournee,LOC
+Anfang,PROC
 Anm,LOC;PER
 Ann Hutchinson,PER
 Ann Hutchinson Guest,PER
@@ -69,13 +59,17 @@ Appenzell,LOC
 Appenzeller-Kind,ORG
 Arabesque,ORG
 Ararat,LOC
+Arbeitsbewilligung,PROC
 Archivkisten,ORG
 Arman,PER
 Armenien,LOC
 Ashton,PER
 Ashton-Material,MISC
+Aufbau,PROC
+Aufenthalt,PROC
 Auffüh-,LOC
 Auflagezahlen,MISC
+Auflistung,PROC
 Aufm PC,PER
 Aufsatzschreiben,LOC
 Aughterlony,ORG
@@ -86,6 +80,7 @@ Ausdruckstanzes,LOC
 Ausdruckstänzerin,PER
 Ausdruckstänzerische,MISC
 Ausdruckstänzern,MISC
+Auslastung,PROC
 Auslastungszahlen,MISC
 Ausnahme-Männer,MISC
 Ausnahmekünstlerinnen,LOC
@@ -136,6 +131,8 @@ Beatrice Tschumi,PER
 Beatrix Tschumi,PER
 Beethoven,PER
 Beethoven-Violinkonzert,MISC
+Begegnung,PROC
+Beitrag,PROC
 Belinda,PER
 "Belinda Wright),bei",PER
 Ben Iida,PER
@@ -152,6 +149,7 @@ Berte Trümpi,MISC;PER
 Berthe Trümpy,PER
 Berufstänzer,MISC;PER
 Berührt-Sein,LOC
+Beschreibung,PROC
 Besetzungszettel,LOC
 Bettina,LOC
 Bewegungsmaterial,LOC
@@ -226,6 +224,7 @@ Chnorz,LOC
 Chopin,PER
 Chopiniana,MISC
 Choreo- grafie-Wettbewerb 1932,MISC
+Choreografie,PROC
 Choreografie-Wettbewerb,MISC
 Choreutik,ORG;PER
 Christian Spuck,PER
@@ -240,6 +239,8 @@ Claudia Jeschke,PER
 Claudia Rosiny,PER
 Clotilde von Derp,PER
 Cohen,PER
+Collagen,PROC
+Computer,PROC
 Concerto Barocco,MISC
 Corps,ORG
 Corps de Ballet,ORG
@@ -271,6 +272,7 @@ Dalcroze-Institut,LOC
 Danke,PER
 Danke Ursula,PER
 Daran musst du dich,MISC
+Darstellung,PROC
 Dartington Hall,LOC
 Das Schlimme,MISC
 David,PER
@@ -293,6 +295,7 @@ Deutschland,LOC
 Deutschland-Tournee,LOC
 Deutschschweiz,LOC
 Deutschschweizer,LOC
+Devise,PROC
 Diaghilev,MISC
 Die Dame und das Einhorn,MISC
 Die Kritikerin und der Künstler?,MISC
@@ -354,6 +357,7 @@ Eindrückliches,MISC
 Einfach,LOC;MISC
 Einfluss-Wellen,LOC
 Einführungsmatinéen,ORG
+Einleitung,PROC
 Einstudierungen,MISC
 Einzeleinlagen,PER
 Eisberg,MISC
@@ -779,7 +783,6 @@ Liska,MISC
 Liz King,PER
 London,LOC
 Londoner,MISC
-Looser,MISC
 Loïe Fuller,LOC;PER
 Ludwig II von Bayern,PER
 Luther,MISC
@@ -988,7 +991,7 @@ P: Ich bin keine Tänzerin,MISC
 P: Ich lese bei denen,MISC
 P: Ich sage ja,MISC
 P: Ja,MISC
-PC,MISC
+PC,PROC
 PERFEKT,ORG
 Palmyra,LOC
 Pany,LOC
@@ -1531,12 +1534,16 @@ Zürichdeutschen Wörterbuch,MISC
 Züricher,LOC
 Zürichsee Zeitung,ORG
 Zürichsee-Zeitung,ORG
+abliefern,PROC
+abschreiben,PROC
 afrikanische,MISC
 afrikanischen,MISC
 afrikanisches,MISC
 amerikanische,MISC
 anglo-anglikanisches,MISC
+anschauen,PROC
 arabische,MISC
+ausdrucken,PROC
 de Lutry,LOC
 dem Krieg,MISC
 der Schweiz,LOC
@@ -1548,8 +1555,12 @@ deutschen,MISC
 deutscher,MISC
 deutschsprachigen,MISC
 die Beatles,ORG
-dieWigman,PER
+diskutieren,PROC
+disponieren,PROC
+distanziert,PROC
+duzen,PROC
 dänische,MISC
+einstimmen,PROC
 englische,MISC
 englischen,MISC
 ersten Weltkrieg,MISC
