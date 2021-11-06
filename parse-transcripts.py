@@ -64,6 +64,7 @@ class Main(object):
             writer = csv.writer(csvfile)
             writer.writerow(['entity', 'type'])
             for e in sorted(self.entities_dict.keys()):
+                print(e)
                 writer.writerow([e, ';'.join(sorted(list(self.entities_dict[e])))])
 
         with open(segmentsFile, 'w') as csvfile:

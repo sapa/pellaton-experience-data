@@ -2,7 +2,6 @@
 {"label":"PROC","pattern":"etüde"}
 {"label":"PROC","pattern":"komposition"}
 {"label":"PROC","pattern":"grundschritte"}
-{"label":"PROC","pattern":"EXAMPLE: oder einfach einen ganzen satz"}
 {"label":"PROC","pattern":[{"lower":"übung"}, {"lower":"macht"}]}
 {"label":"PROC","pattern":[{"lower":"übungen"}, {"lower":"sind"}]}
 {"label":"PROC","pattern":[{"lower":"variation"},{"lower":"getanzt"}]}
