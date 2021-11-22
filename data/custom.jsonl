@@ -11,3 +11,5 @@
 {"label":"PROC","pattern":[{"lower":"ertüchtigung"}]}
 {"label":"PROC","pattern":[{"lower":"ausbildung"}]}
 {"label":"PROC","pattern":[{"lower":"choreografieren"}]}
+{"label":"ORG","pattern":[{"lower":"toni areal"}]}
+{"label":"LOC","pattern":[{"lower":"toni-areal zürich"}]}
