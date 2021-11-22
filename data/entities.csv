@@ -30,7 +30,6 @@ Albisgüetli,LOC
 Alexander Puschkin,PER
 Alexei Ratmansky,PER
 Alias,MISC
-Also Laban,PER
 Alwin Nikolais,PER
 Amerika,LOC
 Amerika-Tournee,LOC
@@ -463,7 +462,6 @@ Flims,LOC
 Flow,DANC
 Flötenkonzerte,MISC
 Fokine,PER
-Fokine! I,PER
 Folklore,STYL
 Folkwang Hochschule,ORG
 Folkwang Schule,ORG
@@ -770,7 +768,6 @@ Kinderauftritt,DANC
 Kinderbekommen,BODY
 Kinderkonzert,DANC
 Kindervorstellung,DANC
-Kinetographie Laban,PER
 Kino,STYL
 Kinoersatz,LOC
 Kirche,ORG
@@ -839,15 +836,13 @@ La Primont Lac Léman,LOC
 La Sylphide,WORK
 La fille mal gardée,WORK
 La vie en rose,WORK
-Laban,PER
 Laban-Archiv,LOC
 Laban-Brief,MISC
 Laban-Frauen,LOC;MISC
 Laban-Leute,MISC
-Laban-Schule,LOC
+Laban-Schule,ORG
 Laban-Schüler,MISC
 Laban-Spektakel,ORG
-Laban-Tänzerinnen,LOC
 Labanotation,LOC;MISC;PER
 Laben,LOC
 Lac Léman,LOC
@@ -864,13 +859,11 @@ Lausanne,LOC
 Lausanner,LOC
 Laxenburg,LOC
 Lebenslauf,JOUR
-Leeder,LOC;ORG;PER
 Leeder-Artikel,LOC
 Leeder-Ausstellung,ORG
 Leeder-Nachlass,MISC
 Leeder-Schüler,LOC
 Leeder-Schülern,LOC
-Leeder]-Stunde,PER
 Legi,MISC
 Lehre,PROC
 Leipzig,LOC
