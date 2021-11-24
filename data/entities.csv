@@ -10,44 +10,29 @@ Aarau,LOC
 Aargauer Tagblatt,ORG
 Abonnement,DANC
 Addis Abeba,LOC
-Affendarstellungen,LOC
 Afrika,LOC
-Afrikaner,LOC
-Afrikanerin,LOC
 Afrikanern,LOC
 Agon,MISC;PER
 Akrobatik,STYL
 Akt,DANC
 Akzent,DANC
-Alain,PER
 Alain Bernard,PER
-Alain Bernhard,PER
-Alain Patel,PER
 Alain Platel,PER
-Alar,PER
 Alberto Rossi,PER
 Albisgüetli,LOC
 Alexander Puschkin,PER
 Alexei Ratmansky,PER
+Alfred A. Häsler,PER
 Alias,MISC
 Alwin Nikolais,PER
 Amerika,LOC
-Amerika-Tournee,LOC
-Amerikaner,LOC
-Amerikanisches,MISC
-Amerikatournee,LOC
 Anfang,PROC
 Ankündigung,JOUR
 Anm,LOC;PER
-Ann Hutchinson,PER
 Ann Hutchinson Guest,PER
 Anna Huber,PER
 Anne Collod,PER
-Anne Teresa De Keersmaeker,PER
-Anne Teresa Keersmaeker,PER
-Anne Teresa de Keersmaeker,PER
 Anne Woolliams,PER
-Annemarie,PER
 Annemarie Sutter,PER
 Annette Ringier,PER
 Anschluss,MISC
@@ -64,35 +49,33 @@ Architektur,STYL
 Archiv,JOUR
 Archivkisten,JOUR
 Arm,BODY
-Arman,PER
+Arman Grigoryan,PER
 Armenien,LOC
 Armgeste,DANC
+Arthur Honegger,PER
 Artikel,JOUR
-Ashton,PER
 Ashton-Material,MISC
 Auffüh-,DANC
 Aufführung,DANC
 Auflagezahlen,MISC
 Aufm PC,JOUR
-Aufsatzschreiben,LOC
 Auftritt,DANC
 Augen,BODY
 Aughterlony,ORG
+August Bournonville,PER
 Aula Rämibühl,LOC
 Ausbildung,PROC
 Ausdruck,DANC
 Ausdruckstanz,STYL
-Ausdruckstanzbereich,LOC
-Ausdruckstanzes,LOC
+Ausdruckstanzbereich,STYL
+Ausdruckstanzes,STYL
 Ausdruckstänzerin,STYL
 Ausdruckstänzerische,MISC
 Ausdruckstänzern,MISC
 Auslastungszahlen,MISC
 Ausnahme-Männer,MISC
-Ausnahmekünstlerinnen,LOC
 Ausstattung,DANC
 Ausstellung,JOUR
-Autofriedhöfe,LOC
 BA,ORG
 BEIDE,ORG
 Babel,MISC
@@ -103,14 +86,12 @@ Baden-Baden,LOC
 Balance,DANC
 Balanchine,MISC;PER
 Balanchine-Ballettführer,MISC
-Balanchine-Büchern,LOC
 Balanchine-Trust,MISC
 Balanchine-Werke,ORG
 Ballerina,DANC
 Ballet C de la B,ORG
 Ballet Jooss,ORG;PER
 Ballet du Rhin,LOC
-Ballets C de la B.,PER
 Ballets Russes-Schiene,ORG
 Ballets Russesda,ORG
 Ballett,STYL
@@ -122,45 +103,34 @@ Ballettchef,DANC
 Ballettchefs,ORG
 Balletteinlage,DANC
 Ballettgastspiele,MISC
-Ballettkompanien,LOC
 Ballettleiter,DANC
 Ballettmeister,DANC
 Ballettschule Zürich,ORG
 Ballonné,DANC
 Ballotté,DANC
-Barbara,PER
+Barbara,WORK
 Barock,STYL
 Barockensemble,DANC
-Bartók,PER
-Baryshnikov,PER
 Basel,LOC;ORG
 Basic Food,MISC
 Bauch,BODY
 Bauernleuten,MISC
-Bayadère,PER
+Bayadère,WORK
 Bea,MISC;PER
-Beatrice Tschumi,PER
 Beatrix Tschumi,PER
-Beethoven,PER
 Beethoven-Violinkonzert,WORK
 Bein,BODY
-Belinda,PER
+Belinda Wright,PER
 Ben Iida,PER
 Beobachtest du bei dir,MISC
 Bergen,LOC
 Bergsteiger-Familie,MISC
-Beriozoff,PER
 Berlin,LOC
 Bern,LOC
 Bernd Bienert,PER
-Berner,LOC
 Berner Zeitung,ORG
-Berte Trümpi,MISC;PER
 Berthe Trümpy,PER
 Berufstänzer,MISC;PER
-Berührt-Sein,LOC
-Besetzungszettel,LOC
-Bettina,LOC
 Bewegung,DANC
 Bewegungsmaterial,DANC
 Beziehungen,DANC
@@ -168,34 +138,27 @@ Bibel,MISC
 Bibliografie,JOUR
 Bibliothek,JOUR
 Biel,LOC
-Bienert,PER
 Bienert hast du da,MISC
 Bienertist,MISC
 Billetts,DANC
-Binder,PER
 BirdLife Schweiz,ORG
 Bist du,MISC
 Bleiben,MISC
 Bleiwüste,JOUR
 Blog,JOUR
-Boll,LOC
 Bolschoi,LOC
 Bolschoi-Ballett,MISC
 Bonobos,MISC
+Boris Jelzin,PER
 Borneo,LOC
-Botta,PER
 Botvinov,LOC
-Bournonville,PER
-Bournonville-Ballette,LOC
 Bournonville-Spezialist,MISC
-Bournonville-Technik,LOC
 Bournonville-Tradition,MISC
 Brandenburg,LOC
 Bregenz,LOC
 Brenaa,LOC;PER
 Brighton,LOC
 Brigitta Luisa Merki,PER
-Brigitte,PER
 Brigitte Hamann,PER
 Broadway,LOC
 Broschüre,JOUR
@@ -203,34 +166,25 @@ Bubenklasse,MISC
 Buch,STYL
 Buchbesprechung,JOUR
 Buchegg,LOC
-Bund,LOC
-Burth,PER
 Busch,LOC
 Buschspital,LOC
-Bush,PER
-Béjart,PER
 Béjart-Ballett Lausanne,MISC
 Béla Bartók,PER
 Börlin,ORG;PER
 Bühne,DANC
 Bühnenarbeiten,ORG
 Bühnenbild,DANC
-Bühnendimensionen,LOC
 Bühnenstudio,LOC
 Bühnentechnik,DANC
 Bühnenunfall,DANC
 Bündnerland,LOC
-CH,LOC
 CH-Tanztheater,ORG
 CHF,MISC
 Cabaret Voltaire,MISC
 Café Müller,LOC;MISC
-Cage,PER
 Carnegie Hall,LOC
 Catana,MISC;ORG
 Cathy Sharp,PER
-Cecchetti,PER
-Chaplin,PER
 Charakter,DANC
 Charaktertanz,STYL
 Charaktertänze,STYL
@@ -242,7 +196,6 @@ Chiton,MISC
 Chladek,LOC;PER
 Chladek-Technik,MISC
 Chnorz,JOUR
-Chopin,PER
 Chopiniana,MISC
 Choreo- grafie-Wettbewerb 1932,MISC
 Choreografie,PROC
@@ -251,16 +204,15 @@ Choreutik,DANC
 Christian Spuck,PER
 Christina Thurner,PER
 Christine Merz,PER
-Chruschtschow,PER
+Christoph Willibald Gluck,PER
 Chruschtschow-Rede,MISC
 Chur,LOC
-Cinderella,PER
+Cinderella,WORK
 Claude Perrottet,PER
 Claudia Jeschke,PER
 Claudia Rosiny,PER
 Clotilde von Derp,PER
 Coach,DANC
-Cohen,PER
 Collagen,STYL
 Computer,JOUR
 Concerto Barocco,WORK
@@ -270,9 +222,7 @@ Corps de Ballet-Tänzer,ORG
 Corsaire,WORK
 Corso,LOC
 Così fan tutte,WORK
-Cranko,PER
 Cranko-Festival,MISC
-Cunningham,PER
 DA,ORG
 DADA,STYL
 DANN,MISC;ORG
@@ -285,21 +235,16 @@ DVD,JOUR
 Dada,STYL
 Dada-Abenden,ORG
 Dada-Bewegung,ORG
-Dada-Kreisen,STYL
 Dadaismus,STYL
 Dadakostüme,STYL
-Daheim,LOC
 Dalcroze,LOC;PER
-Dalcroze-Diplom,LOC
 Dalcroze-Institut,LOC
 Daran musst du dich,MISC
 Dartington Hall,LOC
 Das Schlimme,MISC
-David,PER
 David Bowie,PER
-Degas,PER
-Depen-,LOC
 Der Bienert,MISC
+Der Feuervogel,WORK
 Der Nussknacker,WORK
 Der Rosen,MISC
 Der Schwarzen Spinne,WORK
@@ -314,7 +259,6 @@ Deutsches,MISC
 Deutschland,LOC
 Deutschland-Tournee,LOC
 Deutschschweiz,LOC
-Deutschschweizer,LOC
 Diaghilev,MISC
 Die Dame und das Einhorn,WORK
 Die Kritikerin und der Künstler?,MISC
@@ -325,14 +269,13 @@ Direktor,DANC
 Dirigent,DANC
 Diskrepanz,DANC
 Divertissement,DANC
-Don Juan,PER
+Don Juan,WORK
 Don Quichote,WORK
 Don Quijote,WORK
-Doppelgeigenkonzert,PER
 Dore Hoyer,PER
 Doris Catana,PER
 Dornröschen,WORK
-Dostojewski,PER
+Doug Fullington,PER
 Drama,STYL
 Dramatik,DANC
 Dreckstrassen,LOC
@@ -340,7 +283,6 @@ Dreiertakt,LOC
 Dreiländereck,LOC
 Dresden,LOC
 Drese,LOC;PER
-Drogenersatz,LOC
 Drum bin ich froh,MISC
 "Du archivierst alles, was du schreibst und liest",MISC
 Du bist,MISC
@@ -357,9 +299,6 @@ Du schreibst mir,MISC
 Du schreibst nicht,MISC
 Du tanzt,MISC
 Du was meinst du,MISC
-Dubois,PER
-Duncan,PER
-Dunkeln,LOC
 Durban,LOC
 Dussia Bereska,PER
 Dynamik,DANC
@@ -374,13 +313,13 @@ ER,MISC;PER
 EXTREM,MISC
 East London,LOC
 Eben,LOC
+Edgar Degas,PER
 Edith Carola,PER
 Edith Piaf,PER
 Ein Autogramm von Nurejew,MISC
 Eindrückliches,MISC
 Einfach,LOC;MISC
 Einfluss,DANC
-Einfluss-Wellen,LOC
 Einführungsmatinéen,ORG
 Einheit,DANC
 Einleitung,DANC
@@ -389,10 +328,10 @@ Einstudierungen,MISC
 Eisberg,MISC
 Ekstasetechnik,DANC
 Elena Vostrotina,PER
+Elfriede Jelinek,PER
 Elisabeth von Österreich,PER
 Ellen Widman,PER
 Elsa Cavelti,PER
-Elvis,PER
 Elvis Presley,PER
 Emil Staiger,PER
 Emmy Hennings,PER
@@ -401,14 +340,13 @@ Energie,DANC
 England,LOC
 Englisch,MISC
 Engländer,LOC
+Enrico Cecchetti,PER
 Ensemble,DANC
 Entwurf,PROC
 Epaulement,DANC
 Erfülltheit,DANC
 Erika Ackermann,PER
 Erika Schneiter,PER
-Erinnerungsschatz,LOC
-Ernst,PER
 Ernst Mohr,PER
 Ersten Weltkrieg,MISC
 Erwin Schumann,PER
@@ -417,10 +355,10 @@ Essen,LOC
 Ethan,MISC
 Etienne Frey,PER
 Etüden,DANC
+Eugène Ionesco,PER
 Eukinetik,DANC
 Evdokimova,LOC
 Eveline,LOC;PER
-Evelyn,PER
 Evelyn Klöti,PER
 Evelyn Rigotti,PER
 Excelsior,WORK
@@ -435,11 +373,11 @@ Faust,MISC
 Fax,JOUR
 Feedback,PROC
 Felix Falkner,PER
-Fertig,LOC
+Felix Mendelssohn,PER
+Ferdinand Hodler,PER
 Fest der brennenden Hütte,MISC
 Festival,DANC
 Festspiele,DANC
-Fetz,PER
 Feuervogel,WORK
 Feuilleton,JOUR
 Feuilleton-Redakteuren,MISC
@@ -452,8 +390,7 @@ Film,STYL
 Filmdokumenten,MISC
 Finanzen,DANC
 Finger,BODY
-Fjodor,PER
-Flachland-,LOC
+Fjodor Schaljapin,PER
 Flamenco,STYL
 Flexibilität,DANC
 Fliegen,DANC
@@ -467,7 +404,6 @@ Folkwang Hochschule,ORG
 Folkwang Schule,ORG
 Fonteyn,ORG
 Forellenquintett,MISC
-Forsythe,PER
 Forsythe-Sachen,MISC
 Foto,STYL
 Fouettés,DANC
@@ -478,16 +414,15 @@ Frankfurt am Main,LOC
 Frankfurter Theater,LOC
 Frankreich,LOC
 Frans de Waal,PER
-Fresszettel,PER
+Franz Schubert,PER
+Frederick Ashton,PER
 Freudenberg,LOC
 Freundschaft,DANC
-Fridolin,PER
 Frieden,MISC
+Friedrich Glauser,PER
 Friesenberg,LOC
-Fullington,PER
-Fumi,PER
+Frédéric Chopin,PER
 Fumi Matsuda,PER
-Fumi-Stil,LOC
 Fusion,DANC
 Fuss,BODY
 Fördergelder,DANC
@@ -497,24 +432,20 @@ GANZ Grosses,ORG
 GANZE,MISC
 GENAU,ORG
 GENIAL,MISC
-GERN,LOC
 GERÜHRT,ORG
+Gabriel Popescu,PER
 Gabriele Brandstetter,PER
 Gabriella Komleva,PER
 Gabun,LOC
 Gaga-Technik,ORG
-Gangboots,PER
 Gastchoreograf,DANC
 Gastspiel,DANC
 Gasttänzern,ORG
-Gaye,PER
 Gaye Fulton,PER
 Gedichte,STYL
-Gefangenenaustauschen,LOC
 Gefühl,DANC
 Gefühl Richard,MISC
 Gegenlesen,JOUR
-Gegenuhrzeiger,LOC
 Gelenk,BODY
 Gemälde,STYL
 Gender,DANC
@@ -525,7 +456,9 @@ Genfer,LOC;MISC
 Genfersee,LOC
 Geoffrey Cauley,PER
 Geometrie,DANC
+Georg-Friedrich Händel,PER
 George Balanchine,PER
+George W. Bush,PER
 Georgien,LOC
 Gerald Siegmund,PER
 Gergiev,ORG;PER
@@ -537,20 +470,14 @@ Geste,BODY
 Giessen,LOC
 Gilgamesch,PER
 Giselle,WORK
+Giuseppe Verdi,PER
 Glarnerland,LOC
-Glauser,PER
-Gluck,PER
-Goecke,PER
-"Goeckes ""Nijinsky",PER
 Goethe,PER
-Goldberg,PER
 Goldberg-Variationen,WORK
 Goslar,LOC
 Gottfried Keller,PER
 Gottfried Stutz,PER
-Graham,PER
 Graham-,MISC
-Graham-Technik,PER
 Grand Ballet,LOC
 Grete Müller,PER
 Griechen,MISC
@@ -560,9 +487,6 @@ Grossartiges,MISC
 Grosse Oper,LOC
 Grossvater Weihnachtslieder,MISC
 Grundschritte,DANC
-Gruppengeschehen,LOC
-Gräs,LOC
-Gründungsgruppe,LOC
 Grüne Tisch,WORK
 Grünen Tisch,ORG
 Gsovsky,MISC
@@ -570,9 +494,7 @@ Gulda ́s Cellokonzert,PER
 Gymiklasse,MISC
 Gymnastik,STYL
 Göbekli Tepe,PER
-Götti,PER
 HAST,MISC
-HEUTE,LOC
 Haare,BODY
 Hagia Sofia,LOC
 Hagia Sophia,LOC
@@ -586,10 +508,11 @@ Handlungsballett,DANC
 Handwerk,DANC
 Hannover,LOC
 Hans Brandenberg,PER
+Hans Herter,PER
 Hans Macke,PER
 Hans Meister,PER
+Hans Werner Henze,PER
 Hans Züllig,PER
-Hanswurst,PER
 Hard Disc,MISC
 Hasler,LOC;PER
 Hast Du,MISC
@@ -598,10 +521,6 @@ Hast du das Gefühl,MISC
 Hast du jetzt,MISC
 Hauptmotiv,DANC
 Haus an der Bautznerstrasse,LOC
-Haus vom Petipa,LOC
-Hause,LOC
-Haydn,PER
-Haydée,LOC
 Hedwig Müller,PER
 Heidi Greco,PER
 Heidi Meier,PER
@@ -609,32 +528,22 @@ Heinz Rosen,PER
 Heinz Rosen–Block,PER
 Heinz Spoerli,PER
 Hellerau,LOC
-Henze,PER
 Herisau,LOC
-Herisauer,LOC
 Herrliberg,LOC
-Herter,PER
 Hierarchie,DANC
 Hilde Baumann,PER
+Hilde Welti,PER
 Hin-und-herreisen,MISC
 Hochdeutsch,MISC
-Hodler,PER
 Hohe Gasse,LOC
 Hohe Promenade,LOC
 Hombrechtikon,LOC
 Hommage,DANC
-Honegger,PER
 Honorar,DANC
 Horst Koegler,PER
-Hottentotten,LOC
 Hotzenköcherle,MISC
-Humphrey,PER
 Hutchinson,PER
 Hutchinson-Guest,PER
-Händel,PER
-Häsler,PER
-Hässliche,LOC
-I: Gut,LOC
 I: Kannst Du,MISC
 I: Meinst du,ORG
 I: Schön,MISC
@@ -660,16 +569,13 @@ Intendant,DANC
 Internet,MISC
 Interpretation,DANC
 Interview,JOUR
-Ionescu,PER
 Irak,LOC
 Iran,LOC
 Irene Steiner,PER
 Irland,LOC
-Isadora,PER
 Isadora Duncan,PER
 Island,LOC
 Israel,LOC
-Italienreise,LOC
 JEDEM,MISC
 JEDER,MISC;ORG
 JETZT,MISC
@@ -683,38 +589,31 @@ Jahr 2000,MISC
 Jahr 55,MISC
 Jahrbuch,JOUR
 Jahreszeitenfehen,MISC
-James,PER
 James McCracken,PER
-Janu,PER
 Jaques-Dalcroze,LOC
 Jardin animé,LOC
 Jaroslav Berger,PER
-Jasin,WORK
+Jasin,MISC
 Jazztanz-Stunden,MISC
-Jazztanzen,LOC
 Jean Cébron,PER
 Jean Nouvel,PER
-Jean-Pierre,PER
+Jean-Georges Noverre,PER
 Jean-Pierre Pastori,PER
-Jelinek,PER
 Jelko Yuresha,PER
 Jelmoli,ORG
-Jelzin,PER
 Jerome Robbins,PER
-Jeschke,PER
 Jeté,DANC
 Jitka,LOC
 Jiří Kylián,PER
 Job,PROC
 Jochen Schmidt,PER
-Joffrey,PER
 Joffrey Ballet,ORG
+Johann Wolfgang von Goethe,PER
 Johannes Schmid,PER
 Johannesburg,LOC
+John Cage,PER
 John Cranko,PER
-John Geisler,PER
 John Geissler,PER
-Jooss,PER
 Jooss-Programm,MISC
 Jooss-Tänzer,MISC
 Jooss-Werke,WORK
@@ -733,8 +632,8 @@ Juni-Festwochen,MISC
 Jupiter Symphonie,MISC
 Juri Ackermann,PER
 Jérôme Bel,PER
-Jürg,PER
 Jürg Burth,PER
+Jürg Pellaton,PER
 K,MISC;PER
 K/,MISC
 K/R,MISC
@@ -753,9 +652,7 @@ Kannst du vielleicht,MISC
 Kantilene,DANC
 Kantonsschule,MISC
 Kantonsschule Hohe Promenade,ORG
-Kantonsschüler,ORG
 Kapstadt,LOC
-Kaputte,LOC
 Karte,DANC
 Kaspar Kasics,PER
 Katja Wulff,PER
@@ -769,21 +666,16 @@ Kinderbekommen,BODY
 Kinderkonzert,DANC
 Kindervorstellung,DANC
 Kino,STYL
-Kinoersatz,LOC
 Kirche,ORG
 Kirov,LOC
-Kirow-Tänzerinnen,PER
-Klassenferien,LOC
 Klassik,STYL
 Klassiker,STYL
 Klassiker-Inszenierungen,LOC;MISC
-Klassiker-Lehrer,ORG
 Kloten,LOC
 Knie,BODY
 Knochen,BODY
 Knust,ORG;PER
 Kobborg,LOC
-Koegler,ORG
 Kollaboration,PROC
 Kommission,ORG
 Kommst du mit mir in ‚Die Schöpfung,MISC
@@ -810,20 +702,14 @@ Kritik,JOUR
 Kritikerinnen-Pausengespräche,ORG
 Kulturabteilung,JOUR
 Kulturmanagement,ORG
-Kulturverantwortlicher,PER
 Kunsthaus,LOC
 Kunsthaus Heimplatz,LOC
 Kunsthaus Stunden,LOC
 Kunstwerk,WORK
 Kurt Fröhlich,PER
 Kurt Jooss,PER
-Kurzzeit-Gymi,LOC
-Kurzzeitgymi,LOC
-Kylian,PER
 Kylián,ORG;PER
-Kyliánhabe,PER
 KÖNNEN,DANC
-Kögler,PER
 Köln,LOC
 Königsfelder Festspielen,ORG
 Können,DANC
@@ -831,12 +717,11 @@ Körper,BODY
 L'après-midi,WORK
 L'après-midi d'un faune,WORK
 LAUT,ORG
-La Bayadère,PER
-La Primont Lac Léman,LOC
+La Bayadère,WORK
 La Sylphide,WORK
+La Vivandière,WORK
 La fille mal gardée,WORK
 La vie en rose,WORK
-Laban-Archiv,LOC
 Laban-Brief,MISC
 Laban-Frauen,LOC;MISC
 Laban-Leute,MISC
@@ -844,25 +729,22 @@ Laban-Schule,ORG
 Laban-Schüler,MISC
 Laban-Spektakel,ORG
 Labanotation,LOC;MISC;PER
-Laben,LOC
 Lac Léman,LOC
 Laientheater,STYL
-Laientänzern,LOC
 Landbote,JOUR
 Landboten-Leser,JOUR
 Landesausstellung,MISC
 Landesbibliothek,ORG
-Landzeitungen,LOC
 Laszlo Seregi,PER
 Latein,MISC
 Lausanne,LOC
 Lausanner,LOC
 Laxenburg,LOC
+Le Corsaire,WORK
+Le Sacre du Printemps,WORK
 Lebenslauf,JOUR
-Leeder-Artikel,LOC
 Leeder-Ausstellung,ORG
 Leeder-Nachlass,MISC
-Leeder-Schüler,LOC
 Leeder-Schülern,LOC
 Legi,MISC
 Lehre,PROC
@@ -876,8 +758,6 @@ Lexika-Artikel,MISC
 Lexikon,JOUR
 Libretto,DANC
 Liebe Ursula,MISC
-Lieblingsschriftsteller Goethe,PER
-Lifar,LOC
 Lilac Garden,LOC
 Lilo Weber,PER
 Lisa Stutz,PER
@@ -891,6 +771,7 @@ London,LOC
 Londoner,MISC
 Loïe Fuller,LOC;PER
 Ludwig II von Bayern,PER
+Ludwig van Beethoven,PER
 Luther,MISC
 Luzern,LOC
 Lynn Seymour,PER
@@ -903,21 +784,16 @@ MIR,MISC
 MIZ,ORG
 MUSIK,STYL
 MUSS,ORG
-Macciacchini,PER
 Machalina,LOC
 Machst du,MISC
 Machst du keine Disposition,MISC
-Macke,PER
-Madge,PER
+Madge,WORK
 Maguy Marin,MISC
 Mailand,LOC
 Mainz,LOC
 Mainzer,MISC
-Maisbruder,PER
-Maja Deren-Filme,PER
 Maja Lederer,PER
 Makarova,MISC
-Makarowa,PER
 Malachov,LOC
 Maler,DANC
 Mallorca,LOC
@@ -926,6 +802,7 @@ Mappen,JOUR
 Mara Jovanovits,PER
 Marbach,LOC
 Marc Wuest,PER
+Marco Goecke,PER
 Margit Huber,PER
 Margot Fonteyn,PER
 Maria Piltz,PER
@@ -946,13 +823,11 @@ Marlies Strech,PER
 Marschmusik,STYL
 Martha Graham,PER
 Martin Schläpfer,PER
-Martin Schläpfers,PER
 Martine Parmain,PER
 Mary Wigman,PER
 Mary-Wigman-Schule,LOC
 Masuren,LOC
 Mats Ek,PER
-Mats Eks,PER
 Matthäus-Passion,WORK
 Maurice Béjart,PER
 Max Pfister-Terpis,PER
@@ -960,9 +835,7 @@ Maya Kübler,PER
 Mediathek Tanz,ORG
 Mein Freund,MISC
 Meine Gotte,MISC
-Meister,ORG
 Meisterwerk,DANC
-Mendelsohn,PER
 Menstruation,BODY
 Menuett,STYL
 Merce Cunningham,PER
@@ -972,8 +845,8 @@ Mhm,MISC
 Mich fasziniert wirklich,MISC
 Michel de Lutry,MISC
 Mikhail Baryshnikov,PER
-Miklos,PER
 Miklos Bognar,PER
+Mikos Bognar,PER
 Militär,ORG
 Millicent Hodson,LOC;PER
 Mimos,PER
@@ -983,19 +856,12 @@ Mirja Tervamaa,PER
 Missionsspital,LOC
 Mittel,DANC
 Mittelfinger,LOC;MISC
-Mittelmeergebiete,LOC
 Mittelschul-Filmclub,MISC
-Mitternachtssonne,LOC
-Mlakar,PER
 Mmh,LOC;PER
 Modern-Tanztraining,MISC
-Mohr,PER
-Moll,LOC
 Mondlandung,MISC
-Monte Verità,LOC
 Monte Veritá,PER
 Moskau,LOC
-Mozart,PER
 Mozart-Klavierkonzert,WORK
 Mozart-Requiem,LOC
 Mthatha,LOC
@@ -1007,10 +873,9 @@ Musical,STYL
 Musik,STYL
 Musiktheater,STYL
 Musiktheatern,ORG
-Myrtha,PER
 Männersolo,DANC
 Märchenhafte,MISC
-Mäuserich,PER
+Mäuserich,WORK
 München,LOC
 NACHHER,ORG
 NATÜRLICH,MISC
@@ -1018,7 +883,6 @@ NICHT,MISC;ORG
 NONAM,ORG
 NZZ,ORG
 NZZ-Archiv,MISC
-Nachstossen,LOC
 Nacktheit,BODY
 Nairobi,LOC
 Namibia,LOC
@@ -1028,8 +892,8 @@ Nase,BODY
 Nasser See,LOC
 Natacha Kelepovska,PER
 Natalia Dudinskaya,PER
+Natalia Makarowa,PER
 Nationalballett,DANC
-Nationalballette,LOC
 Nationalfonds,ORG
 Naturhistorische Museum,LOC
 Natürlichkeit,DANC
@@ -1042,28 +906,23 @@ Neoklassik,STYL
 Netz,JOUR
 Neuenburg,LOC
 Neujahr,MISC
-Neumeier,MISC;PER
 Neumeiergetanzt,LOC
 Neuproduktion,DANC
 New York City,LOC
 New York City Ballet,LOC
-Newa,LOC
 Nicholas Beriozoff,PER
 Nicht-menschlichen,MISC
-Niddy Impekoven,LOC
+Niddy Impekoven,PER
 Nie Rock n´ roll,MISC
 Niels Björn Larsen,PER
-Nijinska,LOC
-Nijinsky,PER
+Nikita Sergejewitsch Chruschtschow,PER
 Nikita Sergejewitsch Cruschtschow,PER
 Nikolais,LOC;PER
 Nikolaus I.,PER
 Nil,LOC
-Nils,PER
 Nina Corti,PER
 Nina Macciacchini,PER
 Ninette de Valois,PER
-Niobe,PER
 Nora Güldenstein,PER
 Nordamerika,LOC
 Nordkap,LOC
@@ -1072,11 +931,6 @@ Notation,PROC
 Noten,DANC
 Notiz,JOUR
 Novellen,STYL
-Noverre,LOC
-Noverres,PER
-Nurejew,PER
-Nurejew-Fans,ORG
-Nurejews,PER
 Nussknacker,WORK
 Nyon,LOC
 Nördlichen Kap,LOC
@@ -1085,36 +939,32 @@ Obergericht,LOC
 Oberkörper,BODY
 Oberleiter,DANC
 Objektivität,DANC
-Off-Szene,LOC
 Ohad Naharin,PER
 Ohren,BODY
 Ohropax,MISC;ORG
 Okay,MISC
+Olivier Dubois,PER
 Oper,STYL
 Operette,STYL
 Operetten-Darsteller,ORG
-Operetten-Laientheater,LOC
 Operetteneinlage,MISC
 Operneinlagen,MISC
 Opernhaus,LOC
 Opernhaus-Aufführungen,MISC
-Opernhaus-Kravallen,LOC
 Opernprogramme,MISC
-Opernvorstellungen,LOC
 Oppenheim,PER
 Opéra von Genf,ORG
 Oral History,LOC;MISC
 Orchester,STYL
 Organ,BODY
-Orlikowski,LOC
 Orlikowsky,ORG
 Ostafrika,LOC
 Ostdeutschland,ORG
 Ostern,MISC
 Ostersamstag,MISC
 Otello,WORK
+Othello,WORK
 P,LOC;MISC;ORG;PER
-P Ja,LOC
 P:,MISC;PER
 P: Ich,MISC
 P: Ich bin keine Tänzerin,MISC
@@ -1125,8 +975,6 @@ PC,JOUR
 PERFEKT,ORG
 Palmyra,LOC
 Pantomime,DANC
-Pany,LOC
-Papa Beriozoff,PER
 Paquita,LOC;MISC
 Parenthese,LOC
 Paris,LOC
@@ -1135,22 +983,16 @@ Pariser Oper,ORG
 Parzival,WORK
 Pas de Deux,DANC
 Pas de Six,WORK
-Pas de basque,LOC
 Pas de deux,DANC
-Pas de trois,LOC
-Pastori,PER
 Pat Neary,PER
 Pathetische,MISC
 Patrice Bart,PER
 Paul Taylor,PER
-Pawlowa,PER
-Peer Gynt,PER
+Peer Gynt,WORK
 Pellaton,PER
 Pereira,LOC;PER
 Performance,STYL
 Permit,MISC
-Perrottet,ORG
-Perrottethinaus,PER
 Pessimistische,ORG
 Peter Schaufuss,PER
 Peter Schilling,PER
@@ -1159,17 +1001,14 @@ Peter von Matt,PER
 Petersburg,LOC
 Petersburger,LOC
 Petipa,PER
-Petipa-Iwanow,LOC
 Petrograd,LOC
 Pfauentheater,LOC;ORG
 Pfrundhaus,LOC
+Philippe Cohen,PER
 Philippe Saire,PER
 Phänomenal,MISC
-Pia,PER
 Pia Mlakar,PER
 Pianist,DANC
-Picasso,PER
-Pina,PER
 Pina Bausch,PER
 Pina Pausch,PER
 Pino Mlakar,PER
@@ -1179,22 +1018,16 @@ Platel,MISC;PER
 Platzierung,DANC
 Politik,DANC
 Polnisch,MISC
-Pontormo,PER
 Pop,STYL
-Popescu,PER
 Portrait-Ordner,MISC
 Porträt,JOUR
-Portugiesen,LOC
 Postmoderne,STYL
 Potifar,LOC
 Prag,LOC
 Premiere,DANC
 Presse,JOUR
 Pressedossier,JOUR
-Pressefrau,LOC
-Preston-Dunlop,PER
 Pretoria,LOC
-Prinz,PER
 Prix Benois,MISC
 Prix de Lausanne,MISC
 Prix de Nyon,MISC
@@ -1207,10 +1040,8 @@ Produktion,DANC
 Produktionsbedingungen,PROC
 Programm,JOUR
 Programmheft,DANC
-Prokofiev,PER
 Präsenz,DANC
 Pseudo-Rekonstruktionen,MISC
-Psychologietests,PER
 Publikation,JOUR
 Publikationsorgane,MISC
 Publikum,DANC
@@ -1222,11 +1053,8 @@ RIESIGEN,ORG
 Ragaz,LOC
 Ratmanski,MISC;PER
 Ratmansky,MISC;PER
-"Ratmansky-""Schwanensee",LOC
-Raumharmonie,PER
-Raumharmonielehre,LOC
+"Ratmansky-""Schwanensee",WORK
 Raumtheater,MISC
-Raumwegen,LOC
 Rausch,DANC
 Raymonda,WORK
 Recherche,JOUR
@@ -1258,13 +1086,10 @@ Rhythmus,DANC
 Riccardo Duse,PER
 Richard Merz,PER
 Richtungswechsel,DANC
-Rieckmann,PER
 Rigiblick,LOC
-Rink,PER
-Robbins,PER
+Robert Joffrey,PER
 Rock,STYL
 Rock the Ballet,ORG
-Roger Georg,PER
 Roger George,PER
 Roger GeorgeNachlass,MISC
 Rokoko-artig,MISC
@@ -1274,10 +1099,8 @@ Romane,STYL
 Romantik,STYL
 Romeo,MISC;PER
 Rondal,LOC
-Rosalia,WORK
 Rosalia Chladek,PER
-Rosenkavalier,PER
-Rossi,PER
+Rosenkavalier,WORK
 Rot und Schwarz,MISC
 Rote Fabrik,ORG
 Roten Fabrik,ORG
@@ -1288,7 +1111,6 @@ Rudolf von Laban,PER
 Russen,MISC
 Russes-Tänzer,MISC
 Russisch,MISC
-Russistik,PER
 Russland,LOC
 Ruvina,LOC
 Rämibühl,LOC
@@ -1304,19 +1126,15 @@ SBTG,MISC;ORG
 SCHREIBEN,JOUR
 SEHR,MISC
 SEIN Buch,MISC
-SIE,LOC
 SO,LOC;ORG
 SONST,MISC
 SPÄTER,ORG
 STEHEN,MISC
-Saaltexte,LOC
-Sacharoff,LOC;PER
 Sacharoff-Stücke,LOC
 Sacre,WORK
 Sacre du Printemps,WORK
 Safari,MISC
 Saint-Léon,LOC;PER
-Saint-Saëns’,PER
 Samarkand,LOC
 Samson und Dalila,WORK
 Samstag-Morgen,MISC
@@ -1328,24 +1146,18 @@ Schatzalp,LOC
 Schaupielhaus,LOC
 Schauspiel,STYL
 Schauspielhaus,LOC
-Schild Rämistrasse 3,LOC
-Schiller,PER
-Schläpfer,PER
 Schockstarre,MISC
 Scholz,LOC;PER
-Scholz da,LOC
 Schreiben,JOUR
 Schreibrausch,JOUR
 Schreibzustand,JOUR
 Schriftstellerei,STYL
 Schritt,DANC
-Schubert,PER
 Schule,PROC
 Schulpräsentationen,PROC
 Schwanensee,WORK
 "Schwanensee""-Aufführung",WORK
 "Schwanensee""-Lektionen",WORK
-Schwarzafrikaner,LOC
 Schweden,LOC
 Schweiz,LOC
 Schweizer,MISC
@@ -1354,8 +1166,6 @@ Schweizer Tanzarchiv,ORG
 Schweizer Theaterlexikon,MISC
 Schweizer Theaterlexikongearbeitet,MISC
 Schweizer Theatersammlungen,ORG
-Schweizerin,MISC
-Schweizerisch,LOC
 Schweizerische,MISC
 Schweizerische Ballettberufsschule,ORG
 Schweizerische Berufsverband für Tanz und Gymnastik,ORG
@@ -1366,19 +1176,14 @@ Schweizerischen Tanzarchiv,ORG
 Schweizerisches,MISC
 Schweizern,LOC
 Schwere,DANC
-Schwerttanz,LOC
-Schwester,PER
-Schwester Vroni,PER
-Schöck,PER
 Schönes,MISC
 Schütteltanz,STYL
-Seegfrörni,LOC
 Seerosen-,MISC
 Sek,ORG
 Selbstverlag,JOUR
 Selbstverständnis,DANC
-Selfmade-Man,LOC
-Sergejew,PER
+Serge Lifar,PER
+Sergej Prokofiev,PER
 Sesenheim,LOC
 Short Pieces,WORK
 Shortpieces,WORK
@@ -1387,34 +1192,27 @@ Showtanz,STYL
 SiViC,ORG
 SiWiC,MISC
 Sibirien,LOC
-Siegmund,PER
 Sigurd Leeder,PER
 Sigurd Leeder School of Dance,ORG
-Simjoneval,PER
 Simon Bauer,PER
 Simone Aughterlony,PER
 Singen,LOC
 Singspiel,STYL
 Sissi,WORK
 Skating Rink,MISC
-Skating-Rink-Projekt,LOC
 Skoronel,LOC
-Sohn,PER
 Soloabend,DANC
 Soloabende,DANC
 Solotänzer,DANC
 Soloviëv,LOC
 Solveig,WORK
-Sommerkursen,LOC
 Sophie Taeuber,PER
 Sowjetzeit,ORG
-Spanier,LOC
 Spannung,DANC
 Spektakel,DANC
 Spielplan,DANC
 Spielzeit,DANC
 Spirale,DANC
-Spitz,LOC
 Spitzbergen,LOC
 Spitze,BODY
 Spitzenschuh,DANC
@@ -1428,7 +1226,6 @@ St. Cuthbert’s,LOC
 St. Gallen,LOC
 St. Petersburg,LOC
 St. Petersburger Klassik,ORG
-Staaten,LOC
 Stabilität,DANC
 Stadelhofen,LOC
 Stadt,LOC
@@ -1436,15 +1233,13 @@ Stadt Lausanne,LOC
 Stadt Zürich,LOC
 Stadthaus,LOC
 Stadttheater,LOC
-Staiger,PER
-Stalin,PER
 Statisterie,DANC
 Stendal,LOC
 Stenografie,JOUR
 Stepanov,LOC;PER
 Stepanov-Notation,LOC
 Stepanov-Notationen,MISC
-Stepanow-Notation,LOC
+Stepanow-Notation,PROC
 Stephanie Jordan,PER
 Steps,ORG
 Stichwort,JOUR
@@ -1452,50 +1247,42 @@ Stijn Celis,PER
 Stil,DANC
 Stile,STYL
 Stimmung,DANC
-Strawinsky,PER
 Street-Tänzer,MISC
 Streetdance,STYL
 Stuttgart,LOC
 Stuttgarter,MISC
 Stuttgarter Balletttage,ORG
 Stuttgarter Zeitung,ORG
-Stöpsel,LOC
 Sudan,LOC
 Susana,MISC;PER
-Suzanne Perrottet,MISC;PER
+Suzanne Perrottet,PER
 Suédoise,MISC
 Swanlake,WORK
 Sylphide-Gewand,WORK
-Sylphides,PER
+Sylphides,WORK
 Sylvia Garcia,PER
 Sylvie Guillem,PER
-Sylvie Guillem-Typ,PER
 Symmetrie,DANC
 Symposium,JOUR
 Syrien,LOC
 Szene,DANC
 Sziget Massin,PER
-Szigeti Cecchetti,PER
 Sänger,DANC
 Sätze,JOUR
-Säulensachen,LOC
 Südafrika,LOC
-Südafrikaner,LOC
 Südostanatolien,LOC
 Südsudan,LOC
 Südwestafrika,LOC
-TAZ,ORG
 TONNENWEISE,ORG
 TOTAL,ORG
 Tag auf der Bühne,MISC
 Tag des Tanzes,MISC
 Tag essen,MISC
 Tagi,ORG
-Tamuté,PER
 Tanz,DANC
 Tanz in Stücken,MISC
 Tanz-November,MISC
-TanzKRITIKER,MISC
+TanzKRITIKER,JOUR
 Tanzarchiv,LOC;ORG;PER
 Tanzarchiv Lausanne,ORG
 Tanzarchiv Zürich,ORG
@@ -1511,28 +1298,24 @@ Tanzgeschichte-Unterricht,MISC
 Tanzjournalismus,DANC
 Tanzkommission,DANC
 Tanzkongress,MISC
-Tanzkoordination,LOC
 Tanzkritiken,ORG
-Tanzkritiker,LOC
+Tanzkritiker,JOUR
 Tanzkritiker-Papst,MISC
-Tanzkritikern,LOC
+Tanzkritikern,JOUR
 Tanznetz,MISC
 Tanznovember,MISC;PER
 Tanzpreisträger,DANC
 Tanzproben,PROC
 Tanzschaffende,LOC;ORG
 Tanzschaffenden,MISC;PER
-Tanzschauen,LOC
 Tanztheaterschule,LOC
 Tanzvorstellungen,LOC
 Tanzwissenschaft,DANC
 Tatjana Gsovsky,PER
 Technik,DANC
-Teen-Meet,LOC
 Tempo,DANC
 Tendu,DANC
 Terpis,LOC;MISC
-Terpis Kreutzberg,LOC
 Tessin,LOC
 Text,JOUR
 Thaddäus Kloster,LOC
@@ -1544,8 +1327,6 @@ Theater 11,LOC
 Theater St. Gallen,LOC
 Theater Winterthur,LOC
 Theater am Stadtgarten,LOC
-Theater zu Theater,LOC
-Theater-AG,LOC
 Theaterballett,STYL
 Theatergeschichte,JOUR
 Theaterleiter,DANC
@@ -1560,7 +1341,6 @@ Théâtre du Châtelet,LOC
 Tierpärke,LOC
 Tigran,MISC
 Timing,DANC
-Tina,PER
 Titel,WORK
 Tollsten,MISC
 Tom hast du,MISC
@@ -1582,17 +1362,15 @@ Trix Gutekunst,ORG;PER
 Trudi Schoop,PER
 Tschaikowsky,PER
 Tschaikowsky-Ballette,LOC
-Tschaikowsky-Klavierkonzert,PER
 Tschechisch,MISC
 Tschumi,LOC
 Turicum,LOC
-Tutus,PER
+Tutu,DANC
 Twyla Tharp,PER
 Tänzerisch-schwungvolle,MISC
 Tänzerleistungen,MISC
 Tänzerpaar,MISC
 Töchter-Schule,ORG
-Töchterschülerinnen,LOC
 Tödi,LOC
 Uetliberg,LOC
 Uganda,LOC
@@ -1600,21 +1378,15 @@ Ulanowa,LOC
 Uliza Rossi,PER
 Ulla Kasics,PER
 Ulm,LOC
-Ulrich,PER
 Undine,MISC
-Unfalldienst-Patienten,ORG
 Ungarisch,MISC
 Uni Zürich,ORG
 Universität,JOUR
 Universität Zürich,ORG
-Unruhiges,PER
 Unterricht,PROC
 Uraufführung,DANC
 Urfa,LOC
 Urgrossvater,MISC
-Ursula,PER
-Ursula Fraevel,PER
-Ursula Frävel,PER
 Ursula Pellaton,PER
 Ursulas,PER
 Usbekistan,LOC
@@ -1623,17 +1395,14 @@ VERÖFFENTLICHTE,ORG
 VHS,JOUR
 VHS-Kassette,MISC
 VIELE,ORG
-VOLLSTÄNDIG,LOC
 VW Caravan,MISC
-Valérie Preston-Dunlop,PER
-Van Mannen,PER
+Valerie Preston-Dunlop,PER
 Variation,DANC
 Variation getanzt,PROC
 Vashegyi,LOC
 Vaslaw Nijinsky,PER
 Venedig,LOC
 Vera Skoronel,LOC
-Verdi,PER
 Verdi-Requiem,ORG
 Verletzlichkeit,BODY
 Vermittlung,DANC
@@ -1643,7 +1412,7 @@ Videos,MISC
 Vierertakt,MISC
 Vierwaldstättersee,LOC
 Vimeo,ORG
-Vivandière,PER
+Vivandière,WORK
 Vivandière-Pas de Six,WORK
 Volksgesang,LOC
 Volkskunst,STYL
@@ -1655,18 +1424,15 @@ Véronique Doisneau,PER
 W,LOC;PER
 WIE,MISC
 WIEDER,MISC
-WILL,LOC
 WIRKLICH,MISC
-WO,LOC
 Wadi Halfa,LOC
 Waganowa,LOC;PER
 Waganowa-Akademie,LOC
 Waganowa-Ausbildung,MISC
-Waganowa-trainiert,PER
+Waganowa-Methode,DANC
 Walzer,STYL
 Wandervogel,ORG
 Warschau,LOC
-Wehrli,PER
 Weihnacht,MISC
 Weihnachten,MISC
 Weihnachtsmärchen,STYL
@@ -1680,16 +1446,13 @@ Welscher,MISC
 Welscher Gruppe,ORG
 Welschland,LOC
 Weltgeist,DANC
-Welti,PER
 Weltrum,ORG
 Westend,LOC
 Westend-Theater,MISC
 Wiederholung,DANC
 Wien,LOC
-Wiesenthal,PER
 Wieso,LOC;PER
 Wieso magst du den,MISC
-Wigman,PER
 Wikipedia,JOUR
 Wikipedia-Einträge,MISC
 Wild Coast,LOC
@@ -1703,22 +1466,19 @@ Windhoek,LOC
 Winterpalast,LOC
 Winterreise,MISC
 Winterthur,LOC
-Winterthurer,LOC
 Winterthurer Zeitung,ORG
 Wolfgang,LOC;ORG;PER
+Wolfgang Amadeus Mozart,PER
 Wolfgang Binder,PER
 Wolfgang Brunner,PER
 Wolfgang und Eve,MISC
 Wollen,MISC
-Wollendecke,LOC
 Woran,LOC
 Wort,JOUR
-Wunderbar,PER
 Währendem,LOC
 Würdest du,MISC
 Yen Han,MISC
 YouTube,JOUR
-Yuresha,PER
 ZAUBERHAFTE,ORG
 ZB,ORG
 ZEIT,MISC
@@ -1728,7 +1488,6 @@ Zadie Mayer,PER
 Zaire,LOC
 Zarenkunst,DANC
 Zauberflöte,MISC
-Zehn-Minuten-Stücke,LOC
 Zeit,MISC
 Zeit der Apartheid,MISC
 Zeit der Sommerkurse,MISC
@@ -1742,12 +1501,10 @@ Zentralafrika,LOC
 Zentraleuropäischer Tanz,STYL
 Zentrum,ORG
 ZhdK,MISC
-Zikkurat,PER
 Zimbabwe,LOC
 Zoo,LOC
 Zufall,DANC
 Zululand,LOC
-Zusammenhängendes,LOC
 Zweifinger-System,JOUR
 Zweite Reise,MISC
 Zweiten Weltkrieg,MISC
@@ -1756,14 +1513,11 @@ Zürcher,MISC
 Zürcher Balletts,ORG
 Zürcher Landboten,ORG
 Zürcher Truppe,ORG
-Zürcher Zeit,LOC
-Zürcherin,LOC
 Züri West,ORG
 Züri-Fest,LOC
 Züriberg,LOC
 Zürich,LOC
 Zürichdeutschen Wörterbuch,MISC
-Züricher,LOC
 Zürichsee Zeitung,ORG
 Zürichsee-Zeitung,ORG
 abstrakt,DANC
@@ -1774,10 +1528,8 @@ amerikanische,MISC
 anglo-anglikanisches,MISC
 arabische,MISC
 authentisch,DANC
-de Lutry,LOC
 dem Krieg,MISC
 der Schweiz,LOC
-derFranz Frautschi,PER
 derSpoerli,ORG
 derTAZ,ORG
 deutsche,MISC
@@ -1829,17 +1581,13 @@ schwedische,MISC
 spanische,MISC
 spanischen,MISC
 systematisieren,JOUR
-taZ,LOC
 theatralisch,DANC
 tippen,JOUR
 ungarischen,MISC
 unprofessionell,DANC
 unterricht,PROC
-van Manen,PER
-zuChopin,LOC
 zweiten Weltkrieg,MISC
 Ägypten,LOC
-Ägyptern,LOC
 Étoiles,ORG
 Österreich,LOC
 ÜBERALL,ORG
@@ -1849,7 +1597,6 @@ zweiten Weltkrieg,MISC
 Übung,PROC
 Übung macht,PROC
 Übungen sind,PROC
-à la Graham,PER
 ägyptische,MISC
 ästhetisch,DANC
 ​,LOC
